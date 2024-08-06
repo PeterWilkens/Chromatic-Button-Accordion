@@ -5,15 +5,17 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>C System Chromatic Button Accordion</title>
+    <subtitle>Including Stradella and Free-Bass</subtitle>
 
+    
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
-
     <!-- Include chapters -->
     <xi:include href="./ch-chapter-title.ptx" />
-
+    <xi:include href="./ch-scales.ptx" />
+    <xi:include href="./ch-chords.ptx" />
+    
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

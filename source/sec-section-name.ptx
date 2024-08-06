@@ -1,8 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+<section> xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude"
+  <title>Intervals</title>
+  <p>Before discussing scales it is useful to understand how intervals between notes are described.</p>
 
-  <p> Text of section. </p>
+  <p>The musical distance between notes on  your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
+  <p>The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.</p>
+
+  <table>
+    <title>Number Count for the different intervals</title>
+    <tabular>
+      <row header="yes">
+        <cell>Interval Type</cell>
+        <cell>Count between notes</cell>
+      </row>
+      <row>
+        <cell>Minor 2nd</cell>
+        <cell>2 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 2nd</cell>
+        <cell>3 Semitones</cell>
+      </row>
+      <row>
+        <cell>Minor 3rd</cell>
+        <cell>4 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 3rd</cell>
+        <cell>5 Semitones</cell>
+      </row>
+      <row>
+        <cell>Perfect 4th</cell>
+        <cell>6 Semitones</cell>
+      </row>
+      <row>
+        <cell>Flat 5</cell>
+        <cell>7 Semitones</cell>
+      </row>
+      <row>
+        <cell>5th</cell>
+        <cell>8 Semitones</cell>
+      </row>
+      <row>
+        <cell>Augmented 5th</cell>
+        <cell>9 Semitones</cell>
+      </row>
+      <row>
+        <cell>6th</cell>
+        <cell>10 Semitones</cell>
+      </row>
+      <row>
+        <cell>Minor 7th</cell>
+        <cell>11 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 7th</cell>
+        <cell>12 Semitones</cell>
+      </row>
+    </tabular>
+  </table>
+
+
+
+ 
+   <figure width="80\%" xml:id="master-58-b-de-luxe">
+     <image source="master-58-b-de-luxe.jpg">
+     <shortdescription>A Typical Chromatic Button Accordion</shortdescription>
+      </image>
+     
+  </figure>
+  
+
+
+
+
 
 </section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section>xml:id="major-scale-col-1" xmlns:xi="http://www.w3.org/2001/XInclude"
+  <title>Major Scale</title>
+  <p>This shape can be moved to any position on the keyboard and the Major scale name is given by the tonic (note 1) of the scale.</p>
+  
+  
+  <figure width="100\%" xml:id="major-scales-column-1">
+    <image source="major-scales-column-1.jpg">
+        <shortdescription>Major Scale shape Column 1</shortdescription>
+    </image> 
+ </figure>
+</section>
