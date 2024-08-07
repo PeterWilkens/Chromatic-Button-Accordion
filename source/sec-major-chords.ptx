@@ -2,13 +2,19 @@
 
 <section>xml:id="major-chords" xmlns:xi="http://www.w3.org/2001/XInclude"
   <title>Major Chords</title>
-  <p>This shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.</p>
-  
+  <p>These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.</p>
   
   <figure width="100\%" xml:id="major-chords">
     <image source="Maj 7th Chords.png">
         <shortdescription>Major 7th Chord Shape Diagram</shortdescription>
    </image>
+   </figure>
 
- </figure>
+   <figure width="100\%" xml:id="major-7th-chords">
+    <image source="Major 7th_CHORD-diuagrams.png">
+        <shortdescription>Major 7th Chord Shape Diagram</shortdescription>
+   </image>
+   </figure>
+  
+
 </section>
