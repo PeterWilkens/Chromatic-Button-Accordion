@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Introduction",
-  "body": "xml:id=\"ch-chapter-title\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Introduction   This Manual describes the C System Chromatic Button Accordion with both Stradella and Free Bass.  The intention is to present information and knowledge, where applicable to the accordion, gained by the author after many years of playing finger-style guitar.  The author was particularly drawn to the button accordion (rather than the piano accordion); noting that Chord and Scale construction on this type of keyboard allow the use of consistent shapes, specific to different Chord and Scale Types, that may be moved anywhere on the keyboard giving a chord identified by the Tonic in that shape.  This use of fingering shapes is similar to the way in which different Chords and Scales are represented in many resources used by Guitar Players, removing the need to read music whilst still being able to learn about Scale and Chord construction and gaining access to the many Chord Progressions. A relatively small number of shapes cover all Scale Chord Types in all inversions.   "
+  "body": "xml:id=\"ch-chapter-title\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Introduction   This Manual describes the C System Chromatic Button Accordion with both Stradella and Free Bass.  The intention is to present information and guidance, where applicable to the accordion, gained by the author after many years of playing finger-style guitar.  The author was particularly drawn to the button accordion (rather than the piano accordion); noting that Chord and Scale construction on this type of keyboard allow the use of consistent shapes, specific to different Chord and Scale Types, that may be moved anywhere on the keyboard giving a chord identified by the Tonic in that shape.  This use of fingering shapes is similar to the way in which different Chords and Scales are represented in many resources used by Guitar Players, removing the need to read music whilst still being able to learn about Scale and Chord construction and gaining access to the many Chord Progressions. A relatively small number of shapes cover all Scale Chord Types in all inversions.   "
 },
 {
   "id": "ch-scales-2",
@@ -98,6 +98,24 @@ var ptx_lunr_docs = [
   "number": "3.2.1",
   "title": "",
   "body": "  Major 7th Chord Shape Diagram   "
+},
+{
+  "id": "ch-chord-progressions-2",
+  "level": "1",
+  "url": "ch-chord-progressions-2.html",
+  "type": "Section",
+  "number": "4.1",
+  "title": "Major ii-V-I",
+  "body": "xml:id=\"sec-251-progression\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Major ii-V-I  This progression should be practiced in all keys. The most effective method is to use the circle of fifths as discussed in XXXXXXX.    Diagrams of ii V I progressions    "
+},
+{
+  "id": "2-5-1-chord-progression",
+  "level": "2",
+  "url": "ch-chord-progressions-2.html#2-5-1-chord-progression",
+  "type": "Figure",
+  "number": "4.1.1",
+  "title": "",
+  "body": "  Diagrams of ii V I progressions   "
 },
 {
   "id": "backmatter-2",
