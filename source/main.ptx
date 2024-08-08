@@ -15,7 +15,7 @@
     <xi:include href="./ch-chapter-title.ptx" />
     <xi:include href="./ch-scales.ptx" />
     <xi:include href="./ch-chords.ptx" />
-    
+    <xi:include href="./ch-chord-progressions.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
