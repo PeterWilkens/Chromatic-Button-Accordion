@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "  My Website   copyright  "
+  "body": "  https:\/\/peterwilkens.github.io\/Chromatic-Button-Accordion\/my-great-book.html   copyright  "
 },
 {
   "id": "my-great-book-4",
