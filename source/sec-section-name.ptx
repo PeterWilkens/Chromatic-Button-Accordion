@@ -63,6 +63,18 @@
 
 
 
+  <section>xml:id="Intervals" xmlns:xi="http://www.w3.org/2001/XInclude"
+    <title>Interval Shapes</title>
+    <p>These shapes can be moved to any position on the keyboard.</p>
+    
+    
+    <figure width="100\%" xml:id="Intervals">
+      <image source="Intervals.png">
+          <shortdescription>Various Interval Shapes</shortdescription>
+      </image> 
+   </figure>
+  </section>
+
  
    <figure width="80\%" xml:id="master-58-b-de-luxe">
      <image source="master-58-b-de-luxe.jpg">
