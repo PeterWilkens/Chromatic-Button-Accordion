@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Intervals",
-  "body": "xml:id=\"sec-section-name\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones       A Typical Chromatic Button Accordion    "
+  "body": "xml:id=\"sec-section-name\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones     xml:id=\"Intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Interval Shapes  These shapes can be moved to any position on the keyboard.    Various Interval Shapes       A Typical Chromatic Button Accordion    "
 },
 {
   "id": "ch-scales-2-5",
@@ -35,6 +35,15 @@ var ptx_lunr_docs = [
   "number": "2.1.1",
   "title": "Number Count for the different intervals",
   "body": " Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones    "
+},
+{
+  "id": "Intervals",
+  "level": "2",
+  "url": "ch-scales-2.html#Intervals",
+  "type": "Figure",
+  "number": "2.1.1",
+  "title": "",
+  "body": "  Various Interval Shapes   "
 },
 {
   "id": "master-58-b-de-luxe",
