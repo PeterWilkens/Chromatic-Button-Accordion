@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section> xml:id="sec-scales" xmlns:xi="http://www.w3.org/2001/XInclude"
+  <title>Scales</title>
+ <introduction>
+
+  <p> Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.</p>
+</introduction>
+ 
+<subsection> xml:id="major-scale-col-1"
+ <title>Major Scales Built on Column 1 C, A, E flat and G flat</title>
+  <xi:include href="major-scale-col-1.ptx" />
+</subsection>
+</section>

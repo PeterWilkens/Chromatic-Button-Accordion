@@ -4,7 +4,7 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
+  <book xml:id="my-book">
     <title>C System Chromatic Button Accordion</title>
     <subtitle>Including Stradella and Free-Bass</subtitle>
 
@@ -12,8 +12,8 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-    <xi:include href="./ch-scales.ptx" />
+    <xi:include href="./ch-overall-introduction.ptx" />
+   <xi:include href="./ch-scales-intervals.ptx" />
     <xi:include href="./ch-chords.ptx" />
     <xi:include href="./ch-chord-progressions.ptx" />
 
