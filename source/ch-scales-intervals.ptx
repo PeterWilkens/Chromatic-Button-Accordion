@@ -8,8 +8,8 @@
 
 
   <!-- include sections -->
- <xi:include href="sec-scales.ptx" />
+ <!--<xi:include href="sec-scales.ptx" />-->
  <xi:include href="sec-intervals.ptx" />
-<!--<xi:include href="major-scale-col-1.ptx" />-->
+
 
   </chapter>

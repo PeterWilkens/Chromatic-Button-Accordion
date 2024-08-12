@@ -2,13 +2,85 @@
 
 <section> xml:id="sec-scales" xmlns:xi="http://www.w3.org/2001/XInclude"
   <title>Scales</title>
- <introduction>
+  
+    <p> Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.</p>
 
-  <p> Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.</p>
-</introduction>
  
-<subsection> xml:id="major-scale-col-1"
- <title>Major Scales Built on Column 1 C, A, E flat and G flat</title>
-  <xi:include href="major-scale-col-1.ptx" />
-</subsection>
+
+  <table>
+    <title>Number Count for the different intervals</title>
+    <tabular>
+      <row header="yes">
+        <cell>Interval Type</cell>
+        <cell>Count between notes</cell>
+      </row>
+      <row>
+        <cell>Minor 2nd</cell>
+        <cell>2 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 2nd</cell>
+        <cell>3 Semitones</cell>
+      </row>
+      <row>
+        <cell>Minor 3rd</cell>
+        <cell>4 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 3rd</cell>
+        <cell>5 Semitones</cell>
+      </row>
+      <row>
+        <cell>Perfect 4th</cell>
+        <cell>6 Semitones</cell>
+      </row>
+      <row>
+        <cell>Flat 5</cell>
+        <cell>7 Semitones</cell>
+      </row>
+      <row>
+        <cell>5th</cell>
+        <cell>8 Semitones</cell>
+      </row>
+      <row>
+        <cell>Augmented 5th</cell>
+        <cell>9 Semitones</cell>
+      </row>
+      <row>
+        <cell>6th</cell>
+        <cell>10 Semitones</cell>
+      </row>
+      <row>
+        <cell>Minor 7th</cell>
+        <cell>11 Semitones</cell>
+      </row>
+      <row>
+        <cell>Major 7th</cell>
+        <cell>12 Semitones</cell>
+      </row>
+    </tabular>
+  </table>
+
+
+
+  <subsection>xml:id="Interval-shapes" xmlns:xi="http://www.w3.org/2001/XInclude"
+    <title>Interval Shapes</title>
+    <p>These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.</p>
+    <p>Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can  also be very useful in sight reading and I hope to include some examples of this later in the manual.</p>
+    
+    <figure width="100\%" xml:id="Intervals">
+      <image source="Intervals.png">
+          <shortdescription>Various Interval Shapes</shortdescription>
+      </image> 
+   </figure>
+  </subsection>
+
+ 
+   <figure width="80\%" xml:id="master-58-b-de-luxe">
+     <image source="master-58-b-de-luxe.jpg">
+     <shortdescription>A Typical Chromatic Button Accordion</shortdescription>
+      </image>
+     
+  </figure>
+
 </section>
