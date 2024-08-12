@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chromatic-button-accordion" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>The Chromatic Button Accordion </title>
+<introduction>
+    <p> Describe how this type of accordion is constructed.</p>
+</introduction>
+
+<figure width="80\%" xml:id="master-58-b-de-luxe">
+    <image source="master-58-b-de-luxe.jpg">
+    <shortdescription>A Typical Chromatic Button Accordion</shortdescription>
+     </image>
+    
+ </figure>
+
+ </chapter>
