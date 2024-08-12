@@ -25,7 +25,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Scales",
-  "body": "xml:id=\"sec-scales\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scales   Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.   xml:id=\"major-scale-col-1\" Major Scales Built on Column 1 C, A, E flat and G flat    "
+  "body": "xml:id=\"sec-scales\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scales  Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes    Tonic to Note 2  Whole Tone    Note 2 to Note 3  Whole Tone    Note 3 to Note 4  Half Tone    Note 4 to Note 5  Whole Tone    Note 5 to Note 6  Whole Tone    Note 6 to Note 7  Whole Tone    Note 7 to Tonic  Half Tone     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different Scales.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
+},
+{
+  "id": "ch-scales-intervals-3-3",
+  "level": "2",
+  "url": "ch-scales-intervals-3.html#ch-scales-intervals-3-3",
+  "type": "Table",
+  "number": "2.1.1",
+  "title": "Tones between different degrees of a Major Scale.",
+  "body": " Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes    Tonic to Note 2  Whole Tone    Note 2 to Note 3  Whole Tone    Note 3 to Note 4  Half Tone    Note 4 to Note 5  Whole Tone    Note 5 to Note 6  Whole Tone    Note 6 to Note 7  Whole Tone    Note 7 to Tonic  Half Tone    "
+},
+{
+  "id": "scale-col-1",
+  "level": "2",
+  "url": "ch-scales-intervals-3.html#scale-col-1",
+  "type": "Figure",
+  "number": "2.1.2",
+  "title": "",
+  "body": "  Scales from Col 1   "
 },
 {
   "id": "ch-scales-intervals-4",
@@ -34,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Intervals",
-  "body": "xml:id=\"sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones     xml:id=\"Interval-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Interval Shapes  These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.    Various Interval Shapes       A Typical Chromatic Button Accordion    "
+  "body": "xml:id=\"sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones     xml:id=\"Interval-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Interval Shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     Various Interval Shapes       A Typical Chromatic Button Accordion    "
 },
 {
   "id": "ch-scales-intervals-4-5",
