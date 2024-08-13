@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "2",
   "title": "The Chromatic Button Accordion",
-  "body": " The Chromatic Button Accordion   Describe how this type of accordion is constructed.     A Typical Chromatic Button Accordion    "
+  "body": " The Chromatic Button Accordion   This type of accordion is characterised by the Buttons on the Right hand (Treble Side). The Treble buttons are arranged chromatically in a number of columns. In the accordion I am considering in this manual, there are 5 columns, but the last two, nearest the bellows, duplicate notes already found in the first three rows. The additional rows allow more options in fingering. There are some smaller accordions that have only the first three rows without duplication. Diagram XXX shows a detailed arrangement of the keys on the treble side.  In the most common type of chromatic accordion, with a Stradella bass, the bass and chord buttons are arranged in six columns parallel to the bellows. The columns are: Counter Bass, Bass, Maj Chord, Minor Chord, 7th Chord and Diminished Chord. The basses are arranged in intervals of a fifth and the chords follow the second row of basses. See Diagram YYYYY showing detailed arrangement of the keys on a Stradella Bass instrument.  In the Free Bass accordion the outer-most 4 columns are arranged chromatically. In the C System the left hand keyboard mirrors the treble keys allowing much more freedom of chord choice and construction than on a Stradella bass allbeit at the expenditure of more mental effort by the player. See Diagram ZZZZZ of the Free-Bass layout     A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.    "
 },
 {
   "id": "master-58-b-de-luxe",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "2.0.1",
   "title": "",
-  "body": "  A Typical Chromatic Button Accordion   "
+  "body": "  A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.   "
 },
 {
   "id": "sec-intervals",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Scales",
-  "body": " Scales  Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes    Tonic to Note 2  Whole Tone    Note 2 to Note 3  Whole Tone    Note 3 to Note 4  Half Tone    Note 4 to Note 5  Whole Tone    Note 5 to Note 6  Whole Tone    Note 6 to Note 7  Whole Tone    Note 7 to Tonic  Half Tone     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different Scales.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
+  "body": " Scales  Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different Scales.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
 },
 {
   "id": "sec-scales-3",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "3.2.1",
   "title": "Tones between different degrees of a Major Scale.",
-  "body": " Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes    Tonic to Note 2  Whole Tone    Note 2 to Note 3  Whole Tone    Note 3 to Note 4  Half Tone    Note 4 to Note 5  Whole Tone    Note 5 to Note 6  Whole Tone    Note 6 to Note 7  Whole Tone    Note 7 to Tonic  Half Tone    "
+  "body": " Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd    "
 },
 {
   "id": "scale-col-1",
