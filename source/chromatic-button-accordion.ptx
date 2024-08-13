@@ -3,14 +3,22 @@
 <chapter xml:id="chromatic-button-accordion" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>The Chromatic Button Accordion </title>
 <introduction>
-    <p> Describe how this type of accordion is constructed.</p>
+
+  <p>This type of accordion is characterised by the Buttons on the Right hand (Treble Side). The Treble buttons are arranged chromatically in a number of columns. In the accordion I am considering in this manual, there are 5 columns, but the last two, nearest the bellows, duplicate notes already found in the first three rows. The additional rows allow more options  in fingering. There are some smaller accordions that have only the first three rows without duplication. Diagram XXX shows a detailed arrangement of the keys on the treble side.</p> 
+   
+    <p> In the most common type of chromatic accordion, with a Stradella bass, the bass and chord buttons are arranged in six columns parallel to the bellows. The columns are: Counter Bass, Bass, Maj Chord, Minor Chord, 7th Chord and Diminished Chord. The basses are arranged in intervals of a fifth  and the chords follow the second row of basses. See Diagram YYYYY showing detailed arrangement of the keys on a Stradella Bass instrument. </p>
+
+    <p> In the Free Bass accordion the outer-most 4 columns are arranged chromatically. In the C System the left hand keyboard mirrors the treble keys allowing much more freedom of chord choice and construction than on a Stradella bass allbeit at the expenditure of more mental effort by the player. See Diagram ZZZZZ of the Free-Bass layout</p>
+
+
 </introduction>
 
 <figure width="80\%" xml:id="master-58-b-de-luxe">
     <image source="master-58-b-de-luxe.jpg">
-    <shortdescription>A Typical Chromatic Button Accordion</shortdescription>
+    <shortdescription>A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System. </shortdescription>
      </image>
     
+
  </figure>
 
  </chapter>

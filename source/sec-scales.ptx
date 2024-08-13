@@ -11,34 +11,42 @@
       <row header="yes">
         <cell>Scale Degree</cell>
         <cell>Tones between Notes</cell>
+        <cell>Type of Interval</cell>
       </row>
       <row>
         <cell>Tonic to Note 2</cell>
         <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
       </row>
       <row>
         <cell>Note 2 to Note 3</cell>
         <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
       </row>
       <row>
         <cell>Note 3 to Note 4</cell>
         <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
       </row>
       <row>
         <cell>Note 4 to Note 5</cell>
         <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
       </row>
       <row>
         <cell>Note 5 to Note 6</cell>
         <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
       </row>
       <row>
         <cell>Note 6 to Note 7</cell>
         <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
       </row>
       <row>
         <cell>Note 7 to Tonic</cell>
         <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
       </row>
       
     </tabular>
