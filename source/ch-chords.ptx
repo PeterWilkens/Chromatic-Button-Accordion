@@ -5,8 +5,8 @@
 
  
   <!-- include sections -->
-  <xi:include href="sec-major-chords.ptx" />
-  <xi:include href="sec-major-7th-chords2.ptx" />
+  <xi:include href="sec-7th-chords.ptx" />
+  <xi:include href="sec-major-7th-chords.ptx" />
   
 
   

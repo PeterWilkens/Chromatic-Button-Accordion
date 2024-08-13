@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section> xml:id="sec-intervals" xmlns:xi="http://www.w3.org/2001/XInclude"
+<section xml:id="sec-intervals" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Intervals</title>
  
   <p>Before discussing scales it is useful to understand how intervals between notes are described.</p>
@@ -69,13 +69,32 @@
     <p>Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can  also be very useful in sight reading and I hope to include some examples of this later in the manual.</p>
   </introduction>
    
-  <figure width="100\%" xml:id="Intervals">
+  <figure width="100\%" xml:id="2nd-Intervals">
       <image source="2nd-intervals.png">
+          <shortdescription>2nd Interval Shapes</shortdescription>
+      </image> 
+   </figure>
+
+  </subsection>
+  <subsection>xml:id="sub-sec-3rd-intervals" xmlns:xi="http://www.w3.org/2001/XInclude"
+    <title>3rd-interval-shapes</title>
+   
+    <introduction>
+    <p>These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.</p>
+    <p>Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can  also be very useful in sight reading and I hope to include some examples of this later in the manual.</p>
+  </introduction>
+   
+  <figure width="100\%" xml:id="3rd-Intervals">
+      <image source="3rd-intervals.png">
           <shortdescription>2nd Interval Shapes</shortdescription>
       </image> 
    </figure>
   </subsection>
 
  
+
+
+
+
 
 </section>

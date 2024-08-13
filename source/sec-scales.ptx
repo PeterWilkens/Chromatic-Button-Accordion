@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section> xml:id="sec-scales" xmlns:xi="http://www.w3.org/2001/XInclude"
+<section xml:id="sec-scales" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Scales</title>
   
     <p> Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.</p>
