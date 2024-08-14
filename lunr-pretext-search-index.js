@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "2",
   "title": "The Chromatic Button Accordion",
-  "body": " The Chromatic Button Accordion   This type of accordion is characterised by the Buttons on the Right hand (Treble Side). The Treble buttons are arranged chromatically in a number of columns. In the accordion I am considering in this manual, there are 5 columns, but the last two, nearest the bellows, duplicate notes already found in the first three rows. The additional rows allow more options in fingering. There are some smaller accordions that have only the first three rows without duplication. Figure 2.0.2 shows a detailed arrangement of the keys on the treble side.  In the most common type of chromatic accordion, with a Stradella bass, the bass and chord buttons are arranged in six columns parallel to the bellows. The columns are: Counter Bass, Bass, Maj Chord, Minor Chord, 7th Chord and Diminished Chord. The basses are arranged in intervals of a fifth and the chords follow the second row of basses. See Diagram YYYYY showing detailed arrangement of the keys on a Stradella Bass instrument.  In the Free Bass accordion the outer-most 4 columns are arranged chromatically. In the C System the left hand keyboard mirrors the treble keys allowing much more freedom of chord choice and construction than on a Stradella bass allbeit at the expenditure of more mental effort by the player. See Figure 2.0.3 of the Free-Bass layout.     A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.    treble-keyboard-configuration> Treble Keyboard Layout    (Diagram of Treble Keyboard Arrangement)    Diagram of Free Bass Keyboard    (Diagram of Free Bass Keyboard)   "
+  "body": " The Chromatic Button Accordion   This type of accordion is characterised by the Buttons on the Right hand (Treble Side). The Treble buttons are arranged chromatically in a number of columns. In the accordion I am considering in this manual, there are 5 columns, but the last two, nearest the bellows, duplicate notes already found in the first three rows. The additional rows allow more options in fingering. There are some smaller accordions that have only the first three rows without duplication. Figure 2.0.2 shows a detailed arrangement of the keys on the treble side.  In the most common type of chromatic accordion, with a Stradella bass, the bass and chord buttons are arranged in six columns parallel to the bellows. The columns are: Counter Bass, Bass, Maj Chord, Minor Chord, 7th Chord and Diminished Chord. The basses are arranged in intervals of a fifth and the chords follow the second row of basses. See Figure 2.0.3 for detailed arrangement of the keys on a Stradella Bass instrument.  In the Free Bass accordion the outer-most 4 columns are arranged chromatically. In the C System the left hand keyboard mirrors the treble keys allowing much more freedom of chord choice and construction than on a Stradella bass allbeit at the expenditure of more mental effort by the player. See Figure 2.0.4 of the Free-Bass layout.     A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System.    treble-keyboard-configuration> Treble Keyboard Layout   (Diagram of Treble Keyboard Arrangement.     Stradella Bass Configuration   (Diagram of Stradell Bass Keyboard.     Diagram of Free Bass Keyboard   (Diagram of Free Bass Keyboard)    "
 },
 {
   "id": "master-58-b-de-luxe",
@@ -43,16 +43,25 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "2.0.2",
   "title": "",
-  "body": "treble-keyboard-configuration> Treble Keyboard Layout  "
+  "body": "treble-keyboard-configuration> Treble Keyboard Layout   (Diagram of Treble Keyboard Arrangement.   "
+},
+{
+  "id": "stradella-bass",
+  "level": "2",
+  "url": "chromatic-button-accordion.html#stradella-bass",
+  "type": "Figure",
+  "number": "2.0.3",
+  "title": "",
+  "body": " Stradella Bass Configuration   (Diagram of Stradell Bass Keyboard.   "
 },
 {
   "id": "free-bass-keyboard",
   "level": "2",
   "url": "chromatic-button-accordion.html#free-bass-keyboard",
   "type": "Figure",
-  "number": "2.0.3",
+  "number": "2.0.4",
   "title": "",
-  "body": " Diagram of Free Bass Keyboard  "
+  "body": " Diagram of Free Bass Keyboard   (Diagram of Free Bass Keyboard)   "
 },
 {
   "id": "sec-intervals",
