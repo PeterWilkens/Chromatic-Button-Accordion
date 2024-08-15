@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "  https:\/\/peterwilkens.github.io\/Chromatic-Button-Accordion\/my-great-book.html   copyright  "
+  "body": "  copyright  "
 },
 {
   "id": "ch-overall-introduction",
@@ -127,22 +127,22 @@ var ptx_lunr_docs = [
   "body": "  Scales from Col 1   "
 },
 {
-  "id": "sec-scale-construction",
+  "id": "scale-construction",
   "level": "1",
-  "url": "sec-scale-construction.html",
+  "url": "scale-construction.html",
   "type": "Section",
   "number": "3.3",
   "title": "Scale Construction Wheel",
-  "body": "- Scale Construction Wheel  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and staring on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.   Chromatic scale arranged on a circular diagram   12 Tone Chromatic Scale    "
+  "body": "- Scale Construction Wheel  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and staring on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.    12 tone chromatic scale    "
 },
 {
-  "id": "chord-scale",
+  "id": "chromatic-scale-disc",
   "level": "2",
-  "url": "sec-scale-construction.html#chord-scale",
+  "url": "scale-construction.html#chromatic-scale-disc",
   "type": "Figure",
   "number": "3.3.1",
   "title": "",
-  "body": " Chromatic scale arranged on a circular diagram   12 Tone Chromatic Scale   "
+  "body": "  12 tone chromatic scale   "
 },
 {
   "id": "sec-7th-chords",
