@@ -6,10 +6,11 @@
 
 <p>Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and staring on the Tonic C gives a scale of:</p> <p>C,D,E,F,G,A,B back to C.</p>
 <p>This is the scale of C Major (A scale with no sharp  or flat notes i.e all white notes.)</p>
-<p> The same approach can be applie to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.</p>  
+<p> The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.</p>  
 <p> eg; Taking D  as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D  Major.</p>
-  
-  )<figure xml:id="chord-scale">
+ 
+
+  <figure xml:id="chord-scale">
 
   <caption>Chromatic scale arranged on a circular diagram</caption>
 
