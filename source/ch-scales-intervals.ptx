@@ -11,4 +11,5 @@
 
 <xi:include href="sec-intervals.ptx" />
 <xi:include href="sec-scales.ptx"/>
+<xi:include href="sec-scale-construction.ptx" />
   </chapter>
