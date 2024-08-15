@@ -14,7 +14,9 @@
 
   <caption>Chromatic scale arranged on a circular diagram</caption>
 
-  <image source="chord-scale-wheel.png">
+  <image source="chord-scale-wheel">
+    <shortdescription>(for accessibility)</shortdescription>
+  </image>
     <shortdescription>12 Tone Chromatic Scale</shortdescription>
 
    
