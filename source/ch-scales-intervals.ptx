@@ -3,8 +3,10 @@
 <chapter xml:id="ch-scales-intervals" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Scales and Intervals </title>
 <introduction>
-    <p> Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, whole tone, half tone between the tonic note.</p>
-</introduction>
+    <p> There are a number of different scale types eg; Major, Minor, Diminished etc;. Different Scale Types are characterised by the interval between each succesive  note. A Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, whole tone, half tone between the tonic note.</p>
+<p> The make up of each of the main scale types will be discussed in Section 3.3.</p>
+
+  </introduction>
 
 
   <!-- include sections -->

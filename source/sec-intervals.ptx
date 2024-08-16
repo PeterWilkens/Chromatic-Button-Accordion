@@ -65,8 +65,8 @@
     <title>2nd-interval-shapes</title>
    
     <introduction>
-    <p>These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.</p>
-    <p>Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can  also be very useful in sight reading and I hope to include some examples of this later in the manual.</p>
+    <p>It is important to realise that the various shapes can be moved to any position on the keyboard and will maintain the same relationshio between notes in the shape.The shapes show the relative position of keyboard buttons for the different intervals.</p>
+    <p>Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can  also be very useful in sight reading.</p>
   </introduction>
    
   <figure width="100\%" xml:id="2nd-Intervals">
