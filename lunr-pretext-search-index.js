@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Authors’ Introduction",
-  "body": " Authors' Introduction   This Manual describes the C System Chromatic Button Accordion with both Stradella and Free Bass.  The intention is to present information and guidance, where applicable to the accordion, that has influenced me during many years of playing finger-style guitar.  I was particularly drawn to the button accordion (rather than the piano accordion); noting that Chord and Scale construction on this type of keyboard allow the use of consistent shapes, specific to different Chord and Scale Types, that shape may be moved anywhere on the keyboard giving a chord identified by the Tonic in that shape.  I think there is considerable benefit to the accordion player in considering the \"piano grip systems\" used by jazz pianists and will also include a summary of Mick Goodricks' Voice Leading Almanack's which hold a vast ammount of harmonic information, providing an opportunity for the accordion player to enjoy assimilating the feel of these progressions for themselves. The Almanacks were collated by a jazz guitar player and educator, but they are enormously useful to all players of polyphonic instruments.  This use of fingering shapes is similar to the way in which different Chords and Scales are represented in many resources used by Guitar Players, removing the need to read music whilst still being able to learn about Scale and Chord construction and gaining access to the many Chord Progressions. A relatively small number of shapes cover all Scale Chord Types in all inversions.   "
+  "body": " Authors' Introduction   This Manual describes the C System Chromatic Button Accordion with both Stradella and Free Bass.  The intention is to present information and guidance, where applicable to the accordion, that has influenced me during many years of playing finger-style guitar.  I was particularly drawn to the button accordion (rather than the piano accordion); noting that Chord and Scale construction on this type of keyboard allow the use of consistent shapes specific to different Chord and Scale Types.  That shape may be moved anywhere on the keyboard giving a chord identified by the Tonic in that shape.  I think there is considerable benefit to the accordion player in considering the \"piano grip systems\" used by jazz pianists and will also include a summary of Mick Goodricks' Voice Leading Almanack's which hold a vast ammount of harmonic information, providing an opportunity for the accordion player to enjoy assimilating the feel of these progressions for themselves. The Almanacks were collated by a jazz guitar player and educator, but they are enormously useful to all players of polyphonic instruments.  This use of fingering shapes is similar to the way in which different Chords and Scales are represented in many resources used by Guitar Players, removing the need to read music whilst still being able to learn about Scale and Chord construction and gaining access to the many Chord Progressions. A relatively small number of shapes cover all Scale Chord Types in all inversions.   "
 },
 {
   "id": "chromatic-button-accordion",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Intervals",
-  "body": " Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones     xml:id=\"sub-sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 2nd-interval-shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     2nd Interval Shapes     xml:id=\"sub-sec-3rd-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 3rd-interval-shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     2nd Interval Shapes     "
+  "body": " Intervals  Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.   Number Count for the different intervals    Interval Type  Count between notes    Minor 2nd  2 Semitones    Major 2nd  3 Semitones    Minor 3rd  4 Semitones    Major 3rd  5 Semitones    Perfect 4th  6 Semitones    Flat 5  7 Semitones    5th  8 Semitones    Augmented 5th  9 Semitones    6th  10 Semitones    Minor 7th  11 Semitones    Major 7th  12 Semitones     xml:id=\"sub-sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 2nd-interval-shapes   It is important to realise that the various shapes can be moved to any position on the keyboard and will maintain the same relationshio between notes in the shape.The shapes show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading.     2nd Interval Shapes     xml:id=\"sub-sec-3rd-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 3rd-interval-shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     2nd Interval Shapes     "
 },
 {
   "id": "sec-intervals-5",
@@ -132,8 +132,8 @@ var ptx_lunr_docs = [
   "url": "scale-construction.html",
   "type": "Section",
   "number": "3.3",
-  "title": "Scale Construction Wheel",
-  "body": "- Scale Construction Wheel  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and staring on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.    12 tone chromatic scale    "
+  "title": "Scale Construction",
+  "body": "- Scale Construction  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and staring on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.    12 tone chromatic scale    "
 },
 {
   "id": "chromatic-scale-disc",
@@ -145,11 +145,20 @@ var ptx_lunr_docs = [
   "body": "  12 tone chromatic scale   "
 },
 {
+  "id": "sec-chord-construction",
+  "level": "1",
+  "url": "sec-chord-construction.html",
+  "type": "Section",
+  "number": "4.1",
+  "title": "Chord Construction",
+  "body": " Chord Construction  Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale.   Chord and Scale Wheel    Chords in C Major Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C   Notes from C Maj Scale on wheel.   Starting at C (note 1 or the Tonic of the scale), miss the next note, D and pick E (the note a major 3rd above C), miss F and pick G (a minor 3rd above E and a 5th above C), which gives a Triad of C E and G which is the C Maj triad.  "
+},
+{
   "id": "sec-7th-chords",
   "level": "1",
   "url": "sec-7th-chords.html",
   "type": "Section",
-  "number": "4.1",
+  "number": "4.2",
   "title": "7th Chords",
   "body": " 7th Chords  These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.    7th Chord Shape Diagram    "
 },
@@ -158,7 +167,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-7th-chords.html#sec-major-chords",
   "type": "Figure",
-  "number": "4.1.1",
+  "number": "4.2.1",
   "title": "",
   "body": "  7th Chord Shape Diagram   "
 },
@@ -167,7 +176,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-major-7th-chords.html",
   "type": "Section",
-  "number": "4.2",
+  "number": "4.3",
   "title": "Major 7th Chords",
   "body": " Major 7th Chords  These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.    Major 7th Chord Shape Diagram    "
 },
@@ -176,7 +185,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-major-7th-chords.html#major-7th-chords",
   "type": "Figure",
-  "number": "4.2.1",
+  "number": "4.3.1",
   "title": "",
   "body": "  Major 7th Chord Shape Diagram   "
 },
