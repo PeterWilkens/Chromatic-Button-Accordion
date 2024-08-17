@@ -106,12 +106,12 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Scales",
-  "body": " Scales  Describe how the main scales are constructed. i.e. Major Scale has a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic note.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different Scales.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
+  "body": " Scales  All Major Scales have a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic notes.  An alternative method of generating any major scale would be to count through the Chromatic Scale note to note. Using C Major again as an example, using the following count from the C Tonic note 1 3 5 6 8 10 and 12 will provide the notes of any Major Scale.  Similarly all other scales can be generated using the count specific to that type of scale.  See Section 3.3 on Scale Construction for details of other scales and how they are made up.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   The Chromatic Button Accordion makes learning Scales and Chords relatively easy because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.  In other words shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different Scales.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
 },
 {
-  "id": "sec-scales-3",
+  "id": "sec-scales-6",
   "level": "2",
-  "url": "sec-scales.html#sec-scales-3",
+  "url": "sec-scales.html#sec-scales-6",
   "type": "Table",
   "number": "3.2.1",
   "title": "Tones between different degrees of a Major Scale.",
@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Chord Construction",
-  "body": " Chord Construction  Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale.   Chord and Scale Wheel    Chords in C Major Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C   Notes from C Maj Scale on wheel.   Starting at C (note 1 or the Tonic of the scale), miss the next note, D and pick E (the note a major 3rd above C), miss F and pick G (a minor 3rd above E and a 5th above C), which gives a Triad of C E and G which is the C Maj triad.  "
+  "body": " Chord Construction  Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale.   Chord and Scale Wheel    Chords in C Major Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C   Notes from C Maj Scale on wheel.   "
 },
 {
   "id": "sec-7th-chords",
