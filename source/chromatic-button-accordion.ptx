@@ -18,10 +18,10 @@
     <shortdescription>A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System. </shortdescription>
      </image>
  </figure>
-
+ <p>This Diagram shows the Treble keyboard layout of a C System Chromatic Button Accordion.</p> <p>The Top of the Accordion is at the bottom of the page with the bellows on the left side of the treble keyboard. Keyboard is played with the Right Hand.</p>
  <figure xml:id="">treble-keyboard-configuration>
     <caption>Treble Keyboard Layout</caption>
-     <image source="treble-keyboard-configuration.png">
+     <image source="treble_keyboard.png">
      <shortdescription>(Diagram of Treble Keyboard Arrangement.</shortdescription>
      </image>
   </figure>
