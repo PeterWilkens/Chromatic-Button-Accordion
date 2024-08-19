@@ -13,13 +13,190 @@
   <title>Chords in C Major</title>
   Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C 
 </paragraphs>
-<p>A C Major Triad is easily built from the scale. The first note ( the Root) is given by the Tonic note of the scale. The next note of the triad is a Major 3rd above the Tonic (count 3 from C including the start and finish note) giving E, the final note of the Triad is a Minor 3rd above E which is G. ie; the C Major Triad in root position is C E G.
- </p>
-<p> Another way of looking at this is to use alternate notes of the Scale: Starting at the first note of the Scale, C, miss the next note, go to E, miss the next note, go to G. Gives C E G. </p>
-
+<p>A C Major Triad is easily built from the scale. By using alternate notes of the Scale: Starting at the first note, C, missing the next note, going to E, missing the next note and going to G gives the C Major Triad C E G. </p>
+<p> Continuing from G missing the next note and going to B gives The C Major 7th chord, C E G B</p>
+<p>Examining the intervals between each note of the Triad: between C and E is a Major 3rd, Between E and G is a minor 3rd. Between G and B is a Major 3rd. Considering the intervals between the Root note C and the other notes: C to E as we have already seen is a Major 3rd, C to G is a 5th, C to B is a Major 7th.</p>
+  <p> All Major 7th Chords have that interval structure. </p>
   <image source="chord-scale-wheel-C-Maj.png">
 
-  <shortdescription>Notes from C Maj Scale on wheel.</shortdescription>
-</image>
+    <shortdescription>Notes from C Maj Scale on wheel.</shortdescription>
+  </image>
+<p>Building Chords on all degrees of the C Major scale gives the following collection of Chords diatonic to the scale.</p>
+<table>
+
+  <title>Chord Construction Major Scale</title>
+ 
+  <tabular>
+    <row header="yes">
+    <cell>Scale Degree</cell>
+    <cell>Scale alternate</cell>
+    <cell>Interval</cell>
+    <cell>Chord Notes</cell>
+    <cell>Chord  Name</cell>
+    </row> 
+    <row>
+      <cell>I (C)</cell>
+      <cell>C-E</cell>
+      <cell>Maj 3rd</cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell></cell>
+      <cell>E-G</cell>
+      <cell>min 3rd</cell> 
+      <cell></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell></cell>
+      <cell>G-B</cell>
+      <cell>min 3rd</cell>
+      <cell>C E G B</cell>
+      <cell>C Maj 7</cell>
+    </row>
+    <row>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+<row>
+  <cell>ii(D)</cell>
+  <cell>D-F</cell>
+  <cell>min 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>F-A</cell>
+  <cell>Maj 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>A-C</cell>
+  <cell>min 3rd</cell>
+  <cell>D F A C</cell>
+  <cell>D Min7</cell>
+</row>
+<row>
+  <cell>iii (E)</cell>
+  <cell>E-G</cell>
+  <cell>Min 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row><row>
+  <cell></cell>
+  <cell>G-B</cell>
+  <cell>Maj 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>B-D</cell>
+  <cell>min 3rd</cell>
+  <cell>E G B D</cell>
+  <cell>E Min7</cell>
+</row>
+<row>
+
+<cell>IV (F)</cell>
+<cell>F-A</cell>
+<cell>Maj 3rd</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+  <cell></cell>
+<cell>A-C</cell>
+<cell>min 3rd</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>C-E</cell>
+  <cell>Maj 3rd</cell>
+  <cell>F A C E</cell>
+  <cell>F Maj7</cell>
+</row>
+<row>
+  <cell>V (G)</cell>
+  <cell>G-B</cell>
+  <cell>Maj 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>B-D</cell>
+  <cell>min 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+  <cell></cell>
+  <cell>D-F</cell>
+  <cell>min 3rd</cell>
+  <cell>G B D F</cell>
+  <cell>G7</cell>
+  </row>
+<row>
+  <cell>vi (A)</cell>
+  <cell>A-C</cell>
+  <cell>min 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+
+<cell></cell>
+<cell>C-E</cell>
+<cell>Maj 3rd </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell></cell>
+<cell>E-G</cell>
+<cell>min 3rd</cell>
+<cell>A C E G</cell>
+<cell>Amin7</cell>
+</row>
+<row>
+  <cell>vii(B)</cell>
+  <cell>B-D</cell>
+  <cell>min 3rd</cell>
+  <cell></cell>
+  <cell></cell>
+</row>
+<row>
+ <cell></cell>
+ <cell>D-F</cell>
+ <cell>min 3rd</cell>
+ <cell></cell>
+ <cell></cell>
+</row>
+<row>
+ <cell></cell>
+ <cell>F-A</cell>
+<cell>Maj 3rd</cell>
+<cell>B D F A </cell>
+<cell>B min7 flat 5</cell>
+</row>
+</tabular>
+</table>
+
+  
+
+
+
+ 
 
 </section>
