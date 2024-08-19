@@ -13,16 +13,19 @@
 
 </introduction>
 
-<figure width="100\%" xml:id="master-58-b-de-luxe">
+<figure width="100\%" xml:id="master-58-b-de-luxe"> 
+<caption>High quality Italian Chromatic Button Accordion with Stradella and Free Bass.</caption>
+
     <image source="master-58-b-de-luxe.jpg">
+   
     <shortdescription>A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System. </shortdescription>
-     </image>
+    </image>
  </figure>
  <p>This Diagram shows the Treble keyboard layout of a C System Chromatic Button Accordion.</p> <p>The Top of the Accordion is at the bottom of the page with the bellows on the left side of the treble keyboard. Keyboard is played with the Right Hand.</p>
  <figure xml:id="">treble-keyboard-configuration>
     <caption>Treble Keyboard Layout</caption>
      <image source="treble_keyboard.png">
-     <shortdescription>(Diagram of Treble Keyboard Arrangement.</shortdescription>
+     <
      </image>
   </figure>
 
@@ -30,10 +33,9 @@
 <figure xml:id="stradella-bass">
     <caption>Stradella Bass Configuration</caption>
     <image source="stradella-bass.png">
-        <shortdescription>(Diagram of Stradell Bass Keyboard. </shortdescription>
+        
     </image>
 </figure>
-
 
 <figure xml:id="free-bass-keyboard">
     <caption>Diagram of Free Bass Keyboard</caption>
