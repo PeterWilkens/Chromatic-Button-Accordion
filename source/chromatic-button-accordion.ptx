@@ -21,14 +21,16 @@
     <shortdescription>A High Quality Italian Chromatic Button Accordion with Free Bass and Stradella. The treble side keyboard is configured in the C System. </shortdescription>
     </image>
  </figure>
- <p>This Diagram shows the Treble keyboard layout of a C System Chromatic Button Accordion.</p> <p>The Top of the Accordion is at the bottom of the page with the bellows on the left side of the treble keyboard. Keyboard is played with the Right Hand.</p>
+
+ 
  <figure xml:id="">treble-keyboard-configuration>
     <caption>Treble Keyboard Layout</caption>
      <image source="treble_keyboard.png">
-     <
+    
      </image>
-  </figure>
 
+  </figure>
+  <p>This Diagram shows the Treble keyboard layout of a C System Chromatic Button Accordion.</p> <p>The Top of the Accordion is at the bottom of the page with the bellows on the left side of the treble keyboard. Keyboard is played with the Right Hand.</p>
 
 <figure xml:id="stradella-bass">
     <caption>Stradella Bass Configuration</caption>
@@ -43,4 +45,5 @@
     <shortdescription>(Diagram of Free Bass Keyboard)</shortdescription>
  </image>
 </figure>
+<p>This Diagram shows the Free Bass keyboard layout of a C System Chromatic Button Accordion. The Top of the Accordion is at the bottom of the page with the bellows to the right of the Bass keyboard. Keyboard is played with the Left Hand.</p>Update keyboards
  </chapter> 
