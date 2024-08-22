@@ -2,12 +2,16 @@
 
 <section xml:id="sec-251-progression" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Major ii-V-I</title>
-  <p>This progression should be practiced in all keys. The most effective method is to use the circle of fifths as discussed in XXXXXXX.</p>
-  
-  
+  <p> Add WORDS</p>
   <figure width="100\%" xml:id="2-5-1-chord-progression">
    <image source="2-5-1-chords-progression.png">
 <shortdescription>Diagrams of ii V I progressions</shortdescription>
     </image> 
  </figure>
+ <figure width="100\%" xml:id="Maj7-Circle-5-Progression">
+   <image source="Progression Circle of 5.png">
+<shortdescription>C Major Circle of 5 progression of Major 7ths</shortdescription>
+    </image> 
+ </figure>
+
 </section>
