@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Chord Construction",
-  "body": " Chord Construction  Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale.   Chord and Scale Wheel    Chords in C Major Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C  A C Major Triad is easily built from the scale. By using alternate notes of the Scale: Starting at the first note, C, missing the next note, going to E, missing the next note and going to G gives the C Major Triad C E G.  Continuing from G missing the next note and going to B gives The C Major 7th chord, C E G B  Examining the intervals between each note of the Triad: between C and E is a Major 3rd, Between E and G is a minor 3rd. Between G and B is a Major 3rd. Considering the intervals between the Root note C and the other notes: C to E as we have already seen is a Major 3rd, C to G is a 5th, C to B is a Major 7th.  All Major 7th Chords have that interval structure.   Notes from C Maj Scale on wheel.   Building Chords on all degrees of the C Major scale gives the following collection of Chords diatonic to the scale.   Chord Construction Major Scale    Scale Degree  Scale alternate  Interval  Chord Notes  Chord Name    I (C)  C-E  Maj 3rd       E-G  min 3rd       G-B  min 3rd  C E G B  C Maj 7           ii(D)  D-F  min 3rd       F-A  Maj 3rd       A-C  min 3rd  D F A C  D Min7    iii (E)  E-G  Min 3rd      G-B  Maj 3rd       B-D  min 3rd  E G B D  E Min7    IV (F)  F-A  Maj 3rd       A-C  min 3rd       C-E  Maj 3rd  F A C E  F Maj7    V (G)  G-B  Maj 3rd       B-D  min 3rd       D-F  min 3rd  G B D F  G7    vi (A)  A-C  min 3rd       C-E  Maj 3rd       E-G  min 3rd  A C E G  Amin7    vii(B)  B-D  min 3rd       D-F  min 3rd       F-A  Maj 3rd  B D F A  B min7 flat 5     "
+  "body": " Chord Construction  Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale.   Chord and Scale Wheel    Chords in C Major Take for example the scale of C Major. We know from the Scale Construction Chapter that the scale of C Major is C D E F G A B C  A C Major Triad is easily built from the scale. By using alternate notes of the Scale: Starting at the first note, C, missing the next note, going to E, missing the next note and going to G gives the C Major Triad C E G.  Continuing from G missing the next note and going to B gives The C Major 7th chord, C E G B  Examining the intervals between each note of the Triad: between C and E is a Major 3rd, Between E and G is a minor 3rd. Between G and B is a Major 3rd. Considering the intervals between the Root note C and the other notes: C to E as we have already seen is a Major 3rd, C to G is a 5th, C to B is a Major 7th.  All Major 7th Chords in Root position have that interval structure.   Notes from C Maj Scale on wheel.   Building Chords on all degrees of the C Major scale gives the following collection of Chords diatonic to the scale.   Chord Construction Major Scale    Scale Degree  Scale alternate  Interval  Chord Notes  Chord Name    I (C)  C-E  Maj 3rd       E-G  min 3rd       G-B  min 3rd  C E G B  C Maj 7           ii(D)  D-F  min 3rd       F-A  Maj 3rd       A-C  min 3rd  D F A C  D Min7    iii (E)  E-G  Min 3rd      G-B  Maj 3rd       B-D  min 3rd  E G B D  E Min7    IV (F)  F-A  Maj 3rd       A-C  min 3rd       C-E  Maj 3rd  F A C E  F Maj7    V (G)  G-B  Maj 3rd       B-D  min 3rd       D-F  min 3rd  G B D F  G7    vi (A)  A-C  min 3rd       C-E  Maj 3rd       E-G  min 3rd  A C E G  Amin7    vii(B)  B-D  min 3rd       D-F  min 3rd       F-A  Maj 3rd  B D F A  B min7 flat 5     "
 },
 {
   "id": "sec-chord-construction-11",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Major ii-V-I",
-  "body": " Major ii-V-I  This progression should be practiced in all keys. The most effective method is to use the circle of fifths as discussed in XXXXXXX.    Diagrams of ii V I progressions    "
+  "body": " Major ii-V-I  Add WORDS    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths    "
 },
 {
   "id": "2-5-1-chord-progression",
@@ -215,6 +215,15 @@ var ptx_lunr_docs = [
   "number": "5.1.1",
   "title": "",
   "body": "  Diagrams of ii V I progressions   "
+},
+{
+  "id": "Maj7-Circle-5-Progression",
+  "level": "2",
+  "url": "sec-251-progression.html#Maj7-Circle-5-Progression",
+  "type": "Figure",
+  "number": "5.1.2",
+  "title": "",
+  "body": "  C Major Circle of 5 progression of Major 7ths   "
 },
 {
   "id": "backmatter-2",
