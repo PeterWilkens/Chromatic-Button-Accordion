@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Major ii-V-I",
-  "body": " Major ii-V-I  Add WORDS    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths    "
+  "body": " Major ii-V-I  Add WORDS    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
 },
 {
   "id": "2-5-1-chord-progression",
@@ -224,6 +224,15 @@ var ptx_lunr_docs = [
   "number": "5.1.2",
   "title": "",
   "body": "  C Major Circle of 5 progression of Major 7ths   "
+},
+{
+  "id": "C-Maj-Circle-5ths",
+  "level": "2",
+  "url": "sec-251-progression.html#C-Maj-Circle-5ths",
+  "type": "Figure",
+  "number": "5.1.3",
+  "title": "",
+  "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
 {
   "id": "backmatter-2",
