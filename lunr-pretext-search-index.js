@@ -235,6 +235,15 @@ var ptx_lunr_docs = [
   "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
 {
+  "id": "ch-chord-diagrams",
+  "level": "1",
+  "url": "ch-chord-diagrams.html",
+  "type": "Chapter",
+  "number": "6",
+  "title": "Chord Diagrams15 per Page",
+  "body": " Chord Diagrams   Chords presented as different shapes in chord diagrams   15 per Page  These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.   Chord Shape Diagram   "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
