@@ -14,6 +14,19 @@
       <shortdescription>12 tone chromatic scale</shortdescription>
  </image>
  </figure>
+ <p>The following scores show the intervals between notes in different scale types.</p>
 
+ <figure xml:id="Scales-in-C">
+   <image source="Scales-in-C-Page-1.png">
+       <shortdescription>Scales of different types in C for convenience </shortdescription>
+   </image> 
+ </figure>
+ 
+ <figure xml:id="Other-Scales-in-C">
+   <image source="Other-Scales-in-C-Page-2.png">
+       <shortdescription>Scales of different types</shortdescription>
+   </image> 
+ </figure>
+ 
 
   </section>
