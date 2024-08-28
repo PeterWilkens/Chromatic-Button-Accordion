@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Scales",
-  "body": " Scales  All Major Scales have a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic notes.  An alternative method of generating any major scale would be to count through the Chromatic Scale note to note. Using C Major again as an example, using the following count from the C Tonic note 1 3 5 6 8 10 and 12 will provide the notes of any Major Scale.  Similarly all other scales can be generated using the count specific to that type of scale.  See Section 3.3 on Scale Construction for details of other scales and how they are made up.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     The following scores show the intervals between notes in different scale types.    Scales of different types      Scales of different types    xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.  In other words shapes can be moved to any position on the keyboard and maintain the relative position of keyboard buttons for specific Scale and Chord types.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
+  "body": " Scales  All Major Scales have a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic notes.  An alternative method of generating any major scale would be to count through the Chromatic Scale note to note. Using C Major again as an example, using the following count from the C Tonic note 1 3 5 6 8 10 and 12 will provide the notes of any Major Scale.  Similarly all other scales can be generated using the count specific to that type of scale.  See Section 3.3 on Scale Construction for details of other scales and how they are made up.   Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.  In other words shapes can be moved to any position on the keyboard and maintain the relative position of keyboard buttons for specific Scale and Chord types.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E flat or G flat.     Scales from Col 1     "
 },
 {
   "id": "sec-scales-6",
@@ -118,29 +118,11 @@ var ptx_lunr_docs = [
   "body": " Tones between different degrees of a Major Scale.    Scale Degree  Tones between Notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd    "
 },
 {
-  "id": "Page-9",
-  "level": "2",
-  "url": "sec-scales.html#Page-9",
-  "type": "Figure",
-  "number": "3.2.2",
-  "title": "",
-  "body": "  Scales of different types   "
-},
-{
-  "id": "Page-10",
-  "level": "2",
-  "url": "sec-scales.html#Page-10",
-  "type": "Figure",
-  "number": "3.2.3",
-  "title": "",
-  "body": "  Scales of different types   "
-},
-{
   "id": "scale-col-1",
   "level": "2",
   "url": "sec-scales.html#scale-col-1",
   "type": "Figure",
-  "number": "3.2.4",
+  "number": "3.2.2",
   "title": "",
   "body": "  Scales from Col 1   "
 },
@@ -151,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Scale Construction",
-  "body": "- Scale Construction  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.      12 tone chromatic scale    "
+  "body": "- Scale Construction  Arranging the chromatic scale in a a cicular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg; Taking D as the Tonic would give: D, E, F sharp, G, A, B, and C sharp which is the Scale of D Major.      12 tone chromatic scale    The following scores show the intervals between notes in different scale types.    Scales of different types in C for convenience      Scales of different types    "
 },
 {
   "id": "chromatic-scale-disc",
@@ -161,6 +143,24 @@ var ptx_lunr_docs = [
   "number": "3.3.1",
   "title": "",
   "body": "  12 tone chromatic scale   "
+},
+{
+  "id": "Scales-in-C",
+  "level": "2",
+  "url": "scale-construction.html#Scales-in-C",
+  "type": "Figure",
+  "number": "3.3.2",
+  "title": "",
+  "body": "  Scales of different types in C for convenience   "
+},
+{
+  "id": "Other-Scales-in-C",
+  "level": "2",
+  "url": "scale-construction.html#Other-Scales-in-C",
+  "type": "Figure",
+  "number": "3.3.3",
+  "title": "",
+  "body": "  Scales of different types   "
 },
 {
   "id": "sec-chord-construction",
