@@ -69,6 +69,17 @@
           <shortdescription>Scales from Col 1</shortdescription>
       </image> 
    </figure>
+
+   <figure xml:id="scale-col-2">
+    <image source="G MAJ SCALE ROW 2.png">
+        <shortdescription>Scales from Col 2</shortdescription>
+    </image> 
+ </figure>
+
+
+
+
+
   </subsection>
 
 
