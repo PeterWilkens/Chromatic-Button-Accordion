@@ -55,9 +55,19 @@
     </tabular>
   </table>
 
+<p>The following scores show the intervals between notes in different scale types.</p>
 
+<figure xml:id="Page-9">
+  <image source="Page 9.png">
+      <shortdescription>Scales of different types</shortdescription>
+  </image> 
+</figure>
 
-
+<figure xml:id="Page-10">
+  <image source="Page 10.png">
+      <shortdescription>Scales of different types</shortdescription>
+  </image> 
+</figure>
 
   
   <subsection>xml:id="Scale-shapes" xmlns:xi="http://www.w3.org/2001/XInclude"
