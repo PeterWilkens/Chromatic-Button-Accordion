@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Major ii-V-I",
-  "body": " Major ii-V-I  The following shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position and demonstrate that, adding a further note below the Tonic, in these examples bass notes, changes the identity and type of chord.    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths     Circle of 5ths from the C Major Scale  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. (The circle of fifths generates the same sequence of chords in the reverse order.) The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chord are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord. You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.    Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
+  "body": " Major ii-V-I  The following shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position and demonstrate that, adding a further note below the Tonic, in these examples bass notes, changes the identity and type of chord.    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths     Circle of 5ths from the C Major Scale  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. (The circle of fifths generates the same sequence of chords in the reverse order.) The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chord are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord. You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.    Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
 },
 {
   "id": "2-5-1-chord-progression",
@@ -258,6 +258,24 @@ var ptx_lunr_docs = [
   "url": "sec-251-progression.html#C-Maj-Circle-5ths",
   "type": "Figure",
   "number": "5.1.3",
+  "title": "",
+  "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
+},
+{
+  "id": "C-Maj-Circle-5ths-Page-2",
+  "level": "2",
+  "url": "sec-251-progression.html#C-Maj-Circle-5ths-Page-2",
+  "type": "Figure",
+  "number": "5.1.4",
+  "title": "",
+  "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
+},
+{
+  "id": "C-Maj-Circle-5ths-Page-3",
+  "level": "2",
+  "url": "sec-251-progression.html#C-Maj-Circle-5ths-Page-3",
+  "type": "Figure",
+  "number": "5.1.5",
   "title": "",
   "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
