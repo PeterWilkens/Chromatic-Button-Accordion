@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-book">
-    <title>chromatic-button-accordion</title>
-    <subtitle>Including Stradella and Free-Bass</subtitle>
+    <title>Chromatic-Button-Accordion</title>
+    <subtitle>Chord and Scale Manual, Stradella and Free-Bass</subtitle>
 
     
     <!-- Include frontmatter -->
