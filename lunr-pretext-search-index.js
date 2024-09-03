@@ -196,16 +196,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "7th Chords",
-  "body": " 7th Chords  These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.    7th Chord Shape Diagram    "
+  "body": " 7th Chords  These shape can be moved to any position on the keyboard and the Chord identity is given by the Tonic of the chord (in the following example the Tonic is E)  Note how the chord is changed by altering the seventh note by an interval of a semitone.  In each case the seventh chord is construced by adding a seventh of a particular type to a Triad. In the case of a Major triad adding a Major 7th produces a Major seventh chord, but adding a minor seventh produces a Dominant Seventh chord.    7th Chord Shape Diagrams    Table 4.2.2. below shows how adding different 7th notes to a Triad changes the Chord.  The type of 7th is determined by the interval between the Tonic note of the Chord and the 7th note.   Adding a seventh to a Triad    Triad Type  7th Type  Interval  Chord Generated    Major Triad  Major 7th  12 semitones  Major 7th    Major Triad  Minor 7th  11 semitones  Dominant 7th    Minor Triad  Major 7th  12 semitones  MajorMinor7th    Minor Triad  Minor 7th  11 semitones  Minor 7th    Diminished Triad  Minor 7th  11 semitones  Minor7Flat5    Diminished Triad  Diminished 7th  10 semitones  Diminished 7th     "
 },
 {
-  "id": "sec-major-chords",
+  "id": "sec-seventh-chords",
   "level": "2",
-  "url": "sec-7th-chords.html#sec-major-chords",
+  "url": "sec-7th-chords.html#sec-seventh-chords",
   "type": "Figure",
   "number": "4.2.1",
   "title": "",
-  "body": "  7th Chord Shape Diagram   "
+  "body": "  7th Chord Shape Diagrams   "
+},
+{
+  "id": "sec-7th-chords-8",
+  "level": "2",
+  "url": "sec-7th-chords.html#sec-7th-chords-8",
+  "type": "Table",
+  "number": "4.2.2",
+  "title": "Adding a seventh to a Triad",
+  "body": " Adding a seventh to a Triad    Triad Type  7th Type  Interval  Chord Generated    Major Triad  Major 7th  12 semitones  Major 7th    Major Triad  Minor 7th  11 semitones  Dominant 7th    Minor Triad  Major 7th  12 semitones  MajorMinor7th    Minor Triad  Minor 7th  11 semitones  Minor 7th    Diminished Triad  Minor 7th  11 semitones  Minor7Flat5    Diminished Triad  Diminished 7th  10 semitones  Diminished 7th    "
 },
 {
   "id": "sec-major-7th-chords",
