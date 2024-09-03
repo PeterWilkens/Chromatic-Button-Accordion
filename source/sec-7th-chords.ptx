@@ -2,13 +2,70 @@
 
 <section xml:id="sec-7th-chords" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>7th Chords</title>
-  <p>These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.</p>
-  
-  <figure width="100\%" xml:id="sec-major-chords">
-    <image source="7th Chords.png">
-        <shortdescription>7th Chord Shape Diagram</shortdescription>
+  <p>These shape can be moved to any position on the keyboard and the Chord identity is given by the Tonic of the chord (in the following example the Tonic is E)</p>
+  <p>Note how the chord is changed by altering the seventh note by an interval of a semitone.</p>
+  <p>In each case the seventh chord is construced by adding a seventh of a particular type to a Triad. In the case of a Major triad adding a Major 7th produces a Major seventh chord, but adding a minor seventh produces a Dominant Seventh chord.</p>
+  <figure width="100\%" xml:id="sec-seventh-chords">
+    <image source="All-the-7th-Chords.png">
+        <shortdescription>7th Chord Shape Diagrams</shortdescription>
    </image>
    </figure>
 
+
+<p>Table 4.2.2. below shows how adding different 7th notes to a Triad changes the Chord.</p>
+
+<p>The type of 7th is determined by the interval between the Tonic note of the Chord and the 7th note. </p>
+
+
+
+
+<table>
+  <title>Adding a seventh to a Triad</title>
+  <tabular>
+    <row header="yes">
+      <cell>Triad Type</cell>
+      <cell>7th Type</cell>
+      <cell>Interval</cell>
+      <cell>Chord Generated</cell>
+    </row>
+    <row>
+      <cell>Major Triad</cell>
+      <cell>Major 7th</cell>
+      <cell>12 semitones</cell>
+      <cell>Major 7th</cell>
+    </row>
+    <row>
+      <cell>Major Triad</cell>
+      <cell>Minor 7th</cell>
+      <cell>11 semitones</cell>
+      <cell>Dominant 7th</cell>
+    </row>
+    <row>
+      <cell>Minor Triad</cell>
+      <cell>Major 7th</cell>
+      <cell>12 semitones</cell>
+      <cell>MajorMinor7th</cell>
+    </row>
+    <row>
+      <cell>Minor Triad</cell>
+      <cell>Minor 7th</cell>
+      <cell>11 semitones</cell>
+      <cell>Minor 7th</cell>
+    </row>
+    <row>
+      <cell>Diminished Triad</cell>
+      <cell>Minor 7th</cell>
+      <cell>11 semitones</cell>
+      <cell>Minor7Flat5</cell>
+    </row>
+    <row>
+      <cell>Diminished Triad</cell>
+      <cell>Diminished 7th</cell>
+      <cell>10 semitones</cell>
+      <cell>Diminished 7th</cell>
+    </row>
+
+</tabular>
+</table>
 
 </section>
