@@ -192,14 +192,135 @@
 </row>
 </tabular>
 </table>
+<table>
+<title>Chord Construction Interval Chart</title>
+    <tabular>
+    <row header="yes">
+    <cell>Chord Type</cell>
+    <cell>Interval Structure</cell>
+    <cell>Chord Name</cell>
+    </row> 
+    <row> 
+      <cell>Major</cell>
+      <cell>1-3-5</cell>
+      <cell>T Major</cell>
+      </row> 
+      <row> 
+        <cell>Suspended 2nd</cell>
+        <cell>1-2-5</cell>
+        <cell>Tsus2</cell>
+        </row> 
+        <row> 
+          <cell>Suspended 4th</cell>
+          <cell>1-4-5</cell>
+          <cell>Tsus4</cell>
+          </row> 
+          <row> 
+            <cell>Add 9th</cell>
+            <cell>1-3-5-9</cell>
+            <cell>Tadd9</cell>
+            </row> 
+            <row> 
+              <cell>Sixth</cell>
+              <cell>1-3-5-6</cell>
+              <cell>T 6</cell>
+              </row> 
+              <row> 
+                <cell>6add9</cell>
+                <cell>1-2-5-6-9</cell>
+                <cell>T6/9</cell>
+                </row> 
+                <row> 
+                  <cell>Major 7th</cell>
+                  <cell>1-3-5-7</cell>
+                  <cell>Tmaj7</cell>
+                  </row> 
+                  <row> 
+                    <cell>Major 9th</cell>
+                    <cell>1-3-5-7-9</cell>
+                    <cell>Tmaj9</cell>
+                    </row> 
 
-    
+                    <row> 
+                      <cell>Major7<sharp/>11</cell>
+                      <cell>1-3-5-7-<sharp/>11</cell>
+                      <cell>T maj7<sharp/>11</cell>
+                      </row> 
+                      <row> 
+                        <cell>Major 13th</cell>
+                        <cell>1-2-5-7-9-13</cell>
+                        <cell>Tmaj13</cell>
+                        </row> 
+                        <row> 
+                          <cell>
+                            
+                          </cell>
+                          <cell></cell>
+                          <cell></cell>
+                          </row> 
+                          <row> 
+                            <cell>Minor</cell>
+                            <cell>1-<flat/>3-5</cell>
+                            <cell>Tm</cell>
+                            </row> 
+                            <row> 
+                              <cell>minor add9</cell>
+                              <cell>1-<flat/>3-5-9</cell>
+                              <cell>Tm(add9)</cell>
+                              </row> 
+                              <row>
+                                <cell>minor 6th</cell>
+                                <cell>1-<flat/>3-5-6</cell>
+                                <cell>Tm6</cell>
+                              </row>
+                              <row> 
+                                <cell>minor<flat/>6</cell>
+                                <cell>1-<flat/>3-5-<flat/>6</cell>
+                                <cell>Tm<flat/>6</cell>
+                                </row> 
+                                <row> 
+                                  <cell>minor six add 9 </cell>
+                                  <cell>1-<flat/>3-5-6-9</cell>
+                                  <cell>Tm6/9</cell>
+                                  </row> 
+                                  <row> 
+                                    <cell>minor seventh</cell>
+                                    <cell>1-<flat/>3-5-<flat/>7</cell>
+                                    <cell>Tm7</cell>
+                                    </row> 
+                                    <row> 
+                                      <cell>minor seventh<flat/>5</cell>
+                                      <cell>1-<flat/>3-<flat/>5-7</cell>
+                                      <cell>Tm7<flat/>5</cell>
+                                      </row> 
+                                      <row> 
+                                        <cell>minor major seventh</cell>
+                                        <cell>1-<flat/>3-5-7-9</cell>
+                                        <cell>Tm(maj7)</cell>
+                                        </row> 
+                                        <row> 
+                                          <cell>minor ninth</cell>
+                                          <cell>1-<flat/>3-5-<flat/>7-9</cell>
+                                          <cell>Tm9</cell>
+                                        </row>
+                                        
+                                      
+
+
+
+           
+   
+   
+   
+   
+   
+   
+          </tabular>
+  </table>
+
 <image source="chord-construction-chart.png">
   <shortdescription>How different Chords are Constructed and Named</shortdescription>
 </image>
-
-
-
-
+<p>Using The Chord Construction Chart other Chords can be constructed using the intervals shown from the root note in each case. Replace X with the Tonic note then count the intervals show in the formula from the Tonic.</p>
 
 </section>
