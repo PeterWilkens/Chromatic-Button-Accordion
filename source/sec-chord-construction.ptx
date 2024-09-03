@@ -251,13 +251,7 @@
                         <cell>1-2-5-7-9-13</cell>
                         <cell>Tmaj13</cell>
                         </row> 
-                        <row> 
-                          <cell>
-                            
-                          </cell>
-                          <cell></cell>
-                          <cell></cell>
-                          </row> 
+                        
                           <row> 
                             <cell>Minor</cell>
                             <cell>1-<flat/>3-5</cell>
@@ -304,12 +298,40 @@
                                           <cell>Tm9</cell>
                                         </row>
                                         
-                                      
+                                        <row> 
+                                          <cell>minor ninth<flat/>5</cell>
+                                          <cell>1-<flat/>3-5-7-9</cell>
+                                          <cell>Tm9(maj7)</cell>
+                                        </row>
 
-
-
+                                        <row> 
+                                          <cell>minor ninth<flat/>5</cell>
+                                          <cell>1-<flat/>3-<flat/>5-<flat/>7-9</cell>
+                                          <cell>Tm9<flat/>5</cell>
+                                        </row>
+                                        <row> 
+                                          <cell>minor eleventh<flat/>5</cell>
+                                          <cell>1-<flat/>3-5-<flat/>7-9-11</cell>
+                                          <cell>Tm11</cell>
+                                        </row>
+                                        <row> 
+                                          <cell>minor thirteenth</cell>
+                                          <cell>1-<flat/>3-5-<flat/>7-9-11-13</cell>
+                                          <cell>Tm13</cell>
+                                        </row>
            
-   
+                                        <row> 
+                                          <cell>
+                                             </cell>
+                                          <cell></cell>
+                                          <cell></cell>
+                                          </row> 
+                                          <row> 
+                                            <cell>
+                                               </cell>
+                                            <cell></cell>
+                                            <cell></cell>
+                                            </row> 
    
    
    
