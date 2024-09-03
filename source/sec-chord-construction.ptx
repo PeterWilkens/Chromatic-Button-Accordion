@@ -194,9 +194,11 @@
 </table>
 <table>
 <title>Chord Construction Interval Chart</title>
-    <tabular>
+   
+<tabular>
+
     <row header="yes">
-    <cell>Chord Type</cell>
+    <cell>Chord Identification</cell>
     <cell>Interval Structure</cell>
     <cell>Chord Name</cell>
     </row> 

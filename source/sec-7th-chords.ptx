@@ -56,7 +56,7 @@
       <cell>Diminished Triad</cell>
       <cell>Minor 7th</cell>
       <cell>11 semitones</cell>
-      <cell>Minor7Flat5</cell>
+      <cell>Minor7<flat/>5</cell>
     </row>
     <row>
       <cell>Diminished Triad</cell>
@@ -67,6 +67,6 @@
 
 </tabular>
 </table>
-<p> The 7th chords are Diatonic to the Scale they are generated from. As an example look again at Table 4.1.1 earlier in this Chord Construction section and you can see that the Maj 7th, Minor 7th, the Dominant 7th and the  Minor 7 flat 5 are all generated fom the Major scale.</p>
-<p> The Diminished 7th Chord is interesting as any of its 4 constituent notes can be the Tonic, e.g in the E Dim Chord shown above the Chord can also be named as G, A sharp or C sharp.</p>
+<p> The 7th chords are Diatonic to the Scale they are generated from. As an example look again at Table 4.1.1 earlier in this Chord Construction section and you can see that the Maj 7th, Minor 7th, the Dominant 7th and the  Minor 7<flat/> 5 are all generated fom the Major scale.</p>
+<p> The Diminished 7th Chord is interesting as any of its 4 constituent notes can be the Tonic, e.g in the Edim Chord shown above, the Chord can also be named as Gdim, A <sharp/>dim or C <sharp/>dim.</p>
 </section>
