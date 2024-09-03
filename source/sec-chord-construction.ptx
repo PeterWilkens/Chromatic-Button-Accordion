@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-chord-construction" >
+<section xml:id="sec-chord-construction">
   <title>Chord Construction</title>
   
     <p> Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale. </p>
@@ -284,9 +284,27 @@
                                     </row> 
                                     <row> 
                                       <cell>minor seventh<flat/>5</cell>
-                                      <cell>1-<flat/>3-<flat/>5-7</cell>
+                                      <cell>1-<flat/>3-<flat/>5</cell>
                                       <cell>Tm7<flat/>5</cell>
                                       </row> 
+                                      <row> 
+                                        <cell>Diminished </cell>
+                                        <cell>1-<flat/>3-<flat/>5</cell>
+                                        <cell>Tdim</cell>
+                                        </row> 
+                                      
+                                      <row> 
+                                        <cell>Diminished7 </cell>
+                                        <cell>1-<flat/>3-<flat/>5-<doubleflat/>7</cell>
+                                        <cell>Tdim7</cell>
+                                        </row>>
+                                        <row> 
+                                          <cell>Augmented
+                                             </cell>
+                                          <cell>1-3-<sharp/>5</cell>
+                                          <cell>Taug</cell>
+                                          </row> 
+
                                       <row> 
                                         <cell>minor major seventh</cell>
                                         <cell>1-<flat/>3-5-7-9</cell>
@@ -321,28 +339,32 @@
                                         </row>
            
                                         <row> 
-                                          <cell>
-                                             </cell>
-                                          <cell></cell>
-                                          <cell></cell>
+                                          <cell>Dominant 7th </cell>
+                                          <cell>1-3-5-<flat/>7</cell>
+                                          <cell>T7</cell>
                                           </row> 
                                           <row> 
-                                            <cell>
+                                            <cell>Ninth
                                                </cell>
-                                            <cell></cell>
-                                            <cell></cell>
+                                            <cell>1-3-5-<flat/>7-9</cell>
+                                            <cell>T9</cell>
                                             </row> 
-   
+                                            <row> 
+                                              <cell>Eleventh </cell>
+                                              <cell>1-5-<flat/>7-9-11</cell>
+                                              <cell>T11</cell>
+                                              </row> 
+                                              <row> 
+                                                <cell>Thirteenth
+                                                   </cell>
+                                                <cell>1-3-5-<flat/>7-9-13</cell>
+                                                <cell>T13</cell>
+                                                </row> 
+       
    
    
    
    
           </tabular>
   </table>
-
-<image source="chord-construction-chart.png">
-  <shortdescription>How different Chords are Constructed and Named</shortdescription>
-</image>
-<p>Using The Chord Construction Chart other Chords can be constructed using the intervals shown from the root note in each case. Replace X with the Tonic note then count the intervals show in the formula from the Tonic.</p>
-
-</section>
+  </section>
