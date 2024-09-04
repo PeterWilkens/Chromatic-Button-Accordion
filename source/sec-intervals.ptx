@@ -2,10 +2,11 @@
 
 <section xml:id="sec-intervals" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Intervals</title>
- 
+ <introduction>
   <p>Before discussing scales it is useful to understand how intervals between notes are described.</p>
   <p>The musical distance between notes on  your instrument keyboard or on a musical staff is known as an interval. This interval might be described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
   <p>The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.</p>
+ </introduction>
 
   <table>
     <title>Number Count for the different intervals</title>
