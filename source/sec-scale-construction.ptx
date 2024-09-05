@@ -27,6 +27,10 @@
        <shortdescription>Scales of different types</shortdescription>
    </image> 
  </figure>
- 
+ <figure xml:id="Minor-Scales">
+  <image source="Minor-Scales.png">
+      <shortdescription>Minor Scale Score</shortdescription>
+  </image> 
+</figure>
 
   </section>
