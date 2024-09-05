@@ -8,6 +8,10 @@
   <p>The interval between two notes can be obtained by counting the number of semi-tones on the keyboard or staff but, when counting intervals, the first note, should be counted as one and not zero.</p>
  </introduction>
 
+<image source="Fifth Interval.jpg"></image>
+ <p>Example above shows two notes, an F and a C, on a staff with a treble clef. Counting the notes F to C: count F as one, F to F<sharp/>  as two, F<sharp/>>  to G as three, G to G<sharp/>  as four, G<sharp/>  to A as five, A to B<flat/>  as six, B<flat/>  to B as seven, and B to C as eight. F and C are eight semitones or five whole notes apart which indicates that the interval between these two notes is a fifth</p>
+
+
   <table>
     <title>Number Count for the different intervals</title>
     <tabular>
