@@ -13,9 +13,12 @@
    <image source="Triad.png">
       
    </image>
-  <image source="All Triads">
+ 
+   <image source="all-triads.png">
    
   </image>
-
+<image source="single-keyboard-diagram.png">
+  <shortdescription>single shape diagram only</shortdescription>
+</image>/
 
 </section>
