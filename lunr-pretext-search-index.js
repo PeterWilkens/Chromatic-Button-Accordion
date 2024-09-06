@@ -214,7 +214,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Triads and their Inversions",
-  "body": " Triads and their Inversions  Intervals of a Third are at the core of chord construction and Triads are made by stacking the third and fifth note of a scale on top of the Root note. In the C Major Scale, the third interval above C is E and the third interval above E is G. The C Major Triad is thus CEG.  It should also be noted that a Major Triad consists of a Minor Third stacked on top of a Major Third when in the Root position ie; in the case of C Major the Minor Third E to G is stacked on top of the Major Third C to E.  A C Minor Triad is produced in the same fashion by stacking the Third of the C Minor Scale on top of the Root with the Fifth stacked on top of the third, but in the case of the C Minor scale the Third is E and not E, thus the Minor Triad becomes C-E -G demonstrating that a Minor Triad consists of a Major Third Stacked on top of a Minor Third when in the Root Position.  All Triads can be played as Inversions when the order of the notes are changed. eg; 1st Inversion: 3rd, 5th, Root and 2nd Inversion Fifth, Root and 3rd.  The other main Triads are: The Diminished Triad and The Augmented Triad. They are combinations of dissimilar thirds. ie; the Diminished Triad is constructed from a minor third built onto a minor third and an Augmented Triad is constructed from a major third built onto a major third. Diagram 6.1.2 above shows the shape of each Chord. The Tonic note 1 gives the identity ie; if note 1 is D the Triad is a D Chord. Minor, Diminished or Augmented dependant on shape       single shape diagram only  \/ "
+  "body": " Triads and their Inversions  Intervals of a Third are at the core of chord construction and Triads are made by stacking the third and fifth note of a scale on top of the Root note. In the C Major Scale, the third interval above C is E and the third interval above E is G. The C Major Triad is thus CEG.  It should also be noted that a Major Triad consists of a Minor Third stacked on top of a Major Third when in the Root position ie; in the case of C Major the Minor Third E to G is stacked on top of the Major Third C to E.  A C Minor Triad is produced in the same fashion by stacking the Third of the C Minor Scale on top of the Root with the Fifth stacked on top of the third, but in the case of the C Minor scale the Third is E and not E, thus the Minor Triad becomes C-E -G demonstrating that a Minor Triad consists of a Major Third Stacked on top of a Minor Third when in the Root Position.  All Triads can be played as Inversions when the order of the notes are changed. eg; 1st Inversion: 3rd, 5th, Root and 2nd Inversion Fifth, Root and 3rd.  The other main Triads are: The Diminished Triad and The Augmented Triad. They are combinations of dissimilar thirds. ie; the Diminished Triad is constructed from a minor third built onto a minor third and an Augmented Triad is constructed from a major third built onto a major third. Diagram 6.1.2 above shows the shape of each Chord. The Tonic note 1 gives the identity ie; if note 1 is D the Triad is a D Chord. Minor, Diminished or Augmented dependant on shape  C Major Triad and Inversions                  "
+},
+{
+  "id": "Triads-8-1",
+  "level": "2",
+  "url": "Triads.html#Triads-8-1",
+  "type": "Figure",
+  "number": "4.2.1",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "Triads-8-2",
+  "level": "2",
+  "url": "Triads.html#Triads-8-2",
+  "type": "Figure",
+  "number": "4.2.2",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "Triads-8-3",
+  "level": "2",
+  "url": "Triads.html#Triads-8-3",
+  "type": "Figure",
+  "number": "4.2.3",
+  "title": "",
+  "body": "   "
 },
 {
   "id": "sec-7th-chords",
