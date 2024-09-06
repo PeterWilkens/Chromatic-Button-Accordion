@@ -8,17 +8,28 @@
   <p>All Triads can be played as Inversions when the order of the notes are changed. eg; 1st Inversion: 3rd, 5th, Root and 2nd Inversion Fifth, Root and 3rd.</p>
   <p> The other main Triads are: The Diminished Triad and The Augmented Triad. They are combinations of dissimilar thirds. ie; the Diminished Triad is constructed from a minor third built onto a minor third and an Augmented Triad is constructed from a major third built onto a major third. Diagram 6.1.2 above shows the shape of each Chord. The Tonic note 1 gives the identity ie; if note 1 is D the Triad is a D Chord. Minor, Diminished or Augmented dependant on shape</p>
  
+  <p>C Major Triad and Inversions</p>
+
+<sidebyside widths="28% 28% 28%" valigns="top top top">
+
+  <figure>
+    <caption></caption>
+    <image source="C Maj Root.png" />
+  </figure>
+  <figure>
+    <caption></caption>
+    <image source="C Maj 1st Inv.png" />
+  </figure>
+  <figure>
+    <caption></caption>
+    <image source="C Maj 2nd Inv.png" />
+  </figure>
+
+</sidebyside>
+
+<image source="all-triads.png">
+</image>
 
 
-   <image source="Triad.png">
-      
-   </image>
- 
-   <image source="all-triads.png">
-   
-  </image>
-<image source="single-keyboard-diagram.png">
-  <shortdescription>single shape diagram only</shortdescription>
-</image>/
 
 </section>
