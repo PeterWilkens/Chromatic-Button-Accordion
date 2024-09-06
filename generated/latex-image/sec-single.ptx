@@ -1,0 +1,93 @@
+\begin{tikzpicture}
+
+\useasboundingbox (0,0) rectangle (3,6);
+%\node at (2,2) {};
+%\node at (7,2) {};
+\draw (current bounding box.north east) -- (current bounding box.north west) -- (current bounding box.south west) -- (current bounding box.south east) -- cycle;
+
+\node[scale=1.75]at (6.1,21.5){Single Diagram per Page};
+\node[scale=1]at (2,20.5){Bottom of Accordion};
+\node[scale=1]at (1.5,-1){Top of Accordion};
+
+\tikzset{user1/.style={circle,line width=0.05mm, inner sep=0pt,minimum size=0.46cm,fill=none,draw=gray}}
+\tikzset{user2/.style={circle,line width=0.25mm,inner sep= 0pt, minimum size=0.4cm, fill=lightgray, draw=black}}
+
+%GRID
+\draw[step=0.25cm,lightgray,ultra thin] (0,0) grid (3,6);
+
+Axes Numbering
+\foreach \x in {0,1,2,...,3}
+\draw (\x cm,1pt) -- (\x cm,-1pt) node[anchor=north] {$\x$};
+\foreach \y in {0,1,2,...,6}
+\draw (1pt,\y cm) -- (-1pt,\y cm) node[anchor=east] {$\y$};
+
+% %Top Row
+ \node [scale=0.75][above] at (1,6) {1};
+\node[scale=0.75][above] at (2,6) {2};
+\node[scale=0.75][above] at (3,6) {3};
+
+% Right Side Row
+ \node[scale=0.75] at (3,1) {1};
+ \node[scale=0.75]at (3,2) {2};
+ \node[scale=0.75]at (3,3) {3};
+ \node[scale=0.75]at (3,4) {4};
+ \node[scale=0.75]at (3,5) {5};
+
+% %\node[scale=1]at (1.5,14.25){CMaj7};
+% %\node[scale=1]at (1.5,13.95){2nd Inversion};
+% %\node[scale=0.75]at (1.5,13.6){Drop 2 Shape};
+
+% % %\draw[line width=1,-stealth,blue] (2,16.75) -- (1.6,16.5);
+% % %\draw [line width=1,-stealth, blue](1.5,17.5) -- (1.1,17.25);
+
+% Chord Labelling
+%\node[scale=1]at (1.5,8.25){Ami7};
+%\node[scale=1]at (1.5,8){2nd Inversion};
+%\node[scale=0.75]at (1.5,7.7){Drop 2};
+
+% %CHORD NOTE LABELS
+% %SHAPE 1
+% %Column 1
+\node[user1] at (0.5,5.0) {C\sh};
+\node[user1] at (0.5,4.5) {B\fl};
+\node[user1] at (0.5,4.0) {G};
+\node[user1] at (0.5,3.5) {E};
+\node[user1] at (0.5,3.0) {C\sh};
+\node[user1] at (0.5,2.5) {B\fl};
+\node[user1] at (0.5,2.0) {G};
+%Column 2
+\node[user1] at (1.0,5.25) {E\fl};
+\node[user1] at (1.0,4.75) {C};
+\node[user1] at (1.0,4.25) {A};
+\node[user1] at (1.0,3.75) {G\fl};
+\node[user1] at (1.0,3.25) {E\fl};
+\node[user1] at (1.0,2.75) {C};
+\node[user1] at (1.0,2.25) {A};
+\node[user1] at (1.0,1.75) {G\fl};
+%Column 3
+\node[user1] at (1.5,5) {D};
+\node[user1] at (1.5,4.5) {B};
+\node[user1] at (1.5,4.0) {A\fl};
+\node[user1] at (1.5,3.5) {F};
+\node[user1] at (1.5,3.0) {D};
+\node[user1] at (1.5,2.5) {B};
+\node[user1] at (1.5,2.0) {A\fl};
+%Column 4
+\node[user1] at (2.0,5.25) {E};
+\node[user1] at (2.0,4.75) {C\sh};
+\node[user1] at (2.0,4.25) {B\fl};
+\node[user1] at (2.0,3.75) {G};
+\node[user1] at (2.0,3.25) {E};
+\node[user1] at (2.0,2.75) {C\sh};
+\node[user1] at (2.0,2.25) {B\fl};
+\node[user1] at (2.0,1.75) {G};
+%Column 5
+\node[user1] at (2.5,5) {E\fl};
+\node[user1] at (2.5,4.5) {C};
+\node[user1] at (2.5,4.0) {A};
+\node[user1] at (2.5,3.5) {G\fl};
+\node[user1] at (2.5,3.0) {E\fl};
+\node[user1] at (2.5,2.5) {C};
+\node[user1] at (2.5,2) {A};
+
+\end{tikzpicture}
