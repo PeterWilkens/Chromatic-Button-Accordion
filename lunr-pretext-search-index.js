@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Scales",
-  "body": " Scales   All Major Scales have a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic notes.  An alternative method of generating any major scale would be to count through the Chromatic Scale note to note. Using C Major again as an example, using the following count from the C Tonic note 1 3 5 6 8 10 and 12 will provide the notes of any Major Scale.  Similarly all other scales can be generated using the count specific to that type of scale.  See Section 3.3 on Scale Construction for details of other scales and how they are made up.    Tones between different degrees of a Major Scale.    Scale Degree  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.  In other words shapes can be moved to any position on the keyboard and maintain the relative position of keyboard buttons for specific Scale and Chord types.  Diagram of Scales Constructed where Tonic is in Column 1 of the accordion i.e; C, A, E or G .     Scales from Col 1      Scales from Col 2    Major Scales 3 Columns    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      "
+  "body": " Scales   All Major Scales have a sequence of whole tone, whole tone, half tone, whole tone,whole tone, half tone between the tonic notes.  An alternative method of generating any major scale would be to count through the Chromatic Scale note to note. Using C Major again as an example, using the following count from the C Tonic note 1 3 5 6 8 10 and 12 will provide the notes of any Major Scale.  Similarly all other scales can be generated using the count specific to that type of scale.  See Section 3.3 on Scale Construction for details of other scales and how they are made up.    Tones between different degrees of a Major Scale.    Scale Degree  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.   Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1       G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2       D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3      "
 },
 {
   "id": "sec-scales-3",
@@ -118,22 +118,22 @@ var ptx_lunr_docs = [
   "body": " Tones between different degrees of a Major Scale.    Scale Degree  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd    "
 },
 {
-  "id": "scale-col-1",
+  "id": "sec-scales-4-5-1",
   "level": "2",
-  "url": "sec-scales.html#scale-col-1",
+  "url": "sec-scales.html#sec-scales-4-5-1",
   "type": "Figure",
   "number": "3.2.2",
   "title": "",
-  "body": "  Scales from Col 1   "
+  "body": " C Major Tonic on Column 1   "
 },
 {
-  "id": "scale-col-2",
+  "id": "sec-scales-4-5-2",
   "level": "2",
-  "url": "sec-scales.html#scale-col-2",
+  "url": "sec-scales.html#sec-scales-4-5-2",
   "type": "Figure",
   "number": "3.2.3",
   "title": "",
-  "body": "  Scales from Col 2   "
+  "body": " Moveable Shape,Tonic on Column 1   "
 },
 {
   "id": "sec-scales-4-6-1",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.2.4",
   "title": "",
-  "body": " C Major Tonic on Column 1   "
+  "body": " G Major Tonic on Column 2   "
 },
 {
   "id": "sec-scales-4-6-2",
@@ -151,7 +151,25 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.2.5",
   "title": "",
-  "body": " Moveable Shape,Tonic on Column 1   "
+  "body": " Moveable Shape,Tonic on Column 2   "
+},
+{
+  "id": "sec-scales-4-7-1",
+  "level": "2",
+  "url": "sec-scales.html#sec-scales-4-7-1",
+  "type": "Figure",
+  "number": "3.2.6",
+  "title": "",
+  "body": " D Major Tonic on Column 3   "
+},
+{
+  "id": "sec-scales-4-7-2",
+  "level": "2",
+  "url": "sec-scales.html#sec-scales-4-7-2",
+  "type": "Figure",
+  "number": "3.2.7",
+  "title": "",
+  "body": " Moveable Shape,Tonic on Column 3   "
 },
 {
   "id": "scale-construction",
@@ -313,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Major ii-V-I with added note in Bass.",
-  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..    Diagrams of ii V I progressions      C Major Circle of 5 progression of Major 7ths     Circle of 5ths from the C Major Scale  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. (The circle of fifths generates the same sequence of chords in the reverse order.) The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chord are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord. You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.    Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
+  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..    Diagrams of ii V I progressions     Circle of 5ths from the C Major Scale  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. (The circle of fifths generates the same sequence of chords in the reverse order.) The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chord are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord. You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.    Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
 },
 {
   "id": "2-5-1-chord-progression",
@@ -325,20 +343,11 @@ var ptx_lunr_docs = [
   "body": "  Diagrams of ii V I progressions   "
 },
 {
-  "id": "Maj7-Circle-5-Progression",
-  "level": "2",
-  "url": "sec-251-progression.html#Maj7-Circle-5-Progression",
-  "type": "Figure",
-  "number": "5.1.2",
-  "title": "",
-  "body": "  C Major Circle of 5 progression of Major 7ths   "
-},
-{
   "id": "C-Maj-Circle-5ths",
   "level": "2",
   "url": "sec-251-progression.html#C-Maj-Circle-5ths",
   "type": "Figure",
-  "number": "5.1.3",
+  "number": "5.1.2",
   "title": "",
   "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
@@ -347,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-251-progression.html#C-Maj-Circle-5ths-Page-2",
   "type": "Figure",
-  "number": "5.1.4",
+  "number": "5.1.3",
   "title": "",
   "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
@@ -356,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-251-progression.html#C-Maj-Circle-5ths-Page-3",
   "type": "Figure",
-  "number": "5.1.5",
+  "number": "5.1.4",
   "title": "",
   "body": " Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)   "
 },
