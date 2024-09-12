@@ -78,8 +78,21 @@
         <shortdescription>Scales from Col 2</shortdescription>
     </image> 
  </figure>
+ <p>Major Scales 3 Columns</p>
 
+<sidebyside widths="48% 48%" valigns="top top">
 
+  <figure>
+    <caption>C Major Tonic on Column 1</caption>
+    <image source="Scale_Shape_C_Major.png" />
+  </figure>
+
+  <figure>
+    <caption>Moveable Shape,Tonic on Column 1</caption>
+    <image source="Scale_Shape_C_Major_with_fingering.png" />
+  </figure>
+ 
+</sidebyside>
 
 
 

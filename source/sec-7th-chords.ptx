@@ -4,7 +4,7 @@
   <title>7th Chords</title>
   <p>These shapes can be moved to any position on the keyboard and the Chord identity is given by the Tonic of the chord (in the following example the Tonic is E)</p>
   <p>Note how the chord is changed by altering the seventh note by an interval of a semitone.</p>
-  <p>In each case the seventh chord is construced by adding a seventh of a particular type to a Triad. In the case of a Major triad adding a Major 7th produces a Major seventh chord, but adding a minor seventh produces a Dominant Seventh chord.</p>
+  <p>In each case the seventh chord is constructed by adding a seventh of a particular type to a Triad. In the case of a Major triad adding a Major 7th produces a Major seventh chord, but adding a minor seventh produces a Dominant Seventh chord.</p>
   <figure width="100\%" xml:id="sec-seventh-chords">
     <image source="All-the-7th-Chords.png">
         <shortdescription>7th Chord Shape Diagrams</shortdescription>
@@ -68,5 +68,5 @@
 </tabular>
 </table>
 <p> The 7th chords are Diatonic to the Scale they are generated from. As an example look again at Table 4.1.1 earlier in this Chord Construction section and you can see that the Maj 7th, Minor 7th, the Dominant 7th and the  Minor 7<flat/> 5 are all generated fom the Major scale.</p>
-<p> The Diminished 7th Chord is interesting as any of its 4 constituent notes can be the Tonic, e.g in the Edim Chord shown above, the Chord can also be named as Gdim, A <sharp/>dim or C <sharp/>dim.</p>
+<p> The Diminished 7th Chord is interesting as any of its 4 constituent notes can be the Tonic, e.g in the Edim7 Chord shown above, the Chord can also be named as Gdim, A <sharp/>dim or C <sharp/>dim.</p>
 </section>
