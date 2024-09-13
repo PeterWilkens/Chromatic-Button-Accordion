@@ -1,0 +1,56 @@
+
+  
+  <section>xml:id="Scale-shapes" xmlns:xi="http://www.w3.org/2001/XInclude"
+    <title>Scale Shapes</title>
+  <introduction>
+    <p> It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the "shape" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide  chords and scales in all the other Keys.</p>
+    
+  </introduction>
+
+ <p>Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.</p>
+<p>
+  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left
+</p>
+<sidebyside widths="48% 48%" valigns="top top">
+
+  <figure>
+    <caption>C Major Tonic on Column 1</caption>
+    <image source="Scale_Shape_C_Major.png" />
+  </figure>
+
+  <figure>
+    <caption>Moveable Shape,Tonic on Column 1</caption>
+    <image source="Scale_Shape_C_Major_with_fingering.png" />
+  </figure>
+ 
+</sidebyside>
+
+<sidebyside widths="48% 48%" valigns="top top">
+
+  <figure>
+    <caption>G Major Tonic on Column 2</caption>
+    <image source="Scale_Shape_G_Major.png" />
+  </figure>
+
+  <figure>
+    <caption>Moveable Shape,Tonic on Column 2</caption>
+    <image source="Scale_Shape_G_Major_with_fingering.png" />
+  </figure>
+ 
+</sidebyside>
+<sidebyside widths="48% 48%" valigns="top top">
+
+  <figure>
+    <caption>D Major Tonic on Column 3</caption>
+    <image source="Scale_Shape_D_Major.png" />
+  </figure>
+
+  <figure>
+    <caption>Moveable Shape,Tonic on Column 3</caption>
+    <image source="Scale_Shape_D_Major_with_fingering.png" />
+  </figure>
+ 
+</sidebyside>
+
+
+  </section>
