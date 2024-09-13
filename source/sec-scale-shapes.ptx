@@ -6,6 +6,9 @@
     <p> It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the "shape" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide  chords and scales in all the other Keys.</p>
     
   </introduction>
+<subsection xml:id="Major-Scale-Shapes">
+    <title>Major Scale Shapes</title>
+    
 
  <p>Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.</p>
 <p>
@@ -51,6 +54,9 @@
   </figure>
  
 </sidebyside>
+</subsection>
 
-
+<subsection xml:id="Minor-Scale-Shapes">
+    <title>Minor Scale Shapes</title>
+</subsection>
   </section>
