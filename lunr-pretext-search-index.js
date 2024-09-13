@@ -169,57 +169,57 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Scale Shapes",
-  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.   Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1       G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2       D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3     "
+  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1       G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2       D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes   "
 },
 {
-  "id": "ch-scales-intervals-6-5-1",
+  "id": "Major-Scale-Shapes-4-1",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-5-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-4-1",
   "type": "Figure",
   "number": "3.4.1",
   "title": "",
   "body": " C Major Tonic on Column 1   "
 },
 {
-  "id": "ch-scales-intervals-6-5-2",
+  "id": "Major-Scale-Shapes-4-2",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-5-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-4-2",
   "type": "Figure",
   "number": "3.4.2",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 1   "
 },
 {
-  "id": "ch-scales-intervals-6-6-1",
+  "id": "Major-Scale-Shapes-5-1",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-6-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-5-1",
   "type": "Figure",
   "number": "3.4.3",
   "title": "",
   "body": " G Major Tonic on Column 2   "
 },
 {
-  "id": "ch-scales-intervals-6-6-2",
+  "id": "Major-Scale-Shapes-5-2",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-6-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-5-2",
   "type": "Figure",
   "number": "3.4.4",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 2   "
 },
 {
-  "id": "ch-scales-intervals-6-7-1",
+  "id": "Major-Scale-Shapes-6-1",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-7-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-6-1",
   "type": "Figure",
   "number": "3.4.5",
   "title": "",
   "body": " D Major Tonic on Column 3   "
 },
 {
-  "id": "ch-scales-intervals-6-7-2",
+  "id": "Major-Scale-Shapes-6-2",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#ch-scales-intervals-6-7-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-6-2",
   "type": "Figure",
   "number": "3.4.6",
   "title": "",
