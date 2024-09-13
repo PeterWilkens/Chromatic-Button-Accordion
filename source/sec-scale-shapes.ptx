@@ -54,9 +54,20 @@
   </figure>
  
 </sidebyside>
+
 </subsection>
 
 <subsection xml:id="Minor-Scale-Shapes">
     <title>Minor Scale Shapes</title>
 </subsection>
+
+<subsection xml:id="Diminished-Scale-Shapes">
+  <title>Diminished Scale Shapes</title>
+</subsection>
+
+<subsection xml:id="Whole-Tone-Scale-Shapes">
+  <title>Whole Tone Scale Shapes</title>
+</subsection>
+
+
   </section>
