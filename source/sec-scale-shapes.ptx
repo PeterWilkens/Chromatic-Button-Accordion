@@ -15,7 +15,7 @@
 <p>
   Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left
 </p>
-<sidebyside widths="48% 48%" valigns="top top">
+<!--<sidebyside widths="48% 48%" valigns="top top">-->
 
   <figure>
     <caption>C Major Tonic on Column 1</caption>
@@ -27,9 +27,9 @@
     <image source="Scale_Shape_C_Major_with_fingering.png" />
   </figure>
  
-</sidebyside>
+<!--</sidebyside>
 
-<sidebyside widths="48% 48%" valigns="top top">
+<sidebyside widths="48% 48%" valigns="top top">-->
 
   <figure>
     <caption>G Major Tonic on Column 2</caption>
@@ -41,8 +41,8 @@
     <image source="Scale_Shape_G_Major_with_fingering.png" />
   </figure>
  
-</sidebyside>
-<sidebyside widths="48% 48%" valigns="top top">
+<!--</sidebyside>
+<sidebyside widths="48% 48%" valigns="top top">-->
 
   <figure>
     <caption>D Major Tonic on Column 3</caption>
@@ -54,7 +54,7 @@
     <image source="Scale_Shape_D_Major_with_fingering.png" />
   </figure>
  
-</sidebyside>
+<!--</sidebyside>-->
 
 </subsection>
 
