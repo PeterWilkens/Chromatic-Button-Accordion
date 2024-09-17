@@ -1,0 +1,44 @@
+<section xml:id="sec-free-bass-scale-shapes">xmlns:xi="http://www.w3.org/2001/XInclude"
+    <title>free-bass-scale-shapes</title>
+    <introduction>
+        <p> Moveable scales on the three outermost columns of the free bass keyboard</p>
+    </introduction>
+
+    <subsection>xml:id="sub-sec-free-bass-moveable-major-scale-shapes" xmlns:xi="http://www.w3.org/2001/XInclude"
+
+  <title>Free Bass Major Scale Shapes all 3 Columns</title>
+  
+
+       <figure>
+          <caption>Free Bass Scale Shape C Major</caption>
+          <image source="Free Bass Scale Diagram C Major Col 1 Shape.png" />
+        </figure>
+
+
+      <sidebyside widths="48% 48%" valigns="bottom bottom">
+
+        <figure>
+          <caption>Free Bass Scale Shape G Major</caption>
+          <image source="Free Bass Scale Diagram G Major Col 2 Shape.png"/>
+        </figure>
+      <figure>
+          <caption>Moveable Shape,Tonic on Column 2 with fingering</caption>
+          <image source="Free Bass Scale Diagram G Major with fingering.png" />
+          </figure>
+
+      </sidebyside> 
+
+
+
+
+
+
+
+
+
+
+
+</subsection>
+
+
+</section>

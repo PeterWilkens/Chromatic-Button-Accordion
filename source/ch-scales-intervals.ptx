@@ -15,4 +15,5 @@
 <xi:include href="sec-scales.ptx"/>
 <xi:include href="sec-scale-construction.ptx" />
 <xi:include href="sec-scale-shapes.ptx" />
+<xi:include href="sec-free-bass-scale-shapes.ptx" />
 </chapter>
