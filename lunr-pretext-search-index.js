@@ -169,57 +169,57 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Scale Shapes",
-  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1       G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2       D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes    Diminished Scale Shapes    Whole Tone Scale Shapes   "
+  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2      D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes    Diminished Scale Shapes    Whole Tone Scale Shapes   "
 },
 {
-  "id": "Major-Scale-Shapes-4-1",
+  "id": "Major-Scale-Shapes-4",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-4-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-4",
   "type": "Figure",
   "number": "3.4.1",
   "title": "",
   "body": " C Major Tonic on Column 1   "
 },
 {
-  "id": "Major-Scale-Shapes-4-2",
+  "id": "Major-Scale-Shapes-5",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-4-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-5",
   "type": "Figure",
   "number": "3.4.2",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 1   "
 },
 {
-  "id": "Major-Scale-Shapes-5-1",
+  "id": "Major-Scale-Shapes-6",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-5-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-6",
   "type": "Figure",
   "number": "3.4.3",
   "title": "",
   "body": " G Major Tonic on Column 2   "
 },
 {
-  "id": "Major-Scale-Shapes-5-2",
+  "id": "Major-Scale-Shapes-7",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-5-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-7",
   "type": "Figure",
   "number": "3.4.4",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 2   "
 },
 {
-  "id": "Major-Scale-Shapes-6-1",
+  "id": "Major-Scale-Shapes-8",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-6-1",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-8",
   "type": "Figure",
   "number": "3.4.5",
   "title": "",
   "body": " D Major Tonic on Column 3   "
 },
 {
-  "id": "Major-Scale-Shapes-6-2",
+  "id": "Major-Scale-Shapes-9",
   "level": "2",
-  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-6-2",
+  "url": "ch-scales-intervals-6.html#Major-Scale-Shapes-9",
   "type": "Figure",
   "number": "3.4.6",
   "title": "",
@@ -231,8 +231,8 @@ var ptx_lunr_docs = [
   "url": "sec-free-bass-scale-shapes.html",
   "type": "Section",
   "number": "3.5",
-  "title": "free-bass-scale-shapes",
-  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" free-bass-scale-shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major      Free Bass Scale Shape G Major     Moveable Shape,Tonic on Column 2 with fingering      "
+  "title": "Free Bass Scale Shapes",
+  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major     -- Free Bass Scale Shape G Major     Moveable Shape,Tonic on Column 2 with fingering      Free Bass Scale Shape D Major     "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-2",
@@ -244,22 +244,31 @@ var ptx_lunr_docs = [
   "body": " Free Bass Scale Shape C Major   "
 },
 {
-  "id": "sec-free-bass-scale-shapes-3-3-1",
+  "id": "sec-free-bass-scale-shapes-3-3",
   "level": "2",
-  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-3-1",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-3",
   "type": "Figure",
   "number": "3.5.2",
   "title": "",
-  "body": " Free Bass Scale Shape G Major   "
+  "body": "-- Free Bass Scale Shape G Major   "
 },
 {
-  "id": "sec-free-bass-scale-shapes-3-3-2",
+  "id": "sec-free-bass-scale-shapes-3-4",
   "level": "2",
-  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-3-2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-4",
   "type": "Figure",
   "number": "3.5.3",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 2 with fingering   "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-5",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-5",
+  "type": "Figure",
+  "number": "3.5.4",
+  "title": "",
+  "body": " Free Bass Scale Shape D Major   "
 },
 {
   "id": "sec-chord-construction",
