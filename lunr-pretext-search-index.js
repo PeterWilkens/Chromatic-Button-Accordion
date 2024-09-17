@@ -226,6 +226,42 @@ var ptx_lunr_docs = [
   "body": " Moveable Shape,Tonic on Column 3   "
 },
 {
+  "id": "sec-free-bass-scale-shapes",
+  "level": "1",
+  "url": "sec-free-bass-scale-shapes.html",
+  "type": "Section",
+  "number": "3.5",
+  "title": "free-bass-scale-shapes",
+  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" free-bass-scale-shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major      Free Bass Scale Shape G Major     Moveable Shape,Tonic on Column 2 with fingering      "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-2",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-2",
+  "type": "Figure",
+  "number": "3.5.1",
+  "title": "",
+  "body": " Free Bass Scale Shape C Major   "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-3-1",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-3-1",
+  "type": "Figure",
+  "number": "3.5.2",
+  "title": "",
+  "body": " Free Bass Scale Shape G Major   "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-3-2",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-3-2",
+  "type": "Figure",
+  "number": "3.5.3",
+  "title": "",
+  "body": " Moveable Shape,Tonic on Column 2 with fingering   "
+},
+{
   "id": "sec-chord-construction",
   "level": "1",
   "url": "sec-chord-construction.html",
@@ -340,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Major ii-V-I with added note in Bass.",
-  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..    Diagrams of ii V I progressions    "
+  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..  Incidentally, the chords shown are all on the treble keyboard but additional notes on the bass side also serve to alter the chord. e.g; an F major chord played on free-bass or stradella changes to a Dmi7 when a D note is added. F A and C which is F Major becomes D F A C which is D minor7.    Diagrams of ii V I progressions    "
 },
 {
   "id": "2-5-1-chord-progression",
