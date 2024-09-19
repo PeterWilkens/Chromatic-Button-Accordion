@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.5",
   "title": "Free Bass Scale Shapes",
-  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major      Free Bass Scale Shape G Major     Moveable Shape Scale with Tonic in Column 2 with fingering      Column 3 Free Bass Scale shape D Major      Moveable Shape Scale with Tonic in Column 3 with fingering      "
+  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major     Moveable Scale Shape with Tonic in Column 1      Free Bass Scale Shape G Major     Moveable Shape Scale with Tonic in Column 2 with fingering      Column 3 Free Bass Scale shape D Major      Moveable Shape Scale with Tonic in Column 3 with fingering      "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-2",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.2",
   "title": "",
-  "body": " Free Bass Scale Shape G Major   "
+  "body": " Moveable Scale Shape with Tonic in Column 1   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-4",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.3",
   "title": "",
-  "body": " Moveable Shape Scale with Tonic in Column 2 with fingering   "
+  "body": " Free Bass Scale Shape G Major   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-5",
@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.4",
   "title": "",
-  "body": " Column 3 Free Bass Scale shape D Major    "
+  "body": " Moveable Shape Scale with Tonic in Column 2 with fingering   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-6",
@@ -276,6 +276,15 @@ var ptx_lunr_docs = [
   "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-6",
   "type": "Figure",
   "number": "3.5.5",
+  "title": "",
+  "body": " Column 3 Free Bass Scale shape D Major    "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-7",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-7",
+  "type": "Figure",
+  "number": "3.5.6",
   "title": "",
   "body": " Moveable Shape Scale with Tonic in Column 3 with fingering    "
 },
