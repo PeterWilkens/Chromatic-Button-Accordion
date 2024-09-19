@@ -18,6 +18,7 @@
     <xi:include href="./ch-chords.ptx" />
     <xi:include href="./ch-chord-progressions.ptx" />
     <xi:include href="./ch-chord-diagrams.ptx" />
+   
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

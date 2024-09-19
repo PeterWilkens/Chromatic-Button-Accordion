@@ -17,23 +17,28 @@
 
      <!-- <sidebyside widths="48% 48%" valigns="bottom bottom">-->
 
-        <figure>--
+        <figure>
           <caption>Free Bass Scale Shape G Major</caption>
           <image source="Free Bass Scale Diagram G Major Col 2 Shape.png"/>
         </figure>
 
       <figure>
-          <caption>Moveable Shape,Tonic on Column 2 with fingering</caption>
+          <caption>Moveable Shape Scale with Tonic in Column 2 with fingering</caption>
           <image source="Free Bass Scale Diagram G Major with fingering.png" />
           </figure>
 
       <!--</sidebyside>-->
+<figure>
+  <caption>Column 3 Free Bass Scale shape D Major</caption>
+  <image source="Free Bass Scale Diagram D Major Col 3 Shape.png">
+  </image>
+</figure>
 
       <figure>
-        <caption>Free Bass Scale Shape D Major</caption>
-        <image source="Free Bass Scale Diagram D Major Col 3 Shape.png" />
+        <caption>Moveable Shape Scale with Tonic in Column 3 with fingering</caption>
+        <image source="Free Bass Scale D Major with fingering.png">
+        </image>
       </figure>
-
 
 
 </subsection>
