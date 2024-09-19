@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.5",
   "title": "Free Bass Scale Shapes",
-  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major     -- Free Bass Scale Shape G Major     Moveable Shape,Tonic on Column 2 with fingering      Free Bass Scale Shape D Major     "
+  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major      Free Bass Scale Shape G Major     Moveable Shape Scale with Tonic in Column 2 with fingering      Column 3 Free Bass Scale shape D Major      Moveable Shape Scale with Tonic in Column 3 with fingering      "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-2",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.2",
   "title": "",
-  "body": "-- Free Bass Scale Shape G Major   "
+  "body": " Free Bass Scale Shape G Major   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-4",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.3",
   "title": "",
-  "body": " Moveable Shape,Tonic on Column 2 with fingering   "
+  "body": " Moveable Shape Scale with Tonic in Column 2 with fingering   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-5",
@@ -268,7 +268,16 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.5.4",
   "title": "",
-  "body": " Free Bass Scale Shape D Major   "
+  "body": " Column 3 Free Bass Scale shape D Major    "
+},
+{
+  "id": "sec-free-bass-scale-shapes-3-6",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#sec-free-bass-scale-shapes-3-6",
+  "type": "Figure",
+  "number": "3.5.5",
+  "title": "",
+  "body": " Moveable Shape Scale with Tonic in Column 3 with fingering    "
 },
 {
   "id": "sec-chord-construction",
@@ -403,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Progression of Diatonic Chords from C Major Scale.",
-  "body": " Progression of Diatonic Chords from C Major Scale.  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chord are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord.  You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.   Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
+  "body": " Progression of Diatonic Chords from C Major Scale.  This progression of chords all come from the scale of C major and follow each other a 4th interval apart. The chords are of different inversions and are chosen to provide a smooth transition, one chord to the next (voice leading). All of the chords are known as drop 2 chords where the note that would normally be second from the top is dropped to the bass position. This new bottom note is not necessarily the Root note of that particular chord.  You may also notice that the progression is effectively made up of a series of 2-5-1 chords. Playing through this progression is useful in demonstrating smooth voice leading and introduces a range of different chords which are all transferable to other positions on the keyboard, the same shape producing a different chord.   Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)     Circle of 5th Chords Diatonic to C Major   (Collection of Shapes arranged in 5ths in C Major)    "
 },
 {
   "id": "C-Maj-Circle-5ths",
