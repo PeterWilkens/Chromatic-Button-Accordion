@@ -456,8 +456,26 @@ var ptx_lunr_docs = [
   "url": "ch-chord-diagrams.html",
   "type": "Chapter",
   "number": "6",
-  "title": "Chord Diagrams15 per Page",
-  "body": " Chord Diagrams   Chords presented as different shapes in chord diagrams   15 per Page  These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.   Chord Shape Diagram   "
+  "title": "Chord Diagrams",
+  "body": " Chord Diagrams   Chords presented as different shapes in chord diagrams   These shape can be moved to any position on the keyboard and the Major chord name is given by the tonic (note 1) of the chord.   Chord Shape Diagram   "
+},
+{
+  "id": "ch-chord-melody",
+  "level": "1",
+  "url": "ch-chord-melody.html",
+  "type": "Chapter",
+  "number": "7",
+  "title": "Chord Melody",
+  "body": " Chord Melody   Simplistic method for producing a chord melody both hands.   Explain how this works practicing using circle of fifths   Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    3rd 7th  3rd 7th  3rd 7th  7th 3rd  3rd 7th  7th 3rd    L Hand   L Hand   L Hand     Root 5th   Root 5th   Root 5th      "
+},
+{
+  "id": "ch-chord-melody-4",
+  "level": "2",
+  "url": "ch-chord-melody.html#ch-chord-melody-4",
+  "type": "Table",
+  "number": "7.0.1",
+  "title": "Chord Melody Construction",
+  "body": " Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    3rd 7th  3rd 7th  3rd 7th  7th 3rd  3rd 7th  7th 3rd    L Hand   L Hand   L Hand     Root 5th   Root 5th   Root 5th     "
 },
 {
   "id": "backmatter-2",
