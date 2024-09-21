@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chord-melody" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Chord Melody </title>
+<introduction>
+   <p> Simplistic method for producing a chord melody both hands.</p>
+    </introduction>
+    <p>
+        Explain how this works practicing using circle of fifths
+    </p>
+   
+  <table>
+    <title>Chord Melody Construction</title>
+    <tabular>
+      <row header="yes">
+        <cell>ii</cell>
+        <cell>ii</cell>
+        <cell>V</cell>
+        <cell>V</cell>
+        <cell>I</cell>
+        <cell>I</cell>
+       
+
+      </row>
+      <row>
+        <cell>Dmi7</cell>
+        <cell></cell>
+        <cell>G7</cell>
+        <cell></cell>
+        <cell>CMaj7</cell>
+        <cell></cell>
+        
+      </row>
+      <row>
+      <cell>R Hand</cell>
+      <cell>R Hand</cell>
+      <cell>R Hand</cell>
+      <cell>R Hand</cell>
+      <cell>R Hand</cell>
+      <cell>R Hand</cell>
+     
+    </row>
+      <row>
+        <cell>3rd 7th</cell>
+        <cell>3rd 7th</cell>
+        <cell> 3rd 7th</cell>
+        <cell>7th 3rd</cell>
+        <cell>3rd 7th</cell>
+        <cell>7th 3rd</cell>
+       
+
+      </row>
+      <row>
+        <cell>L Hand</cell>
+        <cell></cell>
+        <cell>L Hand</cell>
+        <cell></cell>
+        <cell>L Hand</cell>
+        <cell></cell>
+        
+
+      </row>
+      <row>
+        <cell>Root 5th</cell>
+        <cell></cell>
+        <cell>Root 5th </cell>
+        <cell></cell>
+        <cell>Root 5th</cell>
+        <cell></cell>
+       
+
+      </row>
+    </tabular>
+  </table>
+
+        
+    </chapter>
