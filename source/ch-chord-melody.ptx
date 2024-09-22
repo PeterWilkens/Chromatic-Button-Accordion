@@ -41,35 +41,54 @@
      
     </row>
       <row>
-        <cell>3rd 7th</cell>
-        <cell>3rd 7th</cell>
-        <cell> 3rd 7th</cell>
-        <cell>7th 3rd</cell>
-        <cell>3rd 7th</cell>
-        <cell>7th 3rd</cell>
+        <cell>7th</cell>
+        <cell>3rd</cell>
+        <cell>7th</cell>
+        <cell>3rd</cell>
+        <cell>7th</cell>
+        <cell>3rd</cell>
        
 
       </row>
       <row>
-        <cell>L Hand</cell>
-        <cell></cell>
-        <cell>L Hand</cell>
-        <cell></cell>
-        <cell>L Hand</cell>
-        <cell></cell>
+        <cell>3rd</cell>
+        <cell>7th</cell>
+        <cell>3rd</cell>
+        <cell>7th</cell>
+        <cell>3rd</cell>
+        <cell>7th</cell>
         
 
       </row>
       <row>
-        <cell>Root 5th</cell>
+        <cell>L Hand</cell>
         <cell></cell>
-        <cell>Root 5th </cell>
+        <cell>L Hand</cell>
         <cell></cell>
-        <cell>Root 5th</cell>
+        <cell>L Hand</cell>
         <cell></cell>
-       
-
       </row>
+  
+    <row>
+      <cell>5th</cell>
+      <cell></cell>
+      <cell>5th</cell>
+      <cell></cell>
+      <cell>5th</cell>
+      <cell></cell>
+      
+
+    </row>
+    <row>
+      <cell>Root</cell>
+      <cell></cell>
+      <cell>Root</cell>
+      <cell></cell>
+      <cell>Root</cell>
+      <cell></cell>
+    </row>
+  
+   
     </tabular>
   </table>
 
