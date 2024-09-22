@@ -3,10 +3,14 @@
 <chapter xml:id="ch-chord-melody" xmlns:xi="http://www.w3.org/2001/XInclude">
 <title>Chord Melody </title>
 <introduction>
-   <p> Simplistic method for producing a chord melody both hands.</p>
+   <p> An easy way for beginners to start learning to play chord melodies using both keyboards is to use the following approach which will enhance familiarity with the keyboards and provide ear training.</p>
+     <p> Using the basic Chords from a Fake Book or Lead Sheet, the left hand plays the Root and Fifth of the Chord, The right hand plays the appropriate 3rd and 7th and the melody note of the tune.</p>
+     <p>If the notated chords include the more complex constructions eg, 11ths, 9ths etc; the added notes can be ignored and the basic Major, Minor and 7th chords used. If a 6th chord is called for then the 6th is used instead of the 7th.</p> 
+   <p>As the ear develops then the more complex chords can be introduced.</p>
+   
     </introduction>
     <p>
-        Explain how this works practicing using circle of fifths
+       The following exercise is designed to enable the beginner to gain familiarity  the various shapes and develop an ear for the music the following ii,V,I progressions should be practiced in all keys using the circle of 5ths.
     </p>
    
 
@@ -18,10 +22,10 @@
       <row header="yes" bottom="medium">>
         <cell bottom="major" right="minor">ii</cell>
         <cell bottom="major" right="medium">ii</cell>
-        <cell bottom="major" right="minor">V</cell>
-        <cell bottom="major" right="medium">V</cell>
-        <cell bottom="major" right="minor">I</cell>
-        <cell bottom="major" right="medium">I</cell>
+        <cell bottom="major" right="minor">V7</cell>
+        <cell bottom="major" right="medium">V7</cell>
+        <cell bottom="major" right="minor">IMaj7</cell>
+        <cell bottom="major" right="medium">IMaj7</cell>
       </row>
       <row>
         <cell bottom="minor" right="minor">R Hand</cell>
@@ -77,4 +81,74 @@
       </row>
     </tabular>
   </table>
+
+
+  <table>
+    <title>Chord Melody Specific Example Dmi7/G7/CMaj7</title>
+    <!--<tabular>-->
+      <tabular bottom="minor" top="medium" left="medium" right="medium" halign="left">
+      
+      <row header="yes" bottom="medium">>
+        <cell bottom="major" right="minor">Dmi7</cell>
+        <cell bottom="major" right="medium">Dmi7</cell>
+        <cell bottom="major" right="minor">G7</cell>
+        <cell bottom="major" right="medium">G7</cell>
+        <cell bottom="major" right="minor">C Maj7</cell>
+        <cell bottom="major" right="medium">CMaj</cell>
+      </row>
+      <row>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
+
+      </row>
+      <row>
+        <cell bottom="medium" right="minor">C</cell>
+        <cell bottom="medium" right="medium">F</cell>
+        <cell bottom="medium" right="minor">F</cell>
+        <cell bottom="medium" right="medium">B</cell>
+        <cell bottom="medium" right="minor">B</cell>
+        <cell bottom="medium" right="medium">E</cell>
+      </row>
+
+      <row>
+        <cell bottom="medium" right="minor">F</cell>
+        <cell bottom="medium" right="medium">C</cell>
+        <cell bottom="medium" right="minor">B</cell>
+        <cell bottom="medium" right="medium">F</cell>
+        <cell bottom="medium" right="minor">E</cell>
+        <cell bottom="medium" right="medium">B</cell>
+      </row>
+      <row>
+       
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+      </row>
+        <row>
+          <cell bottom="none" right="none">A</cell>
+          <cell bottom="none" right="medium"></cell>
+          <cell bottom="none" right="none">D</cell>
+          <cell bottom="none" right="medium"></cell>
+          <cell bottom="none" right="none">G</cell>
+          <cell bottom="none" right="medium"></cell>
+        </row>
+        <row>
+          <cell bottom="medium" right="none">D</cell>
+          <cell bottom="medium" right="medium"></cell>
+          <cell bottom="medium" right="none">G</cell>
+          <cell bottom="medium" right="medium"></cell>
+          <cell bottom="medium" right="none">C</cell>
+          <cell bottom="medium" right="medium"></cell>
+
+      </row>
+    </tabular>
+  </table>
+
     </chapter>
