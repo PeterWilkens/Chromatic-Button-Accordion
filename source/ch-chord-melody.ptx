@@ -9,88 +9,72 @@
         Explain how this works practicing using circle of fifths
     </p>
    
+
   <table>
-    <title>Chord Melody Construction</title>
-    <tabular>
-      <row header="yes">
-        <cell>ii</cell>
-        <cell>ii</cell>
-        <cell>V</cell>
-        <cell>V</cell>
-        <cell>I</cell>
-        <cell>I</cell>
-       
-
-      </row>
-      <row>
-        <cell>Dmi7</cell>
-        <cell></cell>
-        <cell>G7</cell>
-        <cell></cell>
-        <cell>CMaj7</cell>
-        <cell></cell>
-        
-      </row>
-      <row>
-      <cell>R Hand</cell>
-      <cell>R Hand</cell>
-      <cell>R Hand</cell>
-      <cell>R Hand</cell>
-      <cell>R Hand</cell>
-      <cell>R Hand</cell>
-     
-    </row>
-      <row>
-        <cell>7th</cell>
-        <cell>3rd</cell>
-        <cell>7th</cell>
-        <cell>3rd</cell>
-        <cell>7th</cell>
-        <cell>3rd</cell>
-       
-
-      </row>
-      <row>
-        <cell>3rd</cell>
-        <cell>7th</cell>
-        <cell>3rd</cell>
-        <cell>7th</cell>
-        <cell>3rd</cell>
-        <cell>7th</cell>
-        
-
-      </row>
-      <row>
-        <cell>L Hand</cell>
-        <cell></cell>
-        <cell>L Hand</cell>
-        <cell></cell>
-        <cell>L Hand</cell>
-        <cell></cell>
-      </row>
-  
-    <row>
-      <cell>5th</cell>
-      <cell></cell>
-      <cell>5th</cell>
-      <cell></cell>
-      <cell>5th</cell>
-      <cell></cell>
+    <title>Chord Melody Construction Table</title>
+    <!--<tabular>-->
+      <tabular bottom="minor" top="medium" left="medium" right="medium" halign="left">
       
+      <row header="yes" bottom="medium">>
+        <cell bottom="major" right="minor">ii</cell>
+        <cell bottom="major" right="medium">ii</cell>
+        <cell bottom="major" right="minor">V</cell>
+        <cell bottom="major" right="medium">V</cell>
+        <cell bottom="major" right="minor">I</cell>
+        <cell bottom="major" right="medium">I</cell>
+      </row>
+      <row>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
+        <cell bottom="minor" right="minor">R Hand</cell>
+        <cell bottom="minor" right="medium">R Hand</cell>
 
-    </row>
-    <row>
-      <cell>Root</cell>
-      <cell></cell>
-      <cell>Root</cell>
-      <cell></cell>
-      <cell>Root</cell>
-      <cell></cell>
-    </row>
-  
-   
+      </row>
+      <row>
+        <cell bottom="medium" right="minor">7th</cell>
+        <cell bottom="medium" right="medium">3rd</cell>
+        <cell bottom="medium" right="minor">7th</cell>
+        <cell bottom="medium" right="medium">3rd</cell>
+        <cell bottom="medium" right="minor">7th</cell>
+        <cell bottom="medium" right="medium">3rd</cell>
+      </row>
+
+      <row>
+        <cell bottom="medium" right="minor">3rd</cell>
+        <cell bottom="medium" right="medium">7th</cell>
+        <cell bottom="medium" right="minor">3rd</cell>
+        <cell bottom="medium" right="medium">7th</cell>
+        <cell bottom="medium" right="minor">3rd</cell>
+        <cell bottom="medium" right="medium">7th</cell>
+      </row>
+      <row>
+       
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+        <cell bottom="minor" right="none">L Hand</cell>
+        <cell bottom="minor" right="medium"></cell>
+      </row>
+        <row>
+          <cell bottom="none" right="none">5th</cell>
+          <cell bottom="none" right="medium"></cell>
+          <cell bottom="none" right="none">5th</cell>
+          <cell bottom="none" right="medium"></cell>
+          <cell bottom="none" right="none">5th</cell>
+          <cell bottom="none" right="medium"></cell>
+        </row>
+        <row>
+          <cell bottom="medium" right="none">Root</cell>
+          <cell bottom="medium" right="medium"></cell>
+          <cell bottom="medium" right="none">Root</cell>
+          <cell bottom="medium" right="medium"></cell>
+          <cell bottom="medium" right="none">Root</cell>
+          <cell bottom="medium" right="medium"></cell>
+
+      </row>
     </tabular>
   </table>
-
-        
     </chapter>
