@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Scale Shapes",
-  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2      D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes    Diminished Scale Shapes    Whole Tone Scale Shapes   "
+  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2      D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes   Moveable Shape Tonic on Column 1      Diminished Scale Shapes    Whole Tone Scale Shapes   "
 },
 {
   "id": "Major-Scale-Shapes-4",
@@ -224,6 +224,15 @@ var ptx_lunr_docs = [
   "number": "3.4.6",
   "title": "",
   "body": " Moveable Shape,Tonic on Column 3   "
+},
+{
+  "id": "Minor-Scale-Shapes-2",
+  "level": "2",
+  "url": "ch-scales-intervals-6.html#Minor-Scale-Shapes-2",
+  "type": "Figure",
+  "number": "3.4.7",
+  "title": "",
+  "body": " Moveable Shape Tonic on Column 1   "
 },
 {
   "id": "sec-free-bass-scale-shapes",
@@ -466,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "7",
   "title": "Chord Melody",
-  "body": " Chord Melody   Simplistic method for producing a chord melody both hands.   Explain how this works practicing using circle of fifths   Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    3rd 7th  3rd 7th  3rd 7th  7th 3rd  3rd 7th  7th 3rd    L Hand   L Hand   L Hand     Root 5th   Root 5th   Root 5th      "
+  "body": " Chord Melody   Simplistic method for producing a chord melody both hands.   Explain how this works practicing using circle of fifths   Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root      "
 },
 {
   "id": "ch-chord-melody-4",
@@ -475,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "7.0.1",
   "title": "Chord Melody Construction",
-  "body": " Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    3rd 7th  3rd 7th  3rd 7th  7th 3rd  3rd 7th  7th 3rd    L Hand   L Hand   L Hand     Root 5th   Root 5th   Root 5th     "
+  "body": " Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root     "
 },
 {
   "id": "backmatter-2",
