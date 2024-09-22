@@ -475,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "7",
   "title": "Chord Melody",
-  "body": " Chord Melody   Simplistic method for producing a chord melody both hands.   Explain how this works practicing using circle of fifths   Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root      "
+  "body": " Chord Melody   Simplistic method for producing a chord melody both hands.   Explain how this works practicing using circle of fifths   Chord Melody Construction Table    > ii  ii  V  V  I  I    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root      "
 },
 {
   "id": "ch-chord-melody-4",
@@ -483,8 +483,8 @@ var ptx_lunr_docs = [
   "url": "ch-chord-melody.html#ch-chord-melody-4",
   "type": "Table",
   "number": "7.0.1",
-  "title": "Chord Melody Construction",
-  "body": " Chord Melody Construction    ii  ii  V  V  I  I    Dmi7   G7   CMaj7     R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root     "
+  "title": "Chord Melody Construction Table",
+  "body": " Chord Melody Construction Table    > ii  ii  V  V  I  I    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root     "
 },
 {
   "id": "backmatter-2",
