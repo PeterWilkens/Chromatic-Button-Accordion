@@ -4,7 +4,7 @@
   <title>Intervals</title>
  <introduction>
   <p>Before discussing scales it is useful to understand how intervals between notes are described.</p>
-  <p>The musical distance between notes on  your instrument keyboard or on a musical staff is known as an interval. This interval is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
+  <p>The musical distance between notes on  your instrument keyboard or on a musical staff is known as an interval. This interval is dependant on the number of semitones between notes and is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;</p>
   <p>The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of intervals is 1 less than the count.</p>
  </introduction>
 
@@ -17,11 +17,11 @@
     <tabular>
       <row header="yes">
         <cell>Interval Type</cell>
-        <cell>Count between notes</cell>
+        <cell>Semitones between notes</cell>
       </row>
       <row>
         <cell>Minor 2nd</cell>
-        <cell>1 Semitones</cell>
+        <cell>1 Semitone</cell>
       </row>
       <row>
         <cell>Major 2nd</cell>
