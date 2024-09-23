@@ -15,6 +15,7 @@
     <xi:include href="./ch-overall-introduction.ptx" />
     <xi:include href="chromatic-button-accordion.ptx" />
    <xi:include href="./ch-scales-intervals.ptx" />
+   <xi:include href="./ch-the-circle-of-fifths.ptx" />
     <xi:include href="./ch-chords.ptx" />
     <xi:include href="./ch-chord-progressions.ptx" />
     <xi:include href="./ch-chord-diagrams.ptx" />

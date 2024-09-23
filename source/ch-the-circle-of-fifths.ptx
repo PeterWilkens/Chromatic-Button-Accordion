@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-the-circle-of-fifths" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>The Circle of Fifths</title> 
+<p>The Circle of Fifths is useful in a number of areas. It shows the various key signatures where, moving clockwise, the keys are arranged a fifth interval above the previous, hence the name.</p>
+<p>The diagram also shows the Key Signature on the treble clef showing the number of sharps or flats, and the Relative Minor key is shown in lower case letters.</p>
+
+<figure width="100\%" xml:id="circle-of-fifths">
+  <image source="circle-of-fifths.png">
+      <shortdescription>Diagram showing key elements of the circle of fifths</shortdescription>
+</image>
+
+</figure>
+
+</chapter>
