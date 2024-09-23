@@ -475,21 +475,21 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "7",
   "title": "Chord Melody",
-  "body": " Chord Melody   An easy way for beginners to start learning to play chord melodies using both keyboards is to use the following approach which will enhance familiarity with the keyboards and provide ear training.  Using the basic Chords from a Fake Book or Lead Sheet, the left hand plays the Root and Fifth of the Chord, The right hand plays the appropriate 3rd and 7th and the melody note of the tune.  If the notated chords include the more complex constructions eg, 11ths, 9ths etc; the added notes can be ignored and the basic Major, Minor and 7th chords used. If a 6th chord is called for then the 6th is used instead of the 7th.  As the ear develops then the more complex chords can be introduced.   The following exercise is designed to enable the beginner to gain familiarity the various shapes and develop an ear for the music the following ii,V,I progressions should be practiced in all keys using the circle of 5ths.   Chord Melody Construction Table    > ii  ii  V7  V7  IMaj7  IMaj7    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root       Chord Melody Specific Example Dmi7\/G7\/CMaj7    > Dmi7  Dmi7  G7  G7  C Maj7  CMaj    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    C  F  F  B  B  E    F  C  B  F  E  B    L Hand   L Hand   L Hand     A   D   G     D   G   C      "
+  "body": " Chord Melody   An easy way for beginners to start learning to play chord melodies using both keyboards is to use the following approach which will enhance familiarity with the keyboards and provide ear training.  Using the basic Chords from a Fake Book or Lead Sheet, the left hand plays the Root and Fifth of the Chord, The right hand plays the appropriate 3rd and 7th and the melody note of the tune.  If the notated chords include the more complex constructions eg, 11ths, 9ths etc; the added notes can be ignored and the basic Major, Minor and 7th chords used. If a 6th chord is called for then the 6th is used instead of the 7th.  As the ear develops then the more complex chords can be introduced.   The following exercise is designed to enable the beginner to gain familiarity with the various shapes and develop an ear for the music.  The following ii, V, I progressions should be practiced in all keys using the circle of 5ths.   Chord Melody Construction Table    > ii  ii  V7  V7  IMaj7  IMaj7    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root       Chord Melody Specific Example Dmi7\/G7\/CMaj7    > Dmi7  Dmi7  G7  G7  C Maj7  CMaj    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    C  F  F  B  B  E    F  C  B  F  E  B    L Hand   L Hand   L Hand     A   D   G     D   G   C      "
 },
 {
-  "id": "ch-chord-melody-4",
+  "id": "ch-chord-melody-5",
   "level": "2",
-  "url": "ch-chord-melody.html#ch-chord-melody-4",
+  "url": "ch-chord-melody.html#ch-chord-melody-5",
   "type": "Table",
   "number": "7.0.1",
   "title": "Chord Melody Construction Table",
   "body": " Chord Melody Construction Table    > ii  ii  V7  V7  IMaj7  IMaj7    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    7th  3rd  7th  3rd  7th  3rd    3rd  7th  3rd  7th  3rd  7th    L Hand   L Hand   L Hand     5th   5th   5th     Root   Root   Root     "
 },
 {
-  "id": "ch-chord-melody-5",
+  "id": "ch-chord-melody-6",
   "level": "2",
-  "url": "ch-chord-melody.html#ch-chord-melody-5",
+  "url": "ch-chord-melody.html#ch-chord-melody-6",
   "type": "Table",
   "number": "7.0.2",
   "title": "Chord Melody Specific Example Dmi7\/G7\/CMaj7",
