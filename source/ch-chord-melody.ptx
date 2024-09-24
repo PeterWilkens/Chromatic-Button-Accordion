@@ -19,10 +19,10 @@
 
   <table>
     <title>ii V I Practice to facilitate the above approach to chord melody construction</title>
-    <!--<tabular>-->
+   
       <tabular bottom="minor" top="medium" left="medium" right="medium" halign="left">
       
-      <row header="yes" bottom="medium">>
+      <row header="yes" bottom="medium">
         <cell bottom="major" right="minor">ii</cell>
         <cell bottom="major" right="medium">ii</cell>
         <cell bottom="major" right="minor">V7</cell>
