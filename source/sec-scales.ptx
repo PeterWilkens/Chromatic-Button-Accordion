@@ -12,12 +12,17 @@
     
   </introduction>
    
-  <table>
-    <title>Tones between different degrees of a Major Scale.</title>
-    <tabular>
-      <row header="yes">
+ <table>
+  <title>Intervals between different degrees of a Major Scale</title>
+
+    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+      <row header="yes" bottom="medium">
         <cell>Scale Degree</cell>
-        <cell>Type of Interval</cell>
+      <cell>Tones between notes</cell>
+      <cell>Type of Interval</cell>
+    </row>
+      <row header="yes">
+       
       </row>
       <row>
         <cell>Tonic to Note 2</cell>
