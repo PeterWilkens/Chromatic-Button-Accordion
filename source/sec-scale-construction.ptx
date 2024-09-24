@@ -202,13 +202,13 @@
         </row>
         <row>
           <cell>Note 6 to Note 7</cell>
-          <cell>Half Tone</cell>
-          <cell>Minor 2nd</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
         </row>
         <row>
           <cell>Note 7 to Tonic</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
+          <cell>Half Tone</cell>
+          <cell>Minor 2nd</cell>
         </row>
       </tabular>
     </table>
