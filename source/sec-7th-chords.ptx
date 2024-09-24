@@ -31,37 +31,37 @@
     <row>
       <cell>Major Triad</cell>
       <cell>Major 7th</cell>
-      <cell>12 semitones</cell>
+      <cell>11 semitones</cell>
       <cell>Major 7th</cell>
     </row>
     <row>
       <cell>Major Triad</cell>
       <cell>Minor 7th</cell>
-      <cell>11 semitones</cell>
+      <cell>10 semitones</cell>
       <cell>Dominant 7th</cell>
     </row>
     <row>
       <cell>Minor Triad</cell>
       <cell>Major 7th</cell>
-      <cell>12 semitones</cell>
+      <cell>11 semitones</cell>
       <cell>MajorMinor7th</cell>
     </row>
     <row>
       <cell>Minor Triad</cell>
       <cell>Minor 7th</cell>
-      <cell>11 semitones</cell>
+      <cell>10 semitones</cell>
       <cell>Minor 7th</cell>
     </row>
     <row>
       <cell>Diminished Triad</cell>
       <cell>Minor 7th</cell>
-      <cell>11 semitones</cell>
+      <cell>10 semitones</cell>
       <cell>Minor7<flat/>5</cell>
     </row>
     <row>
       <cell>Diminished Triad</cell>
       <cell>Diminished 7th</cell>
-      <cell>10 semitones</cell>
+      <cell>9 semitones</cell>
       <cell>Diminished 7th</cell>
     </row>
 
