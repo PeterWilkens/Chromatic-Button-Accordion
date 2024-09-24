@@ -67,6 +67,9 @@
     </tabular>
   </table>
 
+<p>A natural minor scale/key consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
+<p>A minor is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
+
 
 <table>
 <title>Natural Minor Scale</title>
@@ -164,7 +167,9 @@
       
     </tabular>
   </table>
-
+<p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
+  e.g; The notes of the C melodic minor scale ascending are: C, D, Eb, F, G, A, B, C. 
+</p>
   <table>
  
    <title>Melodic Minor Ascending</title>
@@ -212,9 +217,12 @@
         </row>
       </tabular>
     </table>
-
+<p>The notes of the C melodic minor scale descending are: C, D, Eb, F, G, Ab, Bb, C .
+  
+</p>
 <table>
     <title>Melodic Minor Descending</title>
+    
     <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
       <row header="yes" bottom="medium">
         <cell>Scale Degree</cell>
