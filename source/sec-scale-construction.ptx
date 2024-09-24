@@ -15,24 +15,204 @@
  </image>
  </figure>
  
- <p>The following scores show the intervals between notes in different scale types.</p>
+ <p>The following tables show the intervals between notes in different scale types.</p>
+  
+ <table>
+  <title>Major Scale</title>
 
- <figure xml:id="Scales-in-C">
-   <image source="Scales-in-C-Page-1.png">
-       <shortdescription>Scales of different types in C for convenience </shortdescription>
-   </image> 
- </figure>
+    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+      <row header="yes" bottom="medium">
+        <cell>Scale Degree</cell>
+      <cell>Tones between notes</cell>
+      <cell>Type of Interval</cell>
+    </row>
+      <!--<row header="yes">-->
+       
+      <row>
+        <cell>Tonic to Note 2</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 2 to Note 3</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 3 to Note 4</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 4 to Note 5</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 5 to Note 6</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 6 to Note 7</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 7 to Tonic</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      
+    </tabular>
+  </table>
+
+ <table>
+  <title>Harmonic Minor Scale</title>
+
+    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+      <row header="yes" bottom="medium">
+        <cell>Scale Degree</cell>
+      <cell>Tones between notes</cell>
+      <cell>Type of Interval</cell>
+    </row>
+       
+      <row>
+        <cell>Tonic to Note 2</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 2 to Note 3</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 3 to Note 4</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 4 to Note 5</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 5 to Note 6</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 6 to Note 7</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 7 to Tonic</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      
+    </tabular>
+  </table>
+
+  <table>
  
- <figure xml:id="Other-Scales-in-C">
-   <image source="Other-Scales-in-C-Page-2.png">
-       <shortdescription>Scales of different types</shortdescription>
-   </image> 
-   <p>The following shows the various, most significant, minor scales related to the C Major scale.</p>
- </figure>
- <figure xml:id="Minor-Scales">
-  <image source="Minor-Scales.png">
-      <shortdescription>Minor Scale Score</shortdescription>
-  </image> 
-</figure>
+   <title>Melodic Minor Ascending</title>
+      <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Scale Degree</cell>
+        <cell>Tones between notes</cell>
+        <cell>Type of Interval</cell>
+      </row>
+    
+        <row>
+          <cell>Tonic to Note 2</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 2 to Note 3</cell>
+          <cell>Half Tone</cell>
+          <cell>Minor 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 3 to Note 4</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 4 to Note 5</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 5 to Note 6</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 6 to Note 7</cell>
+          <cell>Half Tone</cell>
+          <cell>Minor 2nd</cell>
+        </row>
+        <row>
+          <cell>Note 7 to Tonic</cell>
+          <cell>Whole Tone</cell>
+          <cell>Major 2nd</cell>
+        </row>
+      </tabular>
+    </table>
+
+<table>
+    <title>Melodic Minor Descending</title>
+    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+      <row header="yes" bottom="medium">
+        <cell>Scale Degree</cell>
+      <cell>Tones between notes</cell>
+      <cell>Type of Interval</cell>
+    </row>
+     
+      <row>
+        <cell>Tonic to Note 7</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 7 to Note 6</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 6 to Note 5</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 5 to Note 4</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 4 to Note 3</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 3 to Note 2</cell>
+        <cell>Half Tone</cell>
+        <cell>Minor 2nd</cell>
+      </row>
+      <row>
+        <cell>Note 2 to Tonic</cell>
+        <cell>Whole Tone</cell>
+        <cell>Major 2nd</cell>
+      </row>
+      
+    </tabular>
+  </table>
+
+
+
 
   </section>
