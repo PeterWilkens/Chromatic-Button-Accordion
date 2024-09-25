@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Scale Shapes",
-  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2      D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3       Minor Scale Shapes   Moveable Shape Tonic on Column 1      Diminished Scale Shapes    Whole Tone Scale Shapes   "
+  "body": "xml:id=\"Scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Scale Shapes   It is relatively easy to learn (or build) Scales and Chords on the Chromatic Button Accordion because the Keyboard is laid out in such a fashion that the physical relationship between notes remains constant. Once you know the \"shape\" of a particular scale or chord on the keyboard, that shape can be moved elsewhere on the keyboard and provide chords and scales in all the other Keys.    Major Scale Shapes  Moveable Major Scales on Treble C System Keyboard. Tonic starts scale on Columns 1,2 or 3.  Each moveable scale can be moved up and down the keyboard or 1 or 2 columns to the left    C Major Tonic on Column 1     Moveable Shape,Tonic on Column 1      G Major Tonic on Column 2     Moveable Shape,Tonic on Column 2      D Major Tonic on Column 3     Moveable Shape,Tonic on Column 3      Minor Scale Shapes   Moveable Shape Tonic on Column 1      Diminished Scale Shapes    Whole Tone Scale Shapes   "
 },
 {
   "id": "Major-Scale-Shapes-4",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.5",
   "title": "Free Bass Scale Shapes",
-  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major     Moveable Scale Shape with Tonic in Column 1      Free Bass Scale Shape G Major     Moveable Shape Scale with Tonic in Column 2 with fingering      Column 3 Free Bass Scale shape D Major      Moveable Shape Scale with Tonic in Column 3 with fingering      "
+  "body": "xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Scale Shapes   Moveable scales on the three outermost columns of the free bass keyboard   xml:id=\"sub-sec-free-bass-moveable-major-scale-shapes\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" Free Bass Major Scale Shapes all 3 Columns   Free Bass Scale Shape C Major     Moveable Scale Shape with Tonic in Column 1      Free Bass Scale Shape G Major     Moveable Shape Scale with Tonic in Column 2 with fingering      Column 3 Free Bass Scale shape D Major      Moveable Shape Scale with Tonic in Column 3 with fingering       Free Bass Minor Scale Shapes   Moveable Shape Tonic on Column 1      Free Bass Diminished Scale Shapes    Free Bass Whole Tone Scale Shapes   "
 },
 {
   "id": "sec-free-bass-scale-shapes-3-2",
@@ -314,6 +314,15 @@ var ptx_lunr_docs = [
   "number": "3.5.6",
   "title": "",
   "body": " Moveable Shape Scale with Tonic in Column 3 with fingering    "
+},
+{
+  "id": "Free-Bass-Minor-Scale-Shapes-2",
+  "level": "2",
+  "url": "sec-free-bass-scale-shapes.html#Free-Bass-Minor-Scale-Shapes-2",
+  "type": "Figure",
+  "number": "3.5.7",
+  "title": "",
+  "body": " Moveable Shape Tonic on Column 1   "
 },
 {
   "id": "ch-the-circle-of-fifths",
