@@ -7,10 +7,10 @@
 <p>Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:</p> <p>C,D,E,F,G,A,B back to C.</p>
 <p>This is the scale of C Major (A scale with no sharp  or flat notes i.e all white notes.)</p>
 <p> The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.</p>  
-<p> eg; Taking D  as the Tonic would give: D, E, F<sharp/>, G, A, B, and C<sharp/> which is the Scale of D  Major.</p>
+<p> eg;) Taking D  as the Tonic would give: D, E, F<sharp/>, G, A, B, and C<sharp/> which is the Scale of D  Major.</p>
 
-<figure width="100\%" xml:id="chromatic-scale-disc">
-  <image source="chromatic-scale-disc.png">
+<figure width="80\%" xml:id="chromatic-scale-disc">
+  <image source="Scale-Wheel.png">
       <shortdescription>12 tone chromatic scale</shortdescription>
  </image>
  </figure>
@@ -69,7 +69,8 @@
 
 <p>A natural minor scale/key consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
 <p>A minor is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
-
+<p>eg; the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
+<p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
 
 <table>
 <title>Natural Minor Scale</title>
@@ -121,7 +122,7 @@
 </table>
  <table>
   <title>Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale</title>
-
+<p>eg; the notes C Harmonic Minor are D, D, E<flat/>,F, G, A<flat/>, B<flat/>, C and C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C./</p>
     <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
       <row header="yes" bottom="medium">
         <cell>Scale Degree</cell>
@@ -168,7 +169,7 @@
     </tabular>
   </table>
 <p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
-  e.g; The notes of the C melodic minor scale ascending are: C, D, Eb, F, G, A, B, C. 
+  e.g; The notes of the C melodic minor scale ascending are: C, D, E<flat/>, F, G, A, B, C. 
 </p>
   <table>
  
@@ -217,8 +218,8 @@
         </row>
       </tabular>
     </table>
-<p>The notes of the C melodic minor scale descending are: C, D, Eb, F, G, Ab, Bb, C .
-  
+<p>The notes of the C melodic minor scale descending are: 
+  C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C.
 </p>
 <table>
     <title>Melodic Minor Descending</title>

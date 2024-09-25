@@ -5,7 +5,7 @@
   
     <p> Chords are generated from different scales and are then said to be diatonic to that particular scale, which means crudely that they are part of, and in tune with, that scale. The Chord and Scale Wheel is used to first generate the scale from which the chord will be derived and the scales' diatonic chords are then generated from that scale. </p>
     
-<image source="chromatic-scale-disc.png">
+<image source="Scale-Wheel.png">
   <shortdescription>Chord and Scale Wheel</shortdescription>
 </image>
 
@@ -17,7 +17,7 @@
 <p> Continuing from G missing the next note and going to B gives The C Major 7th chord, C E G B</p>
 <p>Examining the intervals between each note of the Triad: between C and E is a Major 3rd, Between E and G is a minor 3rd. Between G and B is a Major 3rd. Considering the intervals between the Root note C and the other notes: C to E as we have already seen is a Major 3rd, C to G is a 5th, C to B is a Major 7th.</p>
   <p> All Major 7th Chords in Root position have that interval structure. </p>
-  <image source="chord-scale-wheel-C-Maj.png">
+  <image source="Chord-Wheel.png">
 
     <shortdescription>Notes from C Maj Scale on wheel.</shortdescription>
   </image>
