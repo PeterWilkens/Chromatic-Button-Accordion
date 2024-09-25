@@ -120,6 +120,12 @@
     
   </tabular>
 </table>
+
+<figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
+  <image source="C Minor Natural Intervals.png">
+  </image>
+</figure>
+
  <table>
   <title>Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale</title>
 <p>eg; the notes C Harmonic Minor are D, D, E<flat/>,F, G, A<flat/>, B<flat/>, C and C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C./</p>
@@ -168,6 +174,8 @@
       
     </tabular>
   </table>
+
+ 
 <p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
   e.g; The notes of the C melodic minor scale ascending are: C, D, E<flat/>, F, G, A, B, C. 
 </p>
@@ -269,8 +277,6 @@
       
     </tabular>
   </table>
-
-
 
 
   </section>
