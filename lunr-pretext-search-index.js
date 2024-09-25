@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Scale Construction",
-  "body": "- Scale Construction  Arranging the chromatic scale in a a circular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg;) Taking D as the Tonic would give: D, E, F , G, A, B, and C which is the Scale of D Major.    12 tone chromatic scale    The following tables show the intervals between notes in different scale types.   Major Scale    Scale Degree  Tones between notes  Type of Interval     Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     A natural minor scale\/key consists of the same notes as its relative major.  e.g;) The notes of the C major scale are C, D, E, F, G, A, and B.  A minor is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.  eg; the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.  The C Minor Natural notes are C, D, E , F, G, A , B and C.   Natural Minor Scale    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Whole Tone  Major 2nd      Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale  eg; the notes C Harmonic Minor are D, D, E ,F, G, A , B , C and C, B , A , G, F, E , D and C.\/    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole and a half Tone  Augmented 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale. e.g; The notes of the C melodic minor scale ascending are: C, D, E , F, G, A, B, C.   Melodic Minor Ascending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     The notes of the C melodic minor scale descending are: C, B , A , G, F, E , D and C.   Melodic Minor Descending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 7  Whole Tone  Major 2nd    Note 7 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 5  Half Tone  Minor 2nd    Note 5 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 2  Half Tone  Minor 2nd    Note 2 to Tonic  Whole Tone  Major 2nd     "
+  "body": "- Scale Construction  Arranging the chromatic scale in a a circular fashion can be useful in the construction of both chords and scales.  Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:  C,D,E,F,G,A,B back to C.  This is the scale of C Major (A scale with no sharp or flat notes i.e all white notes.)  The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.  eg;) Taking D as the Tonic would give: D, E, F , G, A, B, and C which is the Scale of D Major.    12 tone chromatic scale    The following tables show the intervals between notes in different scale types.   Major Scale    Scale Degree  Tones between notes  Type of Interval     Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 4  Half Tone  Minor 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     A natural minor scale\/key consists of the same notes as its relative major.  e.g;) The notes of the C major scale are C, D, E, F, G, A, and B.  A minor is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.  eg; the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.  The C Minor Natural notes are C, D, E , F, G, A , B and C.   Natural Minor Scale    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Whole Tone  Major 2nd          Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale  eg; the notes C Harmonic Minor are D, D, E ,F, G, A , B , C and C, B , A , G, F, E , D and C.\/    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole and a half Tone  Augmented 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale. e.g; The notes of the C melodic minor scale ascending are: C, D, E , F, G, A, B, C.   Melodic Minor Ascending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd     The notes of the C melodic minor scale descending are: C, B , A , G, F, E , D and C.   Melodic Minor Descending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 7  Whole Tone  Major 2nd    Note 7 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 5  Half Tone  Minor 2nd    Note 5 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 2  Half Tone  Minor 2nd    Note 2 to Tonic  Whole Tone  Major 2nd     "
 },
 {
   "id": "chromatic-scale-disc",
@@ -154,29 +154,38 @@ var ptx_lunr_docs = [
   "body": " Natural Minor Scale    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Whole Tone  Major 2nd    "
 },
 {
-  "id": "scale-construction-17",
+  "id": "C_Minor_Natural_Intervals_Diagram",
   "level": "2",
-  "url": "scale-construction.html#scale-construction-17",
-  "type": "Table",
+  "url": "scale-construction.html#C_Minor_Natural_Intervals_Diagram",
+  "type": "Figure",
   "number": "3.3.4",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "scale-construction-18",
+  "level": "2",
+  "url": "scale-construction.html#scale-construction-18",
+  "type": "Table",
+  "number": "3.3.5",
   "title": "Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale",
   "body": " Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale  eg; the notes C Harmonic Minor are D, D, E ,F, G, A , B , C and C, B , A , G, F, E , D and C.\/    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Half Tone  Minor 2nd    Note 6 to Note 7  Whole and a half Tone  Augmented 2nd    Note 7 to Tonic  Half Tone  Minor 2nd    "
 },
 {
-  "id": "scale-construction-19",
+  "id": "scale-construction-20",
   "level": "2",
-  "url": "scale-construction.html#scale-construction-19",
+  "url": "scale-construction.html#scale-construction-20",
   "type": "Table",
-  "number": "3.3.5",
+  "number": "3.3.6",
   "title": "Melodic Minor Ascending",
   "body": " Melodic Minor Ascending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 2  Whole Tone  Major 2nd    Note 2 to Note 3  Half Tone  Minor 2nd    Note 3 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 5  Whole Tone  Major 2nd    Note 5 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 7  Whole Tone  Major 2nd    Note 7 to Tonic  Half Tone  Minor 2nd    "
 },
 {
-  "id": "scale-construction-21",
+  "id": "scale-construction-22",
   "level": "2",
-  "url": "scale-construction.html#scale-construction-21",
+  "url": "scale-construction.html#scale-construction-22",
   "type": "Table",
-  "number": "3.3.6",
+  "number": "3.3.7",
   "title": "Melodic Minor Descending",
   "body": " Melodic Minor Descending    Scale Degree  Tones between notes  Type of Interval    Tonic to Note 7  Whole Tone  Major 2nd    Note 7 to Note 6  Whole Tone  Major 2nd    Note 6 to Note 5  Half Tone  Minor 2nd    Note 5 to Note 4  Whole Tone  Major 2nd    Note 4 to Note 3  Whole Tone  Major 2nd    Note 3 to Note 2  Half Tone  Minor 2nd    Note 2 to Tonic  Whole Tone  Major 2nd    "
 },
