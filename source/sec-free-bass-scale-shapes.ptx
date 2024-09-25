@@ -43,9 +43,24 @@
         <image source="Free Bass Scale D Major with fingering.png">
         </image>
       </figure>
+</subsection>
 
+<subsection xml:id="Free-Bass-Minor-Scale-Shapes">
+  <title>Free Bass Minor Scale Shapes</title>
+
+  <figure>
+    <caption>Moveable Shape Tonic on Column 1</caption>
+    <image source="Scale_Shape_C_Minor_with_fingering.png" />
+  </figure>
 
 </subsection>
 
+<subsection xml:id="Free-Bass-Diminished-Scale-Shapes">
+<title>Free Bass Diminished Scale Shapes</title>
+</subsection>
+
+<subsection xml:id="Free-Bass-Whole-Tone-Scale-Shapes">
+<title>Free Bass Whole Tone Scale Shapes</title>
+</subsection>
 
 </section>
