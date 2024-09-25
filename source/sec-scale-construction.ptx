@@ -26,7 +26,7 @@
       <cell>Tones between notes</cell>
       <cell>Type of Interval</cell>
     </row>
-      <!--<row header="yes">-->
+
        
       <row>
         <cell>Tonic to Note 2</cell>
@@ -72,7 +72,7 @@
 <p>eg; the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
 <p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
 
-<table>
+<!--<table>
 <title>Natural Minor Scale</title>
 
   <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
@@ -119,7 +119,7 @@
     </row>
     
   </tabular>
-</table>
+</table>-->
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
   <image source="C Minor Natural with Intervals.png">
