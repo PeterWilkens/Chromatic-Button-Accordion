@@ -67,62 +67,19 @@
     </tabular>
   </table>
 
-<p>A natural minor scale/key consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
-<p>A minor is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
-<p>eg; the notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
+<p>A Natural Minor Scale consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
+<p>The A Minor Natural scale is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
+<p>The notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
 <p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
-
-<!--<table>
-<title>Natural Minor Scale</title>
-
-  <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
-    <row header="yes" bottom="medium">
-      <cell>Scale Degree</cell>
-    <cell>Tones between notes</cell>
-    <cell>Type of Interval</cell>
-  </row>
-     
-    <row>
-      <cell>Tonic to Note 2</cell>
-      <cell>Whole Tone</cell>
-      <cell>Major 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 2 to Note 3</cell>
-      <cell>Half Tone</cell>
-      <cell>Minor 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 3 to Note 4</cell>
-      <cell>Whole Tone</cell>
-      <cell>Major 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 4 to Note 5</cell>
-      <cell>Whole Tone</cell>
-      <cell>Major 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 5 to Note 6</cell>
-      <cell>Half Tone</cell>
-      <cell>Minor 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 6 to Note 7</cell>
-      <cell>Whole Tone</cell>
-      <cell>Major 2nd</cell>
-    </row>
-    <row>
-      <cell>Note 7 to Tonic</cell>
-      <cell>Whole Tone</cell>
-      <cell>Major 2nd</cell>
-    </row>
-    
-  </tabular>
-</table>-->
+<image source="C Natural Minor Treble Clef.png">
+  
+</image>
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
+  
+  
   <image source="C Minor Natural with Intervals.png">
+   
   </image>
 </figure>
 
