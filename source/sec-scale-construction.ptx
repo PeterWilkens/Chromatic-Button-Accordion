@@ -37,69 +37,36 @@
 </image>
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
+  <caption>Intervals and interval Qualities between the notes in a  Natural Minor Scale (C Natural Minor)</caption>
   
-  
-  <image source="C Minor Natural with Intervals.png">
-   
+  <image source="C Minor Natural with Intervals.png"> 
   </image>
 </figure>
 
- <table>
-  <title>Harmonic Minor Scale. To play a Harmonic Minor Scale, you simply raise the seventh note of the Natural Minor Scale by a half-step as you go up and down the scale</title>
-<p>eg; the notes C Harmonic Minor are D, D, E<flat/>,F, G, A<flat/>, B<flat/>, C and C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C./</p>
-    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
-      <row header="yes" bottom="medium">
-        <cell>Scale Degree</cell>
-      <cell>Tones between notes</cell>
-      <cell>Type of Interval</cell>
-    </row>
-       
-      <row>
-        <cell>Tonic to Note 2</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 2 to Note 3</cell>
-        <cell>Half Tone</cell>
-        <cell>Minor 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 3 to Note 4</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 4 to Note 5</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 5 to Note 6</cell>
-        <cell>Half Tone</cell>
-        <cell>Minor 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 6 to Note 7</cell>
-        <cell>Whole and a half Tone</cell>
-        <cell>Augmented 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 7 to Tonic</cell>
-        <cell>Half Tone</cell>
-        <cell>Minor 2nd</cell>
-      </row>
-      
-    </tabular>
-  </table>
-
+ <image source="C Harmonic Minor Treble Clef.png">
+ </image>
+  
+<figure width="80\%" xml:id="C-Minor-Harmonic-Scale-Intervals">
+  <caption>Intervals and interval Qualities between the notes in a  Harmonic Minor Scale (C Harmonic Minor)</caption>
+  <image source="C_Harmonic_Minor_Scale_Intervals_on_Staff.png">
+      <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+ </image>
+ </figure>
+ <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
+  <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Ascending(C Melodic Minor)</caption>
+  <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
+      <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+ </image>
+ </figure>
  
 <p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
   e.g; The notes of the C melodic minor scale ascending are: C, D, E<flat/>, F, G, A, B, C. 
 </p>
-  <table>
+
+
+  <!--<table>
  
-   <title>Melodic Minor Ascending</title>
+  <title>Melodic Minor Ascending</title>
       <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
         <row header="yes" bottom="medium">
           <cell>Scale Degree</cell>
@@ -143,11 +110,19 @@
           <cell>Minor 2nd</cell>
         </row>
       </tabular>
-    </table>
+    </table>-->
+
+<figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
+ <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Descending(C Melodic Minor)</caption>
+ <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
+     <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+</image>
+</figure>
+
 <p>The notes of the C melodic minor scale descending are: 
   C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C.
 </p>
-<table>
+<!--<table>
     <title>Melodic Minor Descending</title>
     
     <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
@@ -194,7 +169,8 @@
       </row>
       
     </tabular>
-  </table>
+  </table>-->
+
 
 
   </section>
