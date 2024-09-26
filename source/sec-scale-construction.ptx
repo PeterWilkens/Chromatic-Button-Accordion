@@ -30,7 +30,7 @@
   <caption>Figure showing Intervals and Interval Quality between the notes in a  <term>Major Scale</term></caption>
   <sidebyside widths="50% 45%" valign="middle">
   <image source="Interval Score.png" />
-<p>
+<p>To get a count of 3 for C to D would be C:1, C<sharp/>:2 and D:3 and so on.
  A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.
 </p>
 </sidebyside>
