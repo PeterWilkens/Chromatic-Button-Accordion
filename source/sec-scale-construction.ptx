@@ -10,31 +10,24 @@
 <p> eg;) Taking D  as the Tonic would give: D, E, F<sharp/>, G, A, B, and C<sharp/> which is the Scale of D  Major.</p>
 
 <figure width="80\%" xml:id="chromatic-scale-disc">
- 
+  <caption>Chord and Scale Wheel</caption>
   <image source="Scale-Wheel.png">
-      <shortdescription>12 tone chromatic scale</shortdescription>
+  <!--<shortdescription>Chord and Scale Wheel</shortdescription>-->
  </image>
  </figure>
  
-  <image source="C Major Scale Treble Clef.png">
-
-   
-  </image>
-
+ <p>The following figures show how each scale type is constructed and the intervals between notes in each scale type.
+ </p>
  <figure width="80\%" xml:id="C-Major-Scale-Intervals">
-  <caption>Intervals and interval Qualities between the notes in a  Major Scale (C Major)</caption>
+  <caption>Figure showing Intervals and Interval Quality between the notes in a  Major Scale (C Major)</caption>
   <image source="C_Major_Scale_Intervals.png">
-      <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+      <!--<shortdescription>Figure showing Intervals and Interval Quality</shortdescription>-->
  </image>
  </figure>
+ <image source="C Major Scale Treble Clef.png">
 
-<p>A Natural Minor Scale consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
-<p>The A Minor Natural scale is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
-<p>The notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
-<p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
-<image source="C Natural Minor Treble Clef.png">
-  
-</image>
+ </image>
+
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
   <caption>Intervals and interval Qualities between the notes in a  Natural Minor Scale (C Natural Minor)</caption>
@@ -42,20 +35,28 @@
   <image source="C Minor Natural with Intervals.png"> 
   </image>
 </figure>
-
- <image source="C Harmonic Minor Treble Clef.png">
- </image>
+<p>A Natural Minor Scale consists of the same notes as its relative major.</p> <p> e.g;) The notes of the C major scale are  C, D, E, F, G, A, and B. </p>
+<p>The A Minor Natural scale is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
+<p>The notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
+<p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
+<image source="C Natural Minor Treble Clef.png">
+  
+</image>
+ 
   
 <figure width="80\%" xml:id="C-Minor-Harmonic-Scale-Intervals">
   <caption>Intervals and interval Qualities between the notes in a  Harmonic Minor Scale (C Harmonic Minor)</caption>
   <image source="C_Harmonic_Minor_Scale_Intervals_on_Staff.png">
-      <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+     <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
  </image>
  </figure>
+ <image source="C Harmonic Minor Treble Clef.png">
+</image>
+
  <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
   <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Ascending(C Melodic Minor)</caption>
   <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
-      <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+     <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
  </image>
  </figure>
  
@@ -64,113 +65,19 @@
 </p>
 
 
-  <!--<table>
- 
-  <title>Melodic Minor Ascending</title>
-      <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
-        <row header="yes" bottom="medium">
-          <cell>Scale Degree</cell>
-        <cell>Tones between notes</cell>
-        <cell>Type of Interval</cell>
-      </row>
-    
-        <row>
-          <cell>Tonic to Note 2</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 2 to Note 3</cell>
-          <cell>Half Tone</cell>
-          <cell>Minor 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 3 to Note 4</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 4 to Note 5</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 5 to Note 6</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 6 to Note 7</cell>
-          <cell>Whole Tone</cell>
-          <cell>Major 2nd</cell>
-        </row>
-        <row>
-          <cell>Note 7 to Tonic</cell>
-          <cell>Half Tone</cell>
-          <cell>Minor 2nd</cell>
-        </row>
-      </tabular>
-    </table>-->
-
 <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
  <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Descending(C Melodic Minor)</caption>
  <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
-     <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>
+    <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
 </image>
 </figure>
 
 <p>The notes of the C melodic minor scale descending are: 
   C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C.
 </p>
-<!--<table>
-    <title>Melodic Minor Descending</title>
-    
-    <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
-      <row header="yes" bottom="medium">
-        <cell>Scale Degree</cell>
-      <cell>Tones between notes</cell>
-      <cell>Type of Interval</cell>
-    </row>
-     
-      <row>
-        <cell>Tonic to Note 7</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 7 to Note 6</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 6 to Note 5</cell>
-        <cell>Half Tone</cell>
-        <cell>Minor 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 5 to Note 4</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 4 to Note 3</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 3 to Note 2</cell>
-        <cell>Half Tone</cell>
-        <cell>Minor 2nd</cell>
-      </row>
-      <row>
-        <cell>Note 2 to Tonic</cell>
-        <cell>Whole Tone</cell>
-        <cell>Major 2nd</cell>
-      </row>
-      
-    </tabular>
-  </table>-->
 
+<image source="C Melodic Minor Treble Clef.png">
+</image>
 
 
   </section>
