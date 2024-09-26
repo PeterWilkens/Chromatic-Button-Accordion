@@ -18,16 +18,31 @@
  
  <p>The following figures show how each scale type is constructed and the intervals between notes in each scale type.
  </p>
- <figure width="80\%" xml:id="C-Major-Scale-Intervals">
-  <caption>Figure showing Intervals and Interval Quality between the notes in a  <term>Major Scale</term> (C Major)</caption>
-  <image source="C_Major_Scale_Intervals.png">
-      
- </image>
- </figure>
+ <paragraphs>
+  <title>The Major Scale</title>
+  
+ </paragraphs>
  <image source="C Major Scale Treble Clef.png">
 
  </image>
 
+ <figure>
+  <caption>Figure showing Intervals and Interval Quality between the notes in a  <term>Major Scale</term></caption>
+  <sidebyside widths="50% 45%" valign="middle">
+  <image source="Interval Score.png" />
+<p>
+ A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.
+</p>
+</sidebyside>
+</figure>
+
+
+
+ <paragraphs>
+  <title>The Natural Minor Scale</title>
+  <image source="C Natural Minor Treble Clef.png">
+  </image>
+ </paragraphs>
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
   <caption>Intervals and Interval Qualities between the notes in a  <term>Natural Minor Scale</term> (C Natural Minor)</caption>
@@ -40,26 +55,29 @@
 <p>The notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
 <p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
 <p> C Minor Natural is the Relative Minor of E<flat/>Major. (See Circle of Fifths for all Scale relationships.  (Fig. 4.0.1.)</p>
-<image source="C Natural Minor Treble Clef.png">
-  
-</image>
+
  
-  
+  <paragraphs>
+    <title>The Harmonic Minor Scale</title>
+    <image source="C Harmonic Minor Treble Clef.png">
+    </image>
+    
+  </paragraphs>
 <figure width="80\%" xml:id="C-Minor-Harmonic-Scale-Intervals">
   <caption>Intervals and Interval Qualities between the notes in a <term> Harmonic Minor Scale</term> (C Harmonic Minor)</caption>
   <image source="C_Harmonic_Minor_Scale_Intervals_on_Staff.png">
      
  </image>
  </figure>
- <image source="C Harmonic Minor Treble Clef.png">
+
+<paragraphs>
+  <title>The Melodic Minor Scale</title>
+<image source="C Melodic Minor Treble Clef.png">
 </image>
 
+For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
+</paragraphs>
 
- 
-<p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
-  
-</p>
-<sidebyside widths="48% 48%" valign="top">
 
   <figure width="100\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
     <caption>Intervals and Interval Qualities between the notes in a  <term>Melodic Minor Scale  Ascending</term>
@@ -77,14 +95,11 @@
 
    </image>
    </figure>
-</sidebyside>
 
 
 
 
 
-<image source="C Melodic Minor Treble Clef.png">
-</image>
 
 
   </section>

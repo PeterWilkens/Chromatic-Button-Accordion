@@ -9,9 +9,25 @@
      is 1 less than the count.</p>
  </introduction>
 
-<image source="Interval Score.png"></image>
- <p>Above shows different quality Second intervals in a C Major Scale.</p>
 
+  <figure>
+    <caption>Shows the different quality Second Intervals between notes in a <term>C Major Scale</term>. </caption>
+    <sidebyside widths="50% 45%" valign="middle">
+    <image source="Interval Score.png" />
+  <p>
+   A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.
+  </p>
+</sidebyside>
+</figure>
+
+
+<paragraphs>
+  <title>Other Intervals</title>
+  Intervals other than Seconds also exist and the following table identifies each interval type giving the number of semitones and the count for each particular interval. It is important to understand this for constructing Chords and Scales.
+</paragraphs>
+
+
+ 
 
  <table>
     <title>Interval Count</title>
