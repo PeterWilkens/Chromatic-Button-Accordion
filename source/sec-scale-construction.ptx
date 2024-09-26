@@ -12,16 +12,16 @@
 <figure width="80\%" xml:id="chromatic-scale-disc">
   <caption>Chord and Scale Wheel</caption>
   <image source="Scale-Wheel.png">
-  <!--<shortdescription>Chord and Scale Wheel</shortdescription>-->
+  
  </image>
  </figure>
  
  <p>The following figures show how each scale type is constructed and the intervals between notes in each scale type.
  </p>
  <figure width="80\%" xml:id="C-Major-Scale-Intervals">
-  <caption>Figure showing Intervals and Interval Quality between the notes in a  Major Scale (C Major)</caption>
+  <caption>Figure showing Intervals and Interval Quality between the notes in a  <em>Major Scale</em> (C Major)</caption>
   <image source="C_Major_Scale_Intervals.png">
-      <!--<shortdescription>Figure showing Intervals and Interval Quality</shortdescription>-->
+      
  </image>
  </figure>
  <image source="C Major Scale Treble Clef.png">
@@ -30,7 +30,7 @@
 
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
-  <caption>Intervals and interval Qualities between the notes in a  Natural Minor Scale (C Natural Minor)</caption>
+  <caption>Intervals and Interval Qualities between the notes in a  <em>Natural Minor Scale</em> (C Natural Minor)</caption>
   
   <image source="C Minor Natural with Intervals.png"> 
   </image>
@@ -39,24 +39,25 @@
 <p>The A Minor Natural scale is the Relative Minor of C Major. The A Minor Natural Scale uses these same notes, the sixth note of the major scale becoming the root note of the relative minor.</p>
 <p>The notes of the A Minor Natural Scale are A, B, C, D, E, F, G and A.</p>
 <p>The C Minor Natural notes are C, D, E<flat/>, F, G, A<flat/>, B<flat/> and C.</p>
+<p> C Minor Natural is the Relative Minor of E<flat/>Major. (See Circle of Fifths for all Scale relationships.  (Fig. 4.0.1.)</p>
 <image source="C Natural Minor Treble Clef.png">
   
 </image>
  
   
 <figure width="80\%" xml:id="C-Minor-Harmonic-Scale-Intervals">
-  <caption>Intervals and interval Qualities between the notes in a  Harmonic Minor Scale (C Harmonic Minor)</caption>
+  <caption>Intervals and Interval Qualities between the notes in a <em> Harmonic Minor Scale</em> (C Harmonic Minor)</caption>
   <image source="C_Harmonic_Minor_Scale_Intervals_on_Staff.png">
-     <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
+     
  </image>
  </figure>
  <image source="C Harmonic Minor Treble Clef.png">
 </image>
 
  <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
-  <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Ascending(C Melodic Minor)</caption>
+  <caption>Intervals and nterval Qualities between the notes in a  <em>Melodic Minor Scale  Ascending</em>(C Melodic Minor)</caption>
   <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
-     <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
+     
  </image>
  </figure>
  
@@ -66,14 +67,14 @@
 
 
 <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
- <caption>Intervals and interval Qualities between the notes in a  Melodic Minor Scale  Descending(C Melodic Minor)</caption>
+ <caption>Intervals and interval Qualities between the notes in a  <em>Melodic Minor Scale  Descending</em> (C Melodic Minor)</caption>
  <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
-    <!-- <shortdescription>Figure shows individual scale intervals and qualities</shortdescription>-->
+   
 </image>
 </figure>
 
 <p>The notes of the C melodic minor scale descending are: 
-  C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C.
+  C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C>
 </p>
 
 <image source="C Melodic Minor Treble Clef.png">
