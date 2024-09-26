@@ -70,7 +70,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Intervals",
-  "body": " Intervals   Before discussing scales it is useful to understand how intervals between notes are described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval. This interval is dependant on the number of semitones between notes and is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones is 1 less than the count.    Shows the different quality Second Intervals between notes in a C Major Scale .    A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.     Other Intervals Intervals other than Seconds also exist and the following table identifies each interval type giving the number of semitones and the count for each particular interval. It is important to understand this for constructing Chords and Scales.   Interval Count    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2    Major 2nd  2 Semitones  3    Minor 3rd  3 Semitones  4    Major 3rd  4 Semitones  5    Perfect 4th  5 Semitones  6    5  6 Semitones  7    5th  7 Semitones  8    Augmented 5th  8 Semitones  9    6th  9 Semitones  10    Diminished 7th  9 Semitones  10    Minor 7th  10 Semitones  11    Major 7th  11 Semitones  12     xml:id=\"sub-sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 2nd-interval-shapes   It is important to realise that the various shapes can be moved to any position on the keyboard and will maintain the same relationshio between notes in the shape.The shapes show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading.     2nd Interval Shapes     xml:id=\"sub-sec-3rd-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 3rd-interval-shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     2nd Interval Shapes     "
+  "body": " Intervals   Before discussing scales it is useful to understand how the distance between notes is described.  The musical distance between notes on your instrument keyboard or on a musical staff is known as an interval . This interval is dependant on the number of semitones between notes and is described as a minor 2nd, a major 2nd, a minor 3rd, a major 3rd, a 5th, a 7th etc;  The interval between two notes can be obtained by counting between notes on the keyboard or staff but, when counting, the first note, should be counted as one and not zero. Using this type of count the actual number of semitones is 1 less than the count.    Shows the different quality (that is Major or Minor) Second Intervals between notes in a C Major Scale .    A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.     Other Intervals Intervals other than Seconds also exist and the following table identifies each interval type giving the number of semitones and the count for each particular interval. It is important to understand this for constructing Chords and Scales.   Interval Count    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2    Major 2nd  2 Semitones  3    Minor 3rd  3 Semitones  4    Major 3rd  4 Semitones  5    Perfect 4th  5 Semitones  6    5  6 Semitones  7    5th  7 Semitones  8    Augmented 5th  8 Semitones  9    6th  9 Semitones  10    Diminished 7th  9 Semitones  10    Minor 7th  10 Semitones  11    Major 7th  11 Semitones  12     xml:id=\"sub-sec-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 2nd-interval-shapes on the keyboard   It is important to realise that the various shapes can be moved to any position on the keyboard and will maintain the same relationship between the notes in the shape.The Figures show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading.     2nd Interval Shapes     xml:id=\"sub-sec-3rd-intervals\" xmlns:xi=\"http:\/\/www.w3.org\/2001\/XInclude\" 3rd-interval-shapes   These shapes can be moved to any position on the keyboard and show the relative position of keyboard buttons for the different intervals.  Using intervals alone it is possible to build the different scales and chords. Knowledge of intervals can also be very useful in sight reading and I hope to include some examples of this later in the manual.     2nd Interval Shapes     "
+},
+{
+  "id": "sec-intervals-2-2",
+  "level": "2",
+  "url": "sec-intervals.html#sec-intervals-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "interval interval "
+},
+{
+  "id": "sec-intervals-2-3",
+  "level": "2",
+  "url": "sec-intervals.html#sec-intervals-2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "interval "
 },
 {
   "id": "sec-intervals-3",
@@ -79,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "3.1.1",
   "title": "",
-  "body": " Shows the different quality Second Intervals between notes in a C Major Scale .    A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.   "
+  "body": " Shows the different quality (that is Major or Minor) Second Intervals between notes in a C Major Scale .    A Major scale is defined by the type of interval between the different degrees of the scale with all Major Scales having the same Interval structure as shown here. Thus specific Major scales can be built using any note as a tonic and applying the same interval structure.   "
 },
 {
   "id": "sec-intervals-5",
