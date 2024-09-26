@@ -19,7 +19,7 @@
  <p>The following figures show how each scale type is constructed and the intervals between notes in each scale type.
  </p>
  <figure width="80\%" xml:id="C-Major-Scale-Intervals">
-  <caption>Figure showing Intervals and Interval Quality between the notes in a  <em>Major Scale</em> (C Major)</caption>
+  <caption>Figure showing Intervals and Interval Quality between the notes in a  <term>Major Scale</term> (C Major)</caption>
   <image source="C_Major_Scale_Intervals.png">
       
  </image>
@@ -30,7 +30,7 @@
 
 
 <figure width="100\%" xml:id="C_Minor_Natural_Intervals_Diagram">
-  <caption>Intervals and Interval Qualities between the notes in a  <em>Natural Minor Scale</em> (C Natural Minor)</caption>
+  <caption>Intervals and Interval Qualities between the notes in a  <term>Natural Minor Scale</term> (C Natural Minor)</caption>
   
   <image source="C Minor Natural with Intervals.png"> 
   </image>
@@ -46,7 +46,7 @@
  
   
 <figure width="80\%" xml:id="C-Minor-Harmonic-Scale-Intervals">
-  <caption>Intervals and Interval Qualities between the notes in a <em> Harmonic Minor Scale</em> (C Harmonic Minor)</caption>
+  <caption>Intervals and Interval Qualities between the notes in a <term> Harmonic Minor Scale</term> (C Harmonic Minor)</caption>
   <image source="C_Harmonic_Minor_Scale_Intervals_on_Staff.png">
      
  </image>
@@ -55,7 +55,7 @@
 </image>
 
  <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
-  <caption>Intervals and nterval Qualities between the notes in a  <em>Melodic Minor Scale  Ascending</em>(C Melodic Minor)</caption>
+  <caption>Intervals and nterval Qualities between the notes in a  <term>Melodic Minor Scale  Ascending</term>(C Melodic Minor)</caption>
   <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
      
  </image>
@@ -67,7 +67,7 @@
 
 
 <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
- <caption>Intervals and interval Qualities between the notes in a  <em>Melodic Minor Scale  Descending</em> (C Melodic Minor)</caption>
+ <caption>Intervals and interval Qualities between the notes in a  <term>Melodic Minor Scale  Descending</term> (C Melodic Minor)</caption>
  <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
    
 </image>
