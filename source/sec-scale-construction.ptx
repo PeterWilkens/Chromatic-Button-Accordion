@@ -54,28 +54,34 @@
  <image source="C Harmonic Minor Treble Clef.png">
 </image>
 
- <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
-  <caption>Intervals and nterval Qualities between the notes in a  <term>Melodic Minor Scale  Ascending</term>(C Melodic Minor)</caption>
-  <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
-     
- </image>
- </figure>
+
  
 <p>For the Melodic Minor Scale, you raise the sixth and seventh notes of the Harmonic Minor scale by a half step as you go up the scale returning to the Natural Minor as you go down the scale.
-  e.g; The notes of the C melodic minor scale ascending are: C, D, E<flat/>, F, G, A, B, C. 
+  
 </p>
+<sidebyside widths="48% 48%" valign="top">
+
+  <figure width="100\%" xml:id="C-Minor-Melodic-Scale-Ascending-Intervals">
+    <caption>Intervals and Interval Qualities between the notes in a  <term>Melodic Minor Scale  Ascending</term>
+      The notes of the C melodic minor scale ascending are: C, D, E<flat/>, F, G, A, B, C. </caption>
+    <image source="C_Melodic_Minor_Scale_Ascending_Intervals_on_Staff.png">
+       
+   </image>
+   </figure>
+
+   <figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
+    <caption>Intervals and Interval Qualities between the notes in a  <term>Melodic Minor Scale  Descending</term> The notes of the C melodic minor scale descending are: 
+      C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C.</caption>
+    <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
+      
+
+   </image>
+   </figure>
+</sidebyside>
 
 
-<figure width="80\%" xml:id="C-Minor-Melodic-Scale-Descending-Intervals">
- <caption>Intervals and interval Qualities between the notes in a  <term>Melodic Minor Scale  Descending</term> (C Melodic Minor)</caption>
- <image source="C_Melodic_Minor_Scale_Descending_Intervals_on_Staff.png">
-   
-</image>
-</figure>
 
-<p>The notes of the C melodic minor scale descending are: 
-  C, B<flat/>, A<flat/>, G, F, E<flat/>, D and C>
-</p>
+
 
 <image source="C Melodic Minor Treble Clef.png">
 </image>
