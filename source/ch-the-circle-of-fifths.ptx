@@ -49,15 +49,15 @@
 </ul>
 </p>
 
-<figure width="80\%" xml:id="V7-to-I-Progression">
+<figure width="80\%" xml:id="V7-to-I">
   <image source="V7-to-I.png">
       <shortdescription>Diagram showing important V7 to VI progression.</shortdescription>
 
     </image>
 </figure>
 
-<figure width="80\%" xml:id="ii-V-IProgression">
-  <image source="ii-V7-to-I.png">
+<figure width="80\%" xml:id="ii-V-I-Progression">
+  <image source="ii-V7-I.png">
       <shortdescription>Diagram showing ii-V7-I Progression </shortdescription>
 
     </image>
