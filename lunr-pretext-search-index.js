@@ -433,18 +433,18 @@ var ptx_lunr_docs = [
   "body": "Perfect 4th Perfect 5th "
 },
 {
-  "id": "V7-to-I-Progression",
+  "id": "V7-to-I",
   "level": "2",
-  "url": "ch-the-circle-of-fifths.html#V7-to-I-Progression",
+  "url": "ch-the-circle-of-fifths.html#V7-to-I",
   "type": "Figure",
   "number": "4.0.2",
   "title": "",
   "body": "  Diagram showing important V7 to VI progression.   "
 },
 {
-  "id": "ii-V-IProgression",
+  "id": "ii-V-I-Progression",
   "level": "2",
-  "url": "ch-the-circle-of-fifths.html#ii-V-IProgression",
+  "url": "ch-the-circle-of-fifths.html#ii-V-I-Progression",
   "type": "Figure",
   "number": "4.0.3",
   "title": "",
