@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "4",
   "title": "The Circle of Fifths",
-  "body": " The Circle of Fifths  The Circle of Fifths is useful in understanding musical concepts far beyond showing the different Key Signatures.  I will try and to demonstrate what the Circle of Fifths is and how to use it to properly benefit from all that it offers.  The The Circle of Fifths can be confusing. It is important to realise that you can progress round the circle clockwise or anticlockwise. It is also important to appreciate that the pitch may be ascending or descending as progress is made round the circle in either direction.  The Circle of Fifths:    Is just a diagram showing the 12 musical pitches laid out in a circular format.  The notes are written such that, if travelling round the circle in a clockwise direction, and they are ascending in pitch they are separated by an Interval of a Perfect 5th.   If travelling in an anticlockwise direction and the notes are ascending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a Perfect 5th .  You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.  With C at the 12 O'Clock position, C has no Accidentals in its' Key Signature, going clockwise G has 1 , D has 2 s, A has 3 s and so on.  From C going anticlockwise F has 1 , B has 2 s, E has 3 s etc;  The Relative Minor is shown on an inner circle adjacent to its' Relative Major, eg; A Minor is at the 12 O'clock position adjacent to C Major.      Diagram showing key elements of the circle of fifths    "
+  "body": " The Circle of Fifths  The Circle of Fifths is useful in understanding musical concepts far beyond showing the different Key Signatures.  I will try and to demonstrate what the Circle of Fifths is and how to use it to properly benefit from all that it offers.  The The Circle of Fifths can be confusing. It is important to realise that you can progress round the circle clockwise or anticlockwise. It is also important to appreciate that the pitch may be ascending or descending as progress is made round the circle in either direction.  The Circle of Fifths:    Is just a diagram showing the 12 musical pitches laid out in a circular format.  The notes are written such that, if travelling round the circle in a clockwise direction, and they are ascending in pitch they are separated by an Interval of a Perfect 5th.   If travelling in an anticlockwise direction and the notes are ascending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a Perfect 5th .  You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.  With C at the 12 O'Clock position, C has no Accidentals in its' Key Signature, going clockwise G has 1 , D has 2 s, A has 3 s and so on.  From C going anticlockwise F has 1 , B has 2 s, E has 3 s etc;  The Relative Minor is shown on an inner circle adjacent to its' Relative Major, eg; A Minor is at the 12 O'clock position adjacent to C Major.      Diagram showing key elements of the circle of fifths    Important Chord Progressions Using The Circle of Fifths:    Mainting the Pitch labels on the Circle but adding a Chord Quality some of the most important Chord Progressions are provided using the Circle Diagram  For the purposes of this manual all movement through the Circle will be Counterclockwise.  Direction of travel Chordwise will therefore be C to F to B to E and so on using the \"pitch lables\" in the Circle.  If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a Perfect 5th .  You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.  With C at the 12 O'Clock position, C has no Accidentals in its' Key Signature, going clockwise G has 1 , D has 2 s, A has 3 s and so on.  From C going anticlockwise F has 1 , B has 2 s, E has 3 s etc;  The Relative Minor is shown on an inner circle adjacent to its' Relative Major, eg; A Minor is at the 12 O'clock position adjacent to C Major.      Diagram showing important V7 to VI progression.      Diagram showing ii-V7-I Progression      Diagram showing V7 to V7 Progression    "
 },
 {
   "id": "ch-the-circle-of-fifths-2",
@@ -413,6 +413,51 @@ var ptx_lunr_docs = [
   "number": "4.0.1",
   "title": "",
   "body": "  Diagram showing key elements of the circle of fifths   "
+},
+{
+  "id": "ch-the-circle-of-fifths-8",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "The Circle of Fifths: "
+},
+{
+  "id": "ch-the-circle-of-fifths-9",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Perfect 4th Perfect 5th "
+},
+{
+  "id": "V7-to-I-Progression",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#V7-to-I-Progression",
+  "type": "Figure",
+  "number": "4.0.2",
+  "title": "",
+  "body": "  Diagram showing important V7 to VI progression.   "
+},
+{
+  "id": "ii-V-IProgression",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ii-V-IProgression",
+  "type": "Figure",
+  "number": "4.0.3",
+  "title": "",
+  "body": "  Diagram showing ii-V7-I Progression   "
+},
+{
+  "id": "V7-to-V7-Progression",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#V7-to-V7-Progression",
+  "type": "Figure",
+  "number": "4.0.4",
+  "title": "",
+  "body": "  Diagram showing V7 to V7 Progression   "
 },
 {
   "id": "sec-chord-construction",
