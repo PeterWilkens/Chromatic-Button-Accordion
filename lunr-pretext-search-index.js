@@ -358,7 +358,52 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "4",
   "title": "The Circle of Fifths",
-  "body": " The Circle of Fifths  The Circle of Fifths is useful in a number of areas. It shows the various key signatures where, moving clockwise, the keys are arranged a fifth interval above the previous, hence the name.  The diagram also shows the Key Signature on the treble clef showing the number of sharps or flats, and the Relative Minor key is shown in lower case letters.    Diagram showing key elements of the circle of fifths    "
+  "body": " The Circle of Fifths  The Circle of Fifths is useful in understanding musical concepts far beyond showing the different Key Signatures.  I will try and to demonstrate what the Circle of Fifths is and how to use it to properly benefit from all that it offers.  The The Circle of Fifths can be confusing. It is important to realise that you can progress round the circle clockwise or anticlockwise. It is also important to appreciate that the pitch may be ascending or descending as progress is made round the circle in either direction.  The Circle of Fifths:    Is just a diagram showing the 12 musical pitches laid out in a circular format.  The notes are written such that, if travelling round the circle in a clockwise direction, and they are ascending in pitch they are separated by an Interval of a Perfect 5th.   If travelling in an anticlockwise direction and the notes are ascending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a Perfect 4th .  If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a Perfect 5th .  You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.  With C at the 12 O'Clock position, C has no Accidentals in its' Key Signature, going clockwise G has 1 , D has 2 s, A has 3 s and so on.  From C going anticlockwise F has 1 , B has 2 s, E has 3 s etc;  The Relative Minor is shown on an inner circle adjacent to its' Relative Major, eg; A Minor is at the 12 O'clock position adjacent to C Major.      Diagram showing key elements of the circle of fifths    "
+},
+{
+  "id": "ch-the-circle-of-fifths-2",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Circle of Fifths "
+},
+{
+  "id": "ch-the-circle-of-fifths-3",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Circle of Fifths "
+},
+{
+  "id": "ch-the-circle-of-fifths-4",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "The Circle of Fifths "
+},
+{
+  "id": "ch-the-circle-of-fifths-5",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Circle of Fifths: "
+},
+{
+  "id": "ch-the-circle-of-fifths-6",
+  "level": "2",
+  "url": "ch-the-circle-of-fifths.html#ch-the-circle-of-fifths-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Perfect 5th. Perfect 4th Perfect 4th Perfect 5th "
 },
 {
   "id": "circle-of-fifths",
