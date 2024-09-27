@@ -2,8 +2,29 @@
 
 <chapter xml:id="ch-the-circle-of-fifths" xmlns:xi="http://www.w3.org/2001/XInclude">
 <title>The Circle of Fifths</title> 
-<p>The Circle of Fifths is useful in a number of areas. It shows the various key signatures where, moving clockwise, the keys are arranged a fifth interval above the previous, hence the name.</p>
-<p>The diagram also shows the Key Signature on the treble clef showing the number of sharps or flats, and the Relative Minor key is shown in lower case letters.</p>
+<p>The <term>Circle of Fifths</term> is useful in understanding musical concepts far beyond showing the different Key Signatures.</p>
+<p> I will try and to demonstrate what the <term>Circle of Fifths</term> is and how to use it to properly benefit from all that it offers.</p>
+<p>The <term>The Circle of Fifths</term> can be confusing. It is important to realise that you can progress round the circle clockwise or anticlockwise. It is also important to appreciate that the pitch may be ascending or descending as progress is made round the circle in either direction.</p>
+
+
+
+<p>The <term>Circle of Fifths:</term></p>
+ 
+<p>
+<ul>
+   
+  <li>Is just a diagram showing the 12 musical pitches laid out in a circular format.</li>
+  <li>The notes are written such that, if travelling round the circle in a clockwise direction, and they are ascending in pitch they are separated by an Interval of a <term>Perfect 5th.</term> </li>
+  <li>If travelling in an anticlockwise direction and the notes are ascending in pitch, they are separated by an Interval of a <term>Perfect 4th</term>.</li>
+  <li>If travelling in a clockwise direction and the notes are descending in pitch, they are separated by an Interval of a <term>Perfect 4th</term>.</li>
+  <li>If travelling in an anticlockwise direction and the notes are descending in pitch, they are seperated by an Interval of a <term>Perfect 5th</term>.</li>
+  <li>You can see from the above, that the Circle could be legitimately called The Circle of Fourths and sometimes is. It all depends on direction of travel and ascending or falling pitch.</li>
+  <li>With C at the 12 O'Clock position, C has no Accidentals in its' Key Signature, going clockwise G has 1<sharp/>, D has 2<sharp/>s, A has 3<sharp/>s and so on.</li>
+  <li>From C going anticlockwise F has 1<flat/>, B<flat/> has 2 <flat/>s, E<flat/> has 3 <flat/>s etc;</li>
+<li>The Relative Minor is shown on an inner circle adjacent to its' Relative Major, eg; A Minor is at the 12 O'clock position adjacent to C Major.</li>
+</ul>
+</p>
+
 
 <figure width="100\%" xml:id="circle-of-fifths">
   <image source="circle-of-fifths.png">
