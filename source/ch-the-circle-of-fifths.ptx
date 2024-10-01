@@ -23,6 +23,7 @@
   <li>From C going anticlockwise F Major has 1<flat/>, B<flat/>Major has 2 <flat/>s, E<flat/>Major has 3 <flat/>s etc;</li>
   <li>The Relative Minor is shown on an inner circle opposite its' Relative Major, eg; A Minor is at the 12 O'clock position opposite to C Major.</li>
   <li>On a musical staff the position of the accidental symbol (<sharp/> or <flat/>) is positioned where the <sharp/> or <flat/> note would be printed. From this you can see that in D Major the <sharp/> notes are F and C, similarly in E<flat/> Major the <flat/>notes are E, B and A.</li>
+  
 </ul>
 </p>
 
@@ -41,24 +42,21 @@
   <li>By adding a Chord Quality to each Pitch identity on the Circle some of the most important Chord Progressions, used in all types of music, can be obtained by using the Circle Diagram.</li>
   <li>For this purpose all cycling through the Circle will be Counterclockwise.</li>
   <li>Direction of travel Chordwise will therefore be C to F to B<flat/> to E<flat/> and so on using the "pitch  labels" in the Circle.</li>
-  <li> Figure 4.0.2 shows one of the more important chord resolutions in music. V7/I</li>
-  <li>Figure 4.0.3 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music. </li>
- <li> Figure 4.0.4 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.</li>
- <li> iii-VI7-ii-V7-I eg; C mi/F7/B<flat/> mi/E<flat/>7
-  /A<flat/>Maj7</li>
-  <li> All these progressions cycle in an anticlockwise direction through the same Root note sequence (allbeit with different Chord Qualities).</li>
+  <li>Figure 4.0.2 illustrates all the possible ii-V-I progressions. Probably the most frequently occurring progression in all modern music. </li>
+  <li>Figure 4.0.2 also shows one of the more important chord resolutions in music, The Dominant 7 (V7) to Major(Maj7)</li>
+  <li>Figure 4.0.3 illustrates all the Dominants of Dominants, another frequently used chordal device. V7 to V7.</li>
+  <li>Figure 4.o.4 is a iii-VI7-ii-V7-I progression eg; C mi/F7/B<flat/> mi/E<flat/>7
+    /A<flat/>Maj7 which again cycles though the circle in an anticlockwise direction.</li>
+  <li>In all this discussion the information given in the Diagram remains the same. The "main-note-name" positions around the circle, remain fixed but the Chord Quality changes eg; from a Major Chord to a Minor etc;  .</li>
+ 
+  <li> All progressions cycle in an anticlockwise direction through the same Root note sequence, but with different Chord Qualities.</li>
 </ul>
- </p>
+</p>
 
-<figure width="80\%" xml:id="V7-to-I">
-  <image source="V7-to-I.png">
-      <shortdescription>Diagram showing important V7 to VI progression.</shortdescription>
 
-    </image>
-</figure>
 
 <figure width="80\%" xml:id="ii-V-I-Progression">
-  <image source="ii-V7-I.png">
+  <image source="Circle_of_Fifths_ii_V_I_Progressions.png">
       <shortdescription>Diagram showing ii-V7-I Progression </shortdescription>
 
     </image>
