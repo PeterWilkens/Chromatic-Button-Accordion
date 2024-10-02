@@ -556,7 +556,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Major ii-V-I with added note in Bass.",
-  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..  Incidentally, the chords shown are all on the treble keyboard but additional notes on the bass side also serve to alter the chord. e.g; an F major chord played on free-bass or stradella changes to a Dmi7 when a D note is added. F A and C which is F Major becomes D F A C which is D minor7.    Diagrams of ii V I progressions    "
+  "body": " Major ii-V-I with added note in Bass.  The following shows how adding an additional note in the bass changes the chord identity and type. The example shows a common progression that apears in many pieces of music of all types.  The chords shown are all in root position the additional note being added below the original Tonic note..  Incidentally, the chords shown are all on the treble keyboard but additional notes on the bass side also serve to alter the chord. e.g; an F major chord played on free-bass or stradella changes to a Dmi7 when a D note is added. F A and C which is F Major becomes D F A C which is D minor7.    Diagrams of ii V I progressions      Grip 1 and 1A Major 7th progressions    "
 },
 {
   "id": "2-5-1-chord-progression",
@@ -566,6 +566,15 @@ var ptx_lunr_docs = [
   "number": "6.1.1",
   "title": "",
   "body": "  Diagrams of ii V I progressions   "
+},
+{
+  "id": "Blank-Chords-",
+  "level": "2",
+  "url": "sec-251-progression.html#Blank-Chords-",
+  "type": "Figure",
+  "number": "6.1.2",
+  "title": "",
+  "body": "  Grip 1 and 1A Major 7th progressions   "
 },
 {
   "id": "Circle-of-5ths-smooth-voice-leading",
