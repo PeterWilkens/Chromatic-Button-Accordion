@@ -8,7 +8,6 @@
     <title>Chromatic-Button-Accordion</title>
     <subtitle>Chord and Scale Manual, Stradella and Free-Bass</subtitle>
 
-    
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
     <!-- Include chapters -->

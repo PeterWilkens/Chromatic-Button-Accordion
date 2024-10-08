@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="grip-1-and2-with-different-bass" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Grip 1 and 2 and different bass note</title>
+  <p>This table shows how a chord can be altered by adding different bass notes.</p>
+
+  <table>
+    <title>How Chord Changes with Different Bass Note added.</title>
+
+      <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
+        <row header="yes" bottom="medium">
+          <cell>Interval Type</cell>
+        <cell>Semitones between notes</cell>
+        <cell>Count</cell>
+      </row>
+      <row>
+        <cell>Minor 2nd</cell>
+        <cell>1 Semitone</cell>
+        <cell>2</cell>
+      </row>
+    </tabular>
+  </table>
+</section>
