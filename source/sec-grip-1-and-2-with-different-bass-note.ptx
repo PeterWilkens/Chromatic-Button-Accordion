@@ -5,19 +5,30 @@
   <p>This table shows how a chord can be altered by adding different bass notes.</p>
 
   <table>
-    <title>How Chord Changes with Different Bass Note added.</title>
+    <title>How a Chord Changes with a Different Bass Note added.</title>
 
       <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
         <row header="yes" bottom="medium">
-          <cell>Interval Type</cell>
-        <cell>Semitones between notes</cell>
-        <cell>Count</cell>
+          <cell>Chord Name</cell>
+        <cell>Grip</cell>
+        <cell>Added Bass Note</cell>
+        <cell>Chord Becomes</cell>
       </row>
       <row>
-        <cell>Minor 2nd</cell>
-        <cell>1 Semitone</cell>
-        <cell>2</cell>
+        <cell>E<flat/>Maj7</cell>
+        <cell>Grip 1</cell>
+        <cell>C</cell>
+        <cell>C-7add9</cell>
       </row>
+      <row>
+        <cell>E<flat/>Maj7</cell>
+        <cell>Grip 1a</cell>
+        <cell>C</cell>
+        <cell>C-7add9</cell>
+      </row>
+
+
+
     </tabular>
   </table>
 </section>
