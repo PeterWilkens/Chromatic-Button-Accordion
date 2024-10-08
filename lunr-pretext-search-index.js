@@ -601,7 +601,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Grip 1 and 2 and different bass note",
-  "body": " Grip 1 and 2 and different bass note  This table shows how a chord can be altered by adding different bass notes.   How Chord Changes with Different Bass Note added.    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2     "
+  "body": " Grip 1 and 2 and different bass note  This table shows how a chord can be altered by adding different bass notes.   How a Chord Changes with a Different Bass Note added.    Chord Name  Grip  Added Bass Note  Chord Becomes    E Maj7  Grip 1  C  C-7add9    E Maj7  Grip 1a  C  C-7add9     "
 },
 {
   "id": "grip-1-and2-with-different-bass-3",
@@ -609,8 +609,8 @@ var ptx_lunr_docs = [
   "url": "grip-1-and2-with-different-bass.html#grip-1-and2-with-different-bass-3",
   "type": "Table",
   "number": "5.6.1",
-  "title": "How Chord Changes with Different Bass Note added.",
-  "body": " How Chord Changes with Different Bass Note added.    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2    "
+  "title": "How a Chord Changes with a Different Bass Note added.",
+  "body": " How a Chord Changes with a Different Bass Note added.    Chord Name  Grip  Added Bass Note  Chord Becomes    E Maj7  Grip 1  C  C-7add9    E Maj7  Grip 1a  C  C-7add9    "
 },
 {
   "id": "sec-251-progression",
