@@ -595,6 +595,24 @@ var ptx_lunr_docs = [
   "body": "  Grip 1 and 1A Maj7Flat5's in circle of 5ths progressions   "
 },
 {
+  "id": "grip-1-and2-with-different-bass",
+  "level": "1",
+  "url": "grip-1-and2-with-different-bass.html",
+  "type": "Section",
+  "number": "5.6",
+  "title": "Grip 1 and 2 and different bass note",
+  "body": " Grip 1 and 2 and different bass note  This table shows how a chord can be altered by adding different bass notes.   How Chord Changes with Different Bass Note added.    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2     "
+},
+{
+  "id": "grip-1-and2-with-different-bass-3",
+  "level": "2",
+  "url": "grip-1-and2-with-different-bass.html#grip-1-and2-with-different-bass-3",
+  "type": "Table",
+  "number": "5.6.1",
+  "title": "How Chord Changes with Different Bass Note added.",
+  "body": " How Chord Changes with Different Bass Note added.    Interval Type  Semitones between notes  Count    Minor 2nd  1 Semitone  2    "
+},
+{
   "id": "sec-251-progression",
   "level": "1",
   "url": "sec-251-progression.html",
