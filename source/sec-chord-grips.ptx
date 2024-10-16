@@ -11,16 +11,92 @@ or minor seventh grips.</p>
 <p> A grip is primarily made up of four notes.</p>
     <p>By adding an additional note in the bass (or treble)  the chord identity and  quality is changed and a single grip can produce various types of chord just by adding a different note. </p>
    <p> Using these <term>grips</term> with different added notes alters the chord, in name and tonal character, and makes available a vast number of new chords.</p>
-     <p>Examples follow which should help with familiarisation and ear training.</p>
- 
     
+    
+    <paragraphs>
+      <title>Grip-1, 1a, 2 and 2a</title>
+   </paragraphs>
+   
+  <figure width="100\%" xml:id="Grip-1-1a-2-and-2a">
+     <image source="Grip-1-1a-2 and 2a.png">
+  <shortdescription>Grip 1 and 1a. 2 and 2a</shortdescription>
+      </image> 
+   </figure>
+   <paragraphs>
+      <title>Grip-3</title>
+   </paragraphs>
 
- 
-     <paragraphs>
-  
-  
-  
-  
+   <figure xml:id="figure-table-captioned">
+      <caption>Grip 3 Diagram and Table showing Chord with different bass notes.</caption>
+      <sidebyside>
+        <table xml:id="table-next-figure-sublabeled">
+          <title>Chord changes with different Bass Notes </title>
+          <tabular top="minor" left="minor" halign="centre">
+            <col right="medium" />
+            <col right="minor" />
+            <col />
+    
+            <row bottom="medium">
+              <cell>Bass Note</cell>
+              <cell right="minor">Chord Name</cell>
+           
+           </row>
+           <!----> <row>
+               <cell bottom="minor"></cell>
+               <cell bottom="minor" right="minor"> Tonic Major?</cell>
+             </row>
+
+            <row bottom="minor">
+              <cell>D</cell>
+              <cell right="minor">Dmi7 11<flat/>13</cell>
+            </row>
+            <row>
+              <cell bottom="minor">C</cell>
+              <cell bottom="minor" right="minor">Csus4 7 9</cell>
+            </row>
+            <row> 
+               <cell bottom="minor">B<flat/></cell>
+               <cell bottom="minor">B<flat/> 6 9</cell>
+             </row>
+             <row bottom="minor">
+               <cell>A</cell>
+               <cell right="minor">Ami7<flat/>9 11 <flat/>13 no 5</cell>
+             </row>
+             <row>
+               <cell bottom="minor">A<flat/></cell>
+               <cell bottom="minor" right="minor">A<flat/>Maj7 <flat/>5 6 9</cell>
+             </row>
+             <row>
+               <cell bottom="minor">G</cell>
+               <cell bottom="minor" right="minor">Gmi7 11</cell>
+             </row>
+             <row>
+               <cell bottom="minor">F</cell>
+               <cell bottom="minor" right="minor">F 6 9 sus 4</cell>
+             </row>
+            <row>
+               <cell bottom="minor">E</cell>
+               <cell bottom="minor" right="minor">Emi7 <flat/>5 <flat/>9 <flat/>13</cell>
+             </row>
+             <row>
+               <cell bottom="minor">E<flat/></cell>
+               <cell bottom="minor" right="minor">E<flat/>Maj7 6 9</cell>
+             </row>
+            
+
+          </tabular>5
+        </table>
+    
+        <figure xml:id="figure-next-table-sublabeled">
+          <caption>Grip 3 Diagram</caption>
+          <image source="Grip 3.png" />
+        </figure>
+      </sidebyside>
+    </figure>
+   
+   <p>Examples follow which should help with familiarisation and ear training.</p>
+<paragraphs>
+   
     <title>Maj7 Chord. Grip 1 and 1a arranged in a circle of 5ths</title>
  </paragraphs>
  

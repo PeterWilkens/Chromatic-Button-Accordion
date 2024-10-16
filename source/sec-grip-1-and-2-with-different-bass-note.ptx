@@ -9,7 +9,7 @@
 
       <tabular bottom="minor" top="minor" left="minor" right="minor" halign="left">
         <row header="yes" bottom="medium">
-        <cell>Chord Name</cell>
+        <cell>Chord</cell>
         <cell>Grip</cell>
         <cell>Added Bass Note</cell>
         <cell>Chord Becomes</cell>
@@ -20,13 +20,7 @@
         <cell>C</cell>
         <cell>C-7add9</cell>
       </row>
-      <row>
-        <cell>E<flat/>Maj7</cell>
-        <cell>Grip 1a</cell>
-        <cell>C</cell>
-        <cell>C-7add9</cell>
-      </row>
-
+     
 
 
       <row>
@@ -35,12 +29,7 @@
         <cell>D</cell>
         <cell>Fsus7 9 13</cell>
       </row>
-      <row>
-      <cell>E<flat/>Maj7</cell>
-      <cell>Grip 1</cell>
-      <cell>D</cell>
-      <cell>Fsus7 9 13</cell>
-    </row>
+      
     </tabular>
   </table>
 </section>
