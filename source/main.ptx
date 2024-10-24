@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- we first include a file which contains the docinfo element: -->
+  <!we--  first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-book">
@@ -19,6 +19,8 @@
     <xi:include href="./ch-chord-progressions.ptx" />
     <xi:include href="./ch-chord-diagrams.ptx" />
    <xi:include href="./ch-chord-melody.ptx" />
+   <xi:include href="./ch-arpeggios.ptx"/>
+   
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
