@@ -730,6 +730,15 @@ var ptx_lunr_docs = [
   "body": " Chord Melody Specific Example Dmi7\/G7\/CMaj7    > Dmi7  Dmi7  G7  G7  C Maj7  CMaj    R Hand  R Hand  R Hand  R Hand  R Hand  R Hand    C  F  F  B  B  E    F  C  B  F  E  B    L Hand   L Hand   L Hand     A   D   G     D   G   C     "
 },
 {
+  "id": "ch-arpeggios",
+  "level": "1",
+  "url": "ch-arpeggios.html",
+  "type": "Chapter",
+  "number": "9",
+  "title": "Arpeggios",
+  "body": " Arpeggios   An arpeggio is a broken chord where the notes of the chord are played or sung one after the other instead of all at once.  Arpeggios can be ascending or descending. For example, an ascending arpeggio of a C major chord is C, E, and G.   "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
