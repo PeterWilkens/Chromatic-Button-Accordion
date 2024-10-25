@@ -20,7 +20,7 @@
          <image source="min-6dim.png">
          </image>
 </figure>
-   <p> 7 diminished = 7 arpeggio + dim7 arpeggio up a whole step</p>
+   <p> Dominant 7 diminished = 7 arpeggio + dim7 arpeggio up a whole step</p>
     
    <p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
    <figure xml:id="maj7-dim">
@@ -28,11 +28,11 @@
          <image source="6dim-maj7.png">
          </image>
 </figure>  
-<p> 7<flat/>5 diminished = 7<flat/>5 arpeggio + dim7 arpeggio up a whole step</p> 
-   <p> C E<flat/>> G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E<flat/> F G<flat/> A<flat/> B<flat/> B</p>
+<p> Dominant 7<flat/>5 diminished = 7<flat/>5 arpeggio + dim7 arpeggio up a whole step</p> 
+   <p> C E G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E F G<flat/> A<flat/> B<flat/> B</p>
 
   <figure xml:id="min7flat5dim">
-    <caption>Chords built on Minor 7<flat/>5 Diminished Scale</caption>
+    <caption>Chords built on Dominant 7<flat/>5 Diminished Scale</caption>
          <image source="6dim-m7.png">
          </image>
 </figure>
