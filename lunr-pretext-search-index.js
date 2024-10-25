@@ -745,7 +745,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "10",
   "title": "Dim 6 scale",
-  "body": " Dim 6 scale  Maj6 diminished = maj6 arpeggio + diminished arpeggio  C E G A + D F A C = C D E F G A A B   Chords built on Major 6th Diminished Scale     Min6 diminished = min6 arpeggio + dim7 arpeggios up a whole step  C E G A + D F A C = C D E F G A A B   Chords built on Minor 6th Diminished Scale     Dominant 7 diminished = 7 arpeggio + dim7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on 7th Diminished Scale     Dominant 7 5 diminished = 7 5 arpeggio + dim7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on Dominant 7 5 Diminished Scale      "
+  "body": " Dim 6 scale  Maj6 diminished = Maj6 arpeggio + Diminished arpeggio  C E G A + D F A C = C D E F G A A B   Chords built on Major 6th Diminished Scale     Minor 6 Diminished = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step  C E G A + D F A C = C D E F G A A B   Chords built on Minor 6th Diminished Scale     Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on 7th Diminished Scale     Dominant 7 5 diminished = Dominant 7 5 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on Dominant 7 5 Diminished Scale      "
 },
 {
   "id": "maj-6dim",
