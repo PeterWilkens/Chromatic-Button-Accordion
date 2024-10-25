@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>dim 6 scale</title>
+    <title>Dim 6 scale</title>
 <p> Maj6 diminished = maj6 arpeggio + diminished arpeggio</p>
 <p> C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B</p>
 <figure xml:id="maj-6dim">
@@ -29,7 +29,7 @@
          </image>
 </figure>  
 <p> 7<flat/>5 diminished = 7<flat/>5 arpeggio + dim7 arpeggio up a whole step</p> 
-   <p> C E G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E<flat/> F G<flat/> A<flat/> B<flat/> B</p>
+   <p> C E<flat/>> G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E<flat/> F G<flat/> A<flat/> B<flat/> B</p>
 
   <figure xml:id="min7flat5dim">
     <caption>Chords built on Minor 7<flat/>5 Diminished Scale</caption>
