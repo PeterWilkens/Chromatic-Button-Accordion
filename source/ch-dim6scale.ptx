@@ -2,7 +2,7 @@
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Dim 6 scale</title>
-<p> Maj6 diminished = maj6 arpeggio + diminished arpeggio</p>
+<p> Maj6 diminished = Maj6 arpeggio + Diminished arpeggio</p>
 <p> C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B</p>
 <figure xml:id="maj-6dim">
 
@@ -11,7 +11,7 @@
      </image>
 </figure>
 
-<p>  Min6 diminished = min6 arpeggio + dim7 arpeggios up a whole step</p>
+<p>  Minor 6 Diminished = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step</p>
  
    <p> C E<flat/> G A + D F A<flat/> C<flat/> = C D E<flat/> F G A<flat/> A B</p>
    <figure xml:id="min-6dim">
@@ -20,7 +20,7 @@
          <image source="min-6dim.png">
          </image>
 </figure>
-   <p> Dominant 7 diminished = 7 arpeggio + dim7 arpeggio up a whole step</p>
+   <p> Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
     
    <p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
    <figure xml:id="maj7-dim">
@@ -28,7 +28,7 @@
          <image source="6dim-maj7.png">
          </image>
 </figure>  
-<p> Dominant 7<flat/>5 diminished = 7<flat/>5 arpeggio + dim7 arpeggio up a whole step</p> 
+<p> Dominant 7<flat/>5 diminished = Dominant 7<flat/>5 arpeggio + Diminished 7 arpeggio up a whole step</p> 
    <p> C E G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E F G<flat/> A<flat/> B<flat/> B</p>
 
   <figure xml:id="min7flat5dim">
