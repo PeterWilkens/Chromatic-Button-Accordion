@@ -20,6 +20,7 @@
     <xi:include href="./ch-chord-diagrams.ptx" />
    <xi:include href="./ch-chord-melody.ptx" />
    <xi:include href="./ch-arpeggios.ptx"/>
+   <xi:include href="./ch-dim6scale.ptx"/>
    
 
     <!-- Include backmatter -->
