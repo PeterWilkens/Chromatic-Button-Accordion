@@ -739,6 +739,51 @@ var ptx_lunr_docs = [
   "body": " Arpeggios   An arpeggio is a broken chord where the notes of the chord are played or sung one after the other instead of all at once.  Arpeggios can be ascending or descending. For example, an ascending arpeggio of a C major chord is C, E, and G.   "
 },
 {
+  "id": "ch-dim6scale",
+  "level": "1",
+  "url": "ch-dim6scale.html",
+  "type": "Chapter",
+  "number": "10",
+  "title": "dim 6 scale",
+  "body": " dim 6 scale  Maj6 diminished = maj6 arpeggio + diminished arpeggio  C E G A + D F A C = C D E F G A A B   Chords built on Major 6th Diminished Scale     Min6 diminished = min6 arpeggio + dim7 arpeggios up a whole step  C E G A + D F A C = C D E F G A A B   Chords built on Minor 6th Diminished Scale     7 diminished = 7 arpeggio + dim7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on 7th Diminished Scale     7 5 diminished = 7 5 arpeggio + dim7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on Minor 7 5 Diminished Scale      "
+},
+{
+  "id": "maj-6dim",
+  "level": "2",
+  "url": "ch-dim6scale.html#maj-6dim",
+  "type": "Figure",
+  "number": "10.0.1",
+  "title": "",
+  "body": " Chords built on Major 6th Diminished Scale    "
+},
+{
+  "id": "min-6dim",
+  "level": "2",
+  "url": "ch-dim6scale.html#min-6dim",
+  "type": "Figure",
+  "number": "10.0.2",
+  "title": "",
+  "body": " Chords built on Minor 6th Diminished Scale    "
+},
+{
+  "id": "maj7-dim",
+  "level": "2",
+  "url": "ch-dim6scale.html#maj7-dim",
+  "type": "Figure",
+  "number": "10.0.3",
+  "title": "",
+  "body": " Chords built on 7th Diminished Scale    "
+},
+{
+  "id": "min7flat5dim",
+  "level": "2",
+  "url": "ch-dim6scale.html#min7flat5dim",
+  "type": "Figure",
+  "number": "10.0.4",
+  "title": "",
+  "body": " Chords built on Minor 7 5 Diminished Scale    "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
