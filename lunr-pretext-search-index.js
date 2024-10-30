@@ -744,8 +744,8 @@ var ptx_lunr_docs = [
   "url": "ch-dim6scale.html",
   "type": "Chapter",
   "number": "10",
-  "title": "Dim 6 scale",
-  "body": " Dim 6 scale  Maj6 diminished = Maj6 arpeggio + Diminished arpeggio  C E G A + D F A C = C D E F G A A B   Chords built on Major 6th Diminished Scale     Minor 6 Diminished = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step  C E G A + D F A C = C D E F G A A B   Chords built on Minor 6th Diminished Scale     Major 7 diminished = Major 7 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A B at = C D E F G A B   Chords built on 7th Diminished Scale     Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on C Dom7 Diminished Scale     Dominant 7 5 diminished = Dominant 7 5 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on Dominant 7 5 Diminished Scale      "
+  "title": "6 Dim and Dom 7 Dim Scales",
+  "body": " 6 Dim and Dom 7 Dim Scales  Maj6 diminished = Maj6 arpeggio + Diminished arpeggio  C E G A + D F A C = C D E F G A A B   Chords built on Major 6th Diminished Scale     Minor 6 Diminished = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step  C E G A + D F A C = C D E F G A A B   Chords built on Minor 6th Diminished Scale     Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on C Dom7 Diminished Scale     Dominant 7 5 diminished = Dominant 7 5 arpeggio + Diminished 7 arpeggio up a whole step  C E G B + D F A C = C D E F G A B B   Chords built on Dominant 7 5 Diminished Scale      "
 },
 {
   "id": "maj-6dim",
@@ -766,29 +766,20 @@ var ptx_lunr_docs = [
   "body": " Chords built on Minor 6th Diminished Scale    "
 },
 {
-  "id": "maj7-dim",
-  "level": "2",
-  "url": "ch-dim6scale.html#maj7-dim",
-  "type": "Figure",
-  "number": "10.0.3",
-  "title": "",
-  "body": " Chords built on 7th Diminished Scale    "
-},
-{
   "id": "CDom7-dim",
   "level": "2",
   "url": "ch-dim6scale.html#CDom7-dim",
   "type": "Figure",
-  "number": "10.0.4",
+  "number": "10.0.3",
   "title": "",
   "body": " Chords built on C Dom7 Diminished Scale    "
 },
 {
-  "id": "min7flat5dim",
+  "id": "CDom7flat5_dim",
   "level": "2",
-  "url": "ch-dim6scale.html#min7flat5dim",
+  "url": "ch-dim6scale.html#CDom7flat5_dim",
   "type": "Figure",
-  "number": "10.0.5",
+  "number": "10.0.4",
   "title": "",
   "body": " Chords built on Dominant 7 5 Diminished Scale    "
 },
