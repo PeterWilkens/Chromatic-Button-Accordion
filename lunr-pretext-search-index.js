@@ -775,9 +775,9 @@ var ptx_lunr_docs = [
   "body": " Chords built on C Dom7 Diminished Scale    "
 },
 {
-  "id": "CDom7flat5_dim",
+  "id": "C_Dom7flat5_dim",
   "level": "2",
-  "url": "ch-dim6scale.html#CDom7flat5_dim",
+  "url": "ch-dim6scale.html#C_Dom7flat5_dim",
   "type": "Figure",
   "number": "10.0.4",
   "title": "",
