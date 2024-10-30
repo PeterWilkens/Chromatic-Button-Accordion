@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Dim 6 scale</title>
+    <title>6 Dim and Dom 7 Dim Scales</title>
 <p> Maj6 diminished = Maj6 arpeggio + Diminished arpeggio</p>
 <p> C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B</p>
 <figure xml:id="maj-6dim">
@@ -22,14 +22,7 @@
          <image source="min-6dim.png">
          </image>
 </figure>
-   <p> Major 7 diminished = Major 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
-    
-   <p> C E G B + D F A<flat/>B at = C D E F G A<flat/> B </p>
-   <figure xml:id="maj7-dim">
-    <caption>Chords built on 7th Diminished Scale</caption>
-         <image source="6dim-maj7.png">
-         </image>
-</figure>  
+  
 <p> Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
     
 <p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
@@ -43,9 +36,9 @@
 <p> Dominant 7<flat/>5 diminished = Dominant 7<flat/>5 arpeggio + Diminished 7 arpeggio up a whole step</p> 
    <p> C E G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E F G<flat/> A<flat/> B<flat/> B</p>
 
-  <figure xml:id="min7flat5dim">
+  <figure xml:id="CDom7flat5_dim">
     <caption>Chords built on Dominant 7<flat/>5 Diminished Scale</caption>
-         <image source="6dim-m7.png">
+         <image source="C_Dominant7_flat5_Dim_Scale.png">
          </image>
 </figure>
   <!-- include sections -->
