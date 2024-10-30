@@ -22,14 +22,18 @@
          <image source="min-6dim.png">
          </image>
 </figure>
-   <p> Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
+   <p> Major 7 diminished = Major 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
     
-   <p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
+   <p> C E G B + D F A<flat/>B at = C D E F G A<flat/> B </p>
    <figure xml:id="maj7-dim">
     <caption>Chords built on 7th Diminished Scale</caption>
          <image source="6dim-maj7.png">
          </image>
 </figure>  
+<p> Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
+    
+<p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
+
 <figure xml:id="CDom7-dim">
      <caption>Chords built on C Dom7 Diminished Scale</caption>
           <image source="CDom7Dim_Scale.png">
