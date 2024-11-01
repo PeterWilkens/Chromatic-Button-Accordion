@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>6 Dim and Dom 7 Dim Scales</title>
+    <title>Barry Harris Extracts</title>
 <p> Maj6 diminished = Maj6 arpeggio + Diminished arpeggio</p>
 <p> C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B</p>
 <figure xml:id="maj-6dim">
