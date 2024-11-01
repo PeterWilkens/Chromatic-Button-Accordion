@@ -2,18 +2,47 @@
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Barry Harris Extracts</title>
-<p> Maj6 diminished = Maj6 arpeggio + Diminished arpeggio</p>
-<p> C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B</p>
+<p>The Barry Harris harmonic method is a is a way of thinking about jazz chords and melodies using 4 different 8-note scales.</p>
+<p> The scales are based on the amalgamation of 2 Chords in each scale.</p>
+     <ol>
+       <li>The Major 6 Chord and the Diminished 7 Chord.</li>
+         <li> The Minor 6 Chord and the Diminished 7 Chord.</li>
+     <li>The Dominant 7 Chord and the Diminished 7 Chord</li>
+     <li>The Dominant 7 <flat/>5 Chord and the Diminished 7 Chord.</li>
+     </ol>
+ 
+<p>Combining the notes from these Chords produces an 8 note scale and harmonising the notes of those scales produces the following Chord Scales:</p>
+
+<p>
+     <ul>
+       <li>Major 6 Diminished Scale = Maj6 arpeggio + Diminished arpeggio.</li>
+   
+       <li>
+         <p>
+         Notes = C E G A + D F A<flat/> C<flat/> = C D E F G A<flat/> A B 
+         </p>
+       </li>
+     </ul>
+   </p>
+
 <figure xml:id="maj-6dim">
 
     <caption>Chords built on Major 6th Diminished Scale</caption>
      <image source="maj-6dim.png">
      </image>
 </figure>
+<p>
+     <ul>
+       <li>Minor 6 Diminished Scale = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step.</li>
+   
+       <li>
+         <p>
+         Notes = C E<flat/> G A + D F A<flat/> C<flat/> = C D E<flat/> F G A<flat/> A B
+         </p>
+       </li>
+     </ul>
+   </p>
 
-<p>  Minor 6 Diminished = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step</p>
- 
-   <p> C E<flat/> G A + D F A<flat/> C<flat/> = C D E<flat/> F G A<flat/> A B</p>
    <figure xml:id="min-6dim">
     
     <caption>Chords built on Minor 6th Diminished Scale</caption>
@@ -21,19 +50,35 @@
          </image>
 </figure>
   
-<p> Dominant 7 diminished = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step</p>
-    
-<p> C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B</p>
+<p>
+     <ul>
+       <li>Dominant 7 Diminished Scale = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step.</li>
+   
+       <li>
+         <p>
+          Notes = C E G B<flat/> + D F A<flat/> C<flat/> = C D E F G A<flat/> B<flat/> B
+         </p>
+       </li>
+     </ul>
+   </p>
 
 <figure xml:id="CDom7-dim">
      <caption>Chords built on C Dom7 Diminished Scale</caption>
           <image source="CDom7Dim_Scale.png">
           </image>
  </figure>  
-
-<p> Dominant 7<flat/>5 diminished = Dominant 7<flat/>5 arpeggio + Diminished 7 arpeggio up a whole step</p> 
-   <p> C E G<flat/> B<flat/> + D F A<flat/> C<flat/> = C D E F G<flat/> A<flat/> B<flat/> B</p>
-
+ 
+<p>
+  <ul>
+<li>Dominant 7<flat/>5 Diminished Scale = Dominant 7<flat/>5 arpeggio + Diminished 7 arpeggio up a whole step./</li>
+       <li>
+         <p>
+          Notes = C E G<flat/>B<flat/> + D F A<flat/> C<flat/> = C D E F G<flat/> A<flat/> B<flat/> B
+         </p>
+     </li>
+     </ul>
+   </p>
+  
   <figure xml:id="C_Dom7flat5_dim">
     <caption>Chords built on Dominant 7<flat/>5 Diminished Scale</caption>
          <image source="C7flat5.png">
