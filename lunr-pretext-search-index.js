@@ -766,13 +766,13 @@ var ptx_lunr_docs = [
   "body": " Chords built on Dominant 7 5 Diminished Scale    "
 },
 {
-  "id": "ch-BH-Extras",
+  "id": "ch-MoreBarryHarris",
   "level": "1",
-  "url": "ch-BH-Extras.html",
+  "url": "ch-MoreBarryHarris.html",
   "type": "Chapter",
   "number": "11",
-  "title": "Extra Barry Harris Material",
-  "body": " Extra Barry Harris Material   "
+  "title": "More Barry Harris",
+  "body": " More Barry Harris  Barry Harris harmonised chords and melodies using 4 different 8-note scales.  The scales are based on the amalgamation of 2 Chords in each scale.   The Major 6 Chord and the Diminished 7 Chord.  The Minor 6 Chord and the Diminished 7 Chord.  The Dominant 7 Chord and the Diminished 7 Chord  The Dominant 7 5 Chord and the Diminished 7 Chord.   "
 },
 {
   "id": "backmatter-2",
