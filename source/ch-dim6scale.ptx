@@ -2,7 +2,7 @@
 
 <chapter xml:id="ch-dim6scale" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Barry Harris</title>
-<p>The Barry Harris harmonic method is a is a way of harmonising jazz chords and melodies using 4 different 8-note scales.</p>
+<p>The Barry Harris method is a way of harmonising jazz chords and melodies using 4 different 8-note scales.</p>
 <p> The scales are based on the amalgamation of 2 Chords in each scale.</p>
      <ol>
        <li>The Major 6 Chord and the Diminished 7 Chord.</li>
@@ -85,8 +85,12 @@
          </image>
 </figure>
 
+<!--<p>Barry Harris Chord Exercise</p>
+<figure xml:id="BH-Chord-Exercise">
+  <caption>Run through Chord Scales with lead ins as per Barry Harris demos on YouTube.</caption>
+       <image source="BH-Chord-Exercise.png">
+       </image>-->
 
   <!-- include sections -->
-   <xi:include href="sec-Barry-Harris-Extracts.ptx" />
-   
+
   </chapter>
