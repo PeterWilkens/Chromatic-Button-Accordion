@@ -2,25 +2,26 @@
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   we--  first include a file which contains the docinfo element: 
-  <xi:include href="./docinfo.ptx" />
+  <xi:include href="./docinfo.ptx"/>
 
   <book xml:id="my-book">
     <title>Chromatic-Button-Accordion</title>
     <subtitle>Chord and Scale Manual, Stradella and Free-Bass</subtitle>
 
     <!-- Include frontmatter -->
-    <xi:include href="./frontmatter.ptx" />
+    <xi:include href="./frontmatter.ptx"/>
     <!-- Include chapters -->
-    <xi:include href="./ch-overall-introduction.ptx" />
-    <xi:include href="chromatic-button-accordion.ptx" />
+    <xi:include href="./ch-overall-introduction.ptx"/>
+    <xi:include href="chromatic-button-accordion.ptx"/>
    <xi:include href="./ch-scales-intervals.ptx" />
-   <xi:include href="./ch-the-circle-of-fifths.ptx" />
+   <xi:include href="./ch-the-circle-of-fifths.ptx"/>
     <xi:include href="./ch-chords.ptx" />
-    <xi:include href="./ch-chord-progressions.ptx" />
+    <xi:include href="./ch-chord-progressions.ptx"/>
     <xi:include href="./ch-chord-diagrams.ptx" />
    <xi:include href="./ch-chord-melody.ptx" />
    <xi:include href="./ch-arpeggios.ptx"/>
    <xi:include href="./ch-dim6scale.ptx"/>
+   <xi:include href="./ch-Barry-Harris-More-Material.ptx"/>
    
 
     <!-- Include backmatter -->
