@@ -726,8 +726,8 @@ var ptx_lunr_docs = [
   "url": "ch-dim6scale.html",
   "type": "Chapter",
   "number": "10",
-  "title": "Barry Harris Extracts",
-  "body": " Barry Harris Extracts  The Barry Harris harmonic method is a is a way of thinking about jazz chords and melodies using 4 different 8-note scales.  The scales are based on the amalgamation of 2 Chords in each scale.   The Major 6 Chord and the Diminished 7 Chord.  The Minor 6 Chord and the Diminished 7 Chord.  The Dominant 7 Chord and the Diminished 7 Chord  The Dominant 7 5 Chord and the Diminished 7 Chord.   Combining the notes from these Chords produces an 8 note scale and harmonising the notes of those scales produces the following Chord Scales:    Major 6 Diminished Scale = Maj6 arpeggio + Diminished arpeggio.   Notes = C E G A + D F A C = C D E F G A A B      Chords built on Major 6th Diminished Scale       Minor 6 Diminished Scale = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step.   Notes = C E G A + D F A C = C D E F G A A B      Chords built on Minor 6th Diminished Scale       Dominant 7 Diminished Scale = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step.   Notes = C E G B + D F A C = C D E F G A B B      Chords built on C Dom7 Diminished Scale       Dominant 7 5 Diminished Scale = Dominant 7 5 arpeggio + Diminished 7 arpeggio up a whole step.\/   Notes = C E G B + D F A C = C D E F G A B B      Chords built on Dominant 7 5 Diminished Scale    - Barry Harris Chord Exercise   Run through Chord Scales with lead ins as per Barry Harris demos on YouTube.     Barry Harris Chord Scales on Other Chords   Using the Diminished 6 Scales to Harmonise other Chords      "
+  "title": "The   8-note Diminished Chord Scales",
+  "body": " The 8-note Diminished Chord Scales  Barry Harris harmonised chords and melodies using 4 different 8-note scales.  The scales are based on the amalgamation of 2 Chords in each scale.   The Major 6 Chord and the Diminished 7 Chord.  The Minor 6 Chord and the Diminished 7 Chord.  The Dominant 7 Chord and the Diminished 7 Chord  The Dominant 7 5 Chord and the Diminished 7 Chord.   Combining the notes from these Chords produces an 8 note scale and harmonising the notes of those scales produces the following Chord Scales:    Major 6 Diminished Scale = Maj6 arpeggio + Diminished arpeggio.   Notes = C E G A + D F A C = C D E F G A A B      Chords built on Major 6th Diminished Scale       Minor 6 Diminished Scale = Minor 6 arpeggio + Diminished 7 arpeggios up a whole step.   Notes = C E G A + D F A C = C D E F G A A B      Chords built on Minor 6th Diminished Scale       Dominant 7 Diminished Scale = Dominant 7 arpeggio + Diminished 7 arpeggio up a whole step.   Notes = C E G B + D F A C = C D E F G A B B      Chords built on C Dom7 Diminished Scale       Dominant 7 5 Diminished Scale = Dominant 7 5 arpeggio + Diminished 7 arpeggio up a whole step.\/   Notes = C E G B + D F A C = C D E F G A B B      Chords built on Dominant 7 5 Diminished Scale     "
 },
 {
   "id": "maj-6dim",
@@ -766,22 +766,13 @@ var ptx_lunr_docs = [
   "body": " Chords built on Dominant 7 5 Diminished Scale    "
 },
 {
-  "id": "BH-Chord-Exercise",
-  "level": "2",
-  "url": "ch-dim6scale.html#BH-Chord-Exercise",
-  "type": "Figure",
-  "number": "10.0.5",
-  "title": "",
-  "body": " Run through Chord Scales with lead ins as per Barry Harris demos on YouTube.    "
-},
-{
-  "id": "BH-Dim6-Harmonise-Chords",
-  "level": "2",
-  "url": "ch-dim6scale.html#BH-Dim6-Harmonise-Chords",
-  "type": "Figure",
-  "number": "10.0.6",
-  "title": "",
-  "body": " Using the Diminished 6 Scales to Harmonise other Chords    "
+  "id": "ch-BH-Extras",
+  "level": "1",
+  "url": "ch-BH-Extras.html",
+  "type": "Chapter",
+  "number": "11",
+  "title": "Extra Barry Harris Material",
+  "body": " Extra Barry Harris Material   "
 },
 {
   "id": "backmatter-2",
