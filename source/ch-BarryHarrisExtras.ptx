@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-TestChapter" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>More Barry Harris</title>
+<p>Barry Harris harmonised chords and melodies using 4 different 8-note scales.</p>
+<p> The scales are based on the amalgamation of 2 Chords in each scale.</p>
+     <ol>
+       <li>The Major 6 Chord and the Diminished 7 Chord.</li>
+         <li> The Minor 6 Chord and the Diminished 7 Chord.</li>
+     <li>The Dominant 7 Chord and the Diminished 7 Chord</li>
+     <li>The Dominant 7 <flat/>5 Chord and the Diminished 7 Chord.</li>
+     </ol>
+
+</chapter>

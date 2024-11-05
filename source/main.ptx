@@ -10,6 +10,7 @@
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx"/>
+
     <!-- Include chapters -->
     <xi:include href="./ch-overall-introduction.ptx"/>
     <xi:include href="chromatic-button-accordion.ptx"/>
@@ -19,9 +20,13 @@
     <xi:include href="./ch-chord-progressions.ptx"/>
     <xi:include href="./ch-chord-diagrams.ptx" />
    <xi:include href="./ch-chord-melody.ptx" />
-   <xi:include href="./ch-arpeggios.ptx"/>
+   <xi:include href="./ch-arpeggios.ptx" />
    <xi:include href="./ch-dim6scale.ptx"/>
-   <xi:include href="./ch-Barry-Harris-More-Material.ptx"/>
+   <xi:include href="./ch-BarryHarrisExtras.ptx" />
+
+
+   
+  
    
 
     <!-- Include backmatter -->
