@@ -8,7 +8,7 @@
     </p>
   </introduction>
 
-  <p>Chords  and scales are actually the same collection of notes.  A scale is displayed horizontally and a chord vertically.</p> 
+  
    <p> A scale is a subset of the 12 notes of an octave, and has two components:</p>
    <ol>
     <li>The notes they are comprised of;</li>
@@ -21,8 +21,7 @@
 
 Scales and chords are interrelated. A scale is a horizontal representation of a particular collection of notes and is built up in 2nds;   A chord is a vertical representation of that same collection of notes and is built in 3rds.</p>
 <p>So, for example,
-  If we take all the white notes and we go up in 2nds (or in steps), then we have the C major scale (C D E F G A B); and
-  If we take all the white notes again, but we go up in 3rds, then we have the CMaj13 (C E G B D F A) (ignore the fact that the ♮11 is not an available tension for the moment).
+  If we take all the white notes and we go up in 2nds, then we have the C major scale (C D E F G A B); and if we take all the white notes again, but we go up in 3rds, then we have the CMaj13 (C E G B D F A) (ignore the fact that the ♮11 is not an available tension for the moment).
 <p>Similarly,
   If we take all the white notes except for B♭ and we go up in 2nds, starting and finishing on the C (C D E F G A B♭), then we have C Mixolydian (or F major but starting and finishing on the C); and
   If we take those exact same notes and go up in 3rds, we have C13 (C E G B♭ D F A) (again, ignore the fact that the ♮11 is not an available tension for the moment).
