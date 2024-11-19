@@ -3,7 +3,7 @@
 <section xml:id="scale-construction" xmlns:xi="http://www.w3.org/2001/XInclude">-
   <title>Scale Construction</title>
   <p>Arranging the chromatic scale in a a circular fashion can be useful in the construction of both chords and scales.</p>
-
+<p>The notes in any scale are separated by an interval of a second (either a minor 2nd or a maj2nd).</p>
 <p>Take for example the scale of C Major. Looking at the interval pattern for a Major Scale we see it is given by a Major 2nd, a Major 2nd, a minor 2nd, a Major 2nd, a Major 2nd, a Major 2nd, a minor 2nd back to the Tonic. Using these intervals and starting on the Tonic C gives a scale of:</p> <p>C,D,E,F,G,A,B back to C.</p>
 <p>This is the scale of C Major (A scale with no sharp  or flat notes i.e all white notes.)</p>
 <p> The same approach can be applied to any tonic on the wheel and using the same interval structure will give the notes of that Tonics' Major Scale.</p>  
