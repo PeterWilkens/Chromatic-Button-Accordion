@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="chord-scale-relationship" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Scales and Chords One and the Same. </title>
+  <title>Scales, Modes and Chords. </title>
   <introduction>
     <p>
-      The following shows Chords and Scales are actually one and the same collection of notes. Scales have the notes arranged in a horizontal linear fashion and are the notes you could use with the particular chord during improvisation. Chord notes from the scale (diatonic) are arranged vertically and are played simultaneously.  
+      The following shows that Chords,Scales and Modes are actually one and the same collection of notes. Scales have the notes arranged in a horizontal linear fashion and are the notes you could use with the particular chord during improvisation. Chord notes from the scale (diatonic) are arranged vertically and are played simultaneously.  
     </p>
   </introduction>
 
   
-   <p> A scale is a subset of the 12 notes of an octave, and has two components:</p>
+   <p> A scale or mode is a subset of the 12 notes of an octave, and has two components:</p>
    <ol>
     <li>The notes they are comprised of;</li>
     <li>A tonal centre (or root note).</li>
     </ol>
  
-  <p>The (diatonic) Major Scale has 7 notes, but there’s no reason to restrict ourselves to only 7 notes. Scales can have fewer or more notes (all the way up to the Chromatic Scale with 12 notes).</p>
-  <p>If you keep all the notes of a scale the same but change the tonal centre, you create a new scale or mode. So, a mode is a scale created by establishing a new root note within a pre-existing scale. Modes are just a different way of thinking about scales and keys. Using modes allows us to allocate an individual mode/scale to every single chord in a progression.</p>
+  <p>The (diatonic) Major Scale has 7 notes, but scales can have fewer or more notes (all the way up to the Chromatic Scale with 12 notes).</p>
+  <p>If you keep all the notes of a scale or mode the same but change the tonal centre, you create a new scale or mode. So, a mode is a scale created by establishing a new root note within a pre-existing scale. Modes are just a different way of thinking about scales and keys. Using modes allows us to allocate an individual mode/scale to every single chord in a progression.</p>
  <p>
-
 Scales and chords are interrelated. A scale is a horizontal representation of a particular collection of notes and is built up in 2nds;   A chord is a vertical representation of that same collection of notes and is built in 3rds.</p>
 <p>So, for example,
   If we take all the white notes and we go up in 2nds, then we have the C major scale (C D E F G A B); and if we take all the white notes again, but we go up in 3rds, then we have the CMaj13 (C E G B D F A) (ignore the fact that the ♮11 is not an available tension for the moment).
