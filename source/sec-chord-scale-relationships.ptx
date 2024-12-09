@@ -30,58 +30,241 @@ Or again,
   C Major Scale has all the same notes as a CMaj13 chord;   C Mixolydian scale has all the same notes as a C13 chord;
   C Lydian Scale has all the same notes as a CMaj13#11 chord.
 So, then these are the scales that you would use to improvise over these chords.
-Below is a table of all the Major and Melodic Minor modes and their equivalent chords </p>
+</p>
 
-  <title>Chord Construction Major Scale</title>
  <table>
-  
-  <tabular bottom="minor" top="minor" left="minor" right="minor" halign="centre">
-        <row header="yes" bottom="medium">
+  <title>A table identifying all Major and Melodic Minor Modes and associated Chords</title>
+  <tabular top="major" halign="right">
+    <row header="yes">
+    <cell right="">Mode</cell>
+    <cell>Chord </cell>
+    <cell></cell>
+     <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell></cell>
 
-    <cell>Mode</cell>
-    <cell>Chord</cell>
-    <cell>1</cell>
+    </row> 
+    <row>
+      <cell right="minor"></cell>
+      <cell></cell>
+      <cell>1</cell>
     <cell>3</cell>
     <cell>5</cell>
     <cell>7</cell>
     <cell>9</cell>
     <cell>11</cell>
     <cell>13</cell>
-    </row> 
-    <row>
-      <cell>Major Scale Modes</cell>
-      <cell></cell>
-      <cell></cell>
-      <cell></cell>
-      <cell></cell>
-<cell></cell>
-      <cell></cell>
-      <cell></cell>
-      <cell></cell>
-
-
     </row>
     <row>
+      <cell right="minor"> <term> Major Scale Modes:</term></cell>
       <cell></cell>
-      <cell>CMaj13</cell>
-      <cell>C</cell> 
-      <cell>E</cell>
-      <cell>G</cell>
-      <cell>B</cell>
-      <cell>D</cell> 
-      <cell>F</cell>
-      <cell>A</cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Ionian</cell>
+      <cell bottom="minor" left="minor" right="none">CMaj13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B</cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A</cell>
+    </row>
+    <row>
+     <cell bottom="" right="minor" halign="right">C Dorian</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A</cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Phygrian</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin13<flat/>9<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D<flat/></cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Lydian</cell>
+      <cell bottom="minor" left="minor" right="none">CMaj13<sharp/>11</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B</cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F<sharp/></cell>
+      <cell bottom="minor">A</cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Mixolydian</cell>
+      <cell bottom="minor" left="minor" right="none">C13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A</cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Aeolian</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin1<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Locrian</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin7<flat/>5<flat/>9<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G<flat/></cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D<flat/></cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+<row>
+      <cell right="minor"> <term> Melodic Minor Scale Modes:</term></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Melodic Minor</cell>
+      <cell bottom="minor" left="minor" right="none">CminMaj7</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B</cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A</cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Phrygian <natural/>6</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin13<flat/>9</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D<flat/></cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A</cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Lydian Augmented</cell>
+      <cell bottom="minor" left="minor" right="none">CMaj13<sharp/>5<sharp/>11</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G<sharp/></cell>
+      <cell bottom="minor" >B</cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F<sharp/></cell>
+      <cell bottom="minor">A</cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Lydian Dominant</cell>
+      <cell bottom="minor" left="minor" right="none">C13<sharp/>11</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F<sharp/></cell>
+      <cell bottom="minor">A</cell>
+    </row><row>
+      <cell bottom="" right="minor" halign="right">C Mixolydian<flat/>6</cell>
+      <cell bottom="minor" left="minor" right="none">C11<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Half Diminished</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin7<flat/>5<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G<flat/></cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+    <row>
+      <cell bottom="" right="minor" halign="right">C Altered</cell>
+      <cell bottom="minor" left="minor" right="none">C7<flat/>5<flat/>9 <sharp/>9<flat/>13 (C7 alt)</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >F<flat/>(E)</cell>
+      <cell bottom="minor">G<flat/></cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D<flat/></cell> 
+      <cell bottom="minor">E<flat/>(<sharp/>9)</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row><row>
+      <cell right="minor"> <term> Other Scale Modes:</term></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right">C Harmonic Minor</cell>
+      <cell bottom="minor" left="minor" right="none">CminMaj7<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E<flat/></cell>
+      <cell bottom="minor">G</cell>
+      <cell bottom="minor" >B</cell>
+      <cell bottom="minor" >D</cell> 
+      <cell bottom="minor">F</cell>
+      <cell bottom="minor">A<flat/></cell>
+    </row>
+<row>
+      <cell bottom="" right="minor" halign="right"></cell>
+      <cell bottom="minor" left="minor" right="none">C7<sharp/>5<flat/>9<sharp/>11<flat/>13</cell>
+      <cell bottom="minor">C</cell> 
+      <cell bottom="minor" >E</cell>
+      <cell bottom="minor">G<sharp/></cell>
+      <cell bottom="minor" >B<flat/></cell>
+      <cell bottom="minor" >D<flat/></cell> 
+      <cell bottom="minor">F<sharp/></cell>
+      <cell bottom="minor">A<flat/></cell>
     </row>
     </tabular>
 </table>
 
    </p>
 
-  <figure width="100\%" xml:id="chord-scale">
-   <image source="Modes-Scales-Chords.png">
-<shortdescription>Diagrams of ii V I progressions</shortdescription>
-    </image> 
- </figure>
  <p>A 13th Chord is it’s own diatonic scale. This means that chords NOT extended all the way out to the 13th are slightly ambiguous because they are missing a few chord (and therefore scale) notes. And the key that they are in depends on the previous and subsequent chords in the progression. For this reason it is possible to play multiple scales over the same chord (if the chord is not a 13th chord). For example:
  Because a CMaj7 chord (C E G B) does NOT have an F in it, you can use the following two scales to improvise over it:   C Ionian (C D E F G A B); or
  C Lydian (C D E F# G A B).</p>
