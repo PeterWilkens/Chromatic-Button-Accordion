@@ -32,6 +32,49 @@ Or again,
 So, then these are the scales that you would use to improvise over these chords.
 Below is a table of all the Major and Melodic Minor modes and their equivalent chords </p>
 
+  <title>Chord Construction Major Scale</title>
+ <table>
+  
+  <tabular bottom="minor" top="minor" left="minor" right="minor" halign="centre">
+        <row header="yes" bottom="medium">
+
+    <cell>Mode</cell>
+    <cell>Chord</cell>
+    <cell>1</cell>
+    <cell>3</cell>
+    <cell>5</cell>
+    <cell>7</cell>
+    <cell>9</cell>
+    <cell>11</cell>
+    <cell>13</cell>
+    </row> 
+    <row>
+      <cell>Major Scale Modes</cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+<cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+
+
+    </row>
+    <row>
+      <cell></cell>
+      <cell>CMaj13</cell>
+      <cell>C</cell> 
+      <cell>E</cell>
+      <cell>G</cell>
+      <cell>B</cell>
+      <cell>D</cell> 
+      <cell>F</cell>
+      <cell>A</cell>
+    </row>
+    </tabular>
+</table>
+
    </p>
 
   <figure width="100\%" xml:id="chord-scale">
