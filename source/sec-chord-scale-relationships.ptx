@@ -34,13 +34,13 @@ So, then these are the scales that you would use to improvise over these chords.
 
  <table>
   <title>A table identifying all Major and Melodic Minor Modes and associated Chords</title>
-  <tabular top="major" halign="right">
+  <tabular top="major" right="" halign="right">
     <row header="yes">
     <cell right="">Mode</cell>
     <cell>Chord </cell>
     <cell></cell>
-     <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell></cell>
-
+     <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell ></cell>
+right="minor"
     </row> 
     <row>
       <cell right="minor"></cell>
@@ -51,10 +51,10 @@ So, then these are the scales that you would use to improvise over these chords.
     <cell>7</cell>
     <cell>9</cell>
     <cell>11</cell>
-    <cell>13</cell>
+    <cell right="minor">13</cell>
     </row>
     <row>
-      <cell right="minor"> <term> Major Scale Modes:</term></cell>
+      <cell right="minor"> <term> Major Modes:</term></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
@@ -62,7 +62,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell></cell>
       <cell></cell>
       <cell></cell>
-      <cell></cell>
+      <cell right="minor"></cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Ionian</cell>
@@ -73,7 +73,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B</cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
     <row>
      <cell bottom="" right="minor" halign="right">C Dorian</cell>
@@ -84,7 +84,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Phygrian</cell>
@@ -95,7 +95,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D<flat/></cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Lydian</cell>
@@ -106,7 +106,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B</cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F<sharp/></cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Mixolydian</cell>
@@ -117,7 +117,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Aeolian</cell>
@@ -128,7 +128,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Locrian</cell>
@@ -139,10 +139,10 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D<flat/></cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
-      <cell right="minor"> <term> Melodic Minor Scale Modes:</term></cell>
+      <cell right="minor"> <term> Melodic Minor:</term></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
@@ -150,7 +150,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell></cell>
       <cell></cell>
       <cell></cell>
-      <cell></cell>
+      <cell right="minor" ></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Melodic Minor</cell>
@@ -161,7 +161,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B</cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Phrygian <natural/>6</cell>
@@ -172,7 +172,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D<flat/></cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Lydian Augmented</cell>
@@ -183,7 +183,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B</cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F<sharp/></cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Lydian Dominant</cell>
@@ -194,7 +194,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F<sharp/></cell>
-      <cell bottom="minor">A</cell>
+      <cell right="minor" bottom="minor">A</cell>
     </row><row>
       <cell bottom="" right="minor" halign="right">C Mixolydian<flat/>6</cell>
       <cell bottom="minor" left="minor" right="none">C11<flat/>13</cell>
@@ -204,7 +204,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Half Diminished</cell>
@@ -215,7 +215,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Altered</cell>
@@ -226,9 +226,9 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D<flat/></cell> 
       <cell bottom="minor">E<flat/>(<sharp/>9)</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row><row>
-      <cell right="minor"> <term> Other Scale Modes:</term></cell>
+      <cell right="minor"> <term> Other Modes:</term></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
@@ -236,7 +236,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell></cell>
       <cell></cell>
       <cell></cell>
-      <cell></cell>
+      <cell right="minor"></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right">C Harmonic Minor</cell>
@@ -247,7 +247,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B</cell>
       <cell bottom="minor" >D</cell> 
       <cell bottom="minor">F</cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
       <cell bottom="" right="minor" halign="right"></cell>
@@ -258,7 +258,7 @@ So, then these are the scales that you would use to improvise over these chords.
       <cell bottom="minor" >B<flat/></cell>
       <cell bottom="minor" >D<flat/></cell> 
       <cell bottom="minor">F<sharp/></cell>
-      <cell bottom="minor">A<flat/></cell>
+      <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
     </tabular>
 </table>
