@@ -121,7 +121,7 @@ right="minor"
     </row>
     <row>
       <cell bottom="" right="minor" halign="right">C Aeolian</cell>
-      <cell bottom="minor" left="minor" right="none">Cmin1<flat/>13</cell>
+      <cell bottom="minor" left="minor" right="none">Cmin7<flat/>13</cell>
       <cell bottom="minor">C</cell> 
       <cell bottom="minor" >E<flat/></cell>
       <cell bottom="minor">G</cell>
