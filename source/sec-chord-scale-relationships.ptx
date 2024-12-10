@@ -250,7 +250,7 @@ right="minor"
       <cell right="minor" bottom="minor">A<flat/></cell>
     </row>
 <row>
-      <cell bottom="" right="minor" halign="right"></cell>
+      <cell bottom="" right="minor" halign="right">Other Unknown</cell>
       <cell bottom="minor" left="minor" right="none">C7<sharp/>5<flat/>9<sharp/>11<flat/>13</cell>
       <cell bottom="minor">C</cell> 
       <cell bottom="minor" >E</cell>
