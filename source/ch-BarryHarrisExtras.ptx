@@ -2,7 +2,7 @@
 
 <chapter xml:id="ch-MoreBarryHarris" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>More Barry Harris (Harmonising other scales using a similar approach).</title>
-update<p>The Barry Harris sixth diminished scale is a system for harmonizing major and minor scales.</p>
+<p>The Barry Harris sixth diminished scale is a system for harmonizing major and minor scales.</p>
 <p> The scales are based on the amalgamation of 2 Chords in each scale as shown in the previous chapter (<xref ref="ch-dim6scale" text="type-global" />).</p>
      <ol>
      <li>Voicings with Locked Hands.</li>
@@ -11,8 +11,8 @@ update<p>The Barry Harris sixth diminished scale is a system for harmonizing maj
 <p>
   The Barry Harris sixth diminished scale is a system for attaching chords to each note of a major or minor scale. Here is the C major sixth diminished scale.
 </p>
-<image source="maj-6dim.png">
-  <shortdescription>C Major6 Dim Scale</shortdescription>
+<image source="Maj6dim.png">
+  <shortdescription>C Major 6 Dim Scale</shortdescription>
 </image>
 <p>
   There are a couple things to notice. The first is that going up the scale, you’re alternating between a diminished chord and a major chord, in this case C6 and Bo7. This is what gives the Barry Harris sixth diminished scale its characteristic sound.  Diminished chords are substitutes for dominant chords. Therein lies the essence of the Barry Harris sixth diminished scale. Let’s examine the Bo7 of the C major sixth diminished scale.
@@ -31,7 +31,7 @@ We have an extra Ab in here. The reason for this is the I-V-I chord movement tha
 <p>
 You don’t run into any trouble using CMaj7 instead of C6 for the lower parts of the scale but there is a workaround if you’re intent on using CMaj7 for the entire scale. Remember that the essence of the Barry Harris sixth diminished scale is the I-V-I movement. You can preserve this by removing the Ab and adding a rootless G7 voicing of your choosing for the A. Now you preserve I-V-I chord movement everywhere in the scale except from B to C. 
 
-<image source="cmaj7-scale-complete.png">
+<image source="C Maj7-scale-complete.png">
   <shortdescription>C Major7 Dim Scale</shortdescription>
 </image>
 
